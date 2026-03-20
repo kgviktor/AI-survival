@@ -1,0 +1,144 @@
+CHAPTER 3. FOOD
+3.5 Poisonous plants — recognition and first aid
+
+INTRODUCTION
+
+Poisonous plants kill more people in survival than animals. Reason: plants look harmless; many are tasty; symptoms are delayed; no antidote for many toxins. This chapter is not a full botanical atlas — it is a survival guide: what kills fastest, how to recognize, what to do.
+
+GOLDEN RULES
+
+1. If not 100% sure — do not eat.
+2. “Almost like” a known edible — still no.
+3. One berry “to try” can kill.
+4. Children and pets are more vulnerable — smaller dose.
+5. Cooking does not neutralize all toxins (e.g., some alkaloids survive boiling).
+
+
+HOW PLANT POISONING WORKS
+
+Routes:
+— Ingestion (main).
+— Skin contact (some cause dermatitis).
+— Smoke from burning toxic plants (e.g., poison ivy/oak family — severe respiratory damage).
+
+Speed:
+— Minutes to hours: irritants, some neurotoxins.
+— Hours to days: many alkaloids, liver toxins.
+— Delayed liver/kidney failure: some mushrooms (not “plants” but often grouped with foraging risk).
+
+
+CATEGORIES OF PLANT TOXINS
+
+Alkaloids — bitter, often toxic in small amounts. Examples: nicotine-like, tropane (hallucination + organ failure), pyrrolizidine (liver).
+
+Glycosides — release cyanide or cardiac glycosides when chewed/digested.
+
+Oxalates — burning mouth, kidney damage if large dose.
+
+Photosensitizers — skin blisters in sun after contact/eating.
+
+Lectins — GI damage; often reduced by proper cooking (e.g., kidney beans must be boiled).
+
+
+DEADLY AND DANGEROUS PLANTS (TEMPERATE / WIDESPREAD PATTERNS)
+
+Lily of the valley (Convallaria majalis)
+— White bell flowers, two leaves, sweet scent. ALL parts toxic — cardiac glycosides.
+— Confused with: wild garlic (Allium — garlic smell! Lily of the valley has NO garlic smell).
+Symptoms: nausea, arrhythmia, can be fatal.
+Aid: induce vomiting only if conscious and recent; emergency care; activated charcoal if available and instructed.
+
+Hemlock (Conium maculatum)
+— Umbel like wild carrot; purple-spotted hollow stems; musty smell. Neurotoxin — paralysis, respiratory failure.
+— Confused with: wild carrot, parsley (careful!).
+Aid: emergency — respiratory support; no home antidote.
+
+Foxglove (Digitalis)
+— Tall spike of tubular purple/pink flowers. Cardiac glycosides — tiny amount can stop the heart.
+Aid: emergency; do not induce vomiting if unstable; professional care only.
+
+Oleander, yew (common ornamental/trees in many regions)
+— Oleander: all parts; yew: seeds/arils — highly toxic cardiac/neuro effects.
+Aid: emergency immediately.
+
+Castor bean (Ricinus)
+— Seeds contain ricin — extreme toxicity if chewed.
+Aid: emergency; supportive care.
+
+Poison ivy / oak / sumac (Toxicodendron)
+— Urushiol — severe dermatitis; smoke from burning = medical emergency.
+Aid: wash skin with soap and lots of water ASAP; do not burn plants.
+
+Nightshades (Solanaceae)
+— Deadly nightshade (Atropa), jimsonweed (Datura), black nightshade (some species/regions unripe berries risky) — tropane alkaloids: delirium, death.
+— Potato green parts and sprouted green potatoes — solanine.
+Aid: emergency; calm, darkness, reduce stimulation; professional care.
+
+Water hemlock (Cicuta, North America) / related umbellifers
+— Often called most toxic plant in NA; seizures minutes after ingestion.
+Aid: emergency — seizures are life-threatening.
+
+Monkshood / wolfsbane (Aconitum)
+— Beautiful hooded flowers; roots especially toxic — numbness, arrhythmia, death.
+Aid: emergency; supportive.
+
+Autumn crocus (Colchicum) — not a true crocus
+— Severe multi-organ toxicity; delayed.
+Aid: emergency.
+
+Cherry / apricot / peach pits and apple seeds (large amounts)
+— Amygdalin → cyanide if crushed/chewed in quantity.
+Aid: fresh air; emergency; possible antidotes in hospital.
+
+Rhododendron / azalea (some species)
+— Mad honey / grayanotoxins in some regions; honey from those flowers — poisoning.
+Aid: emergency if severe bradycardia.
+
+LOCAL KNOWLEDGE
+— In your region, learn the top 10 toxic plants from a local poison center or extension guide. Names and species vary by continent.
+
+
+FIRST AID FOR PLANT POISONING
+
+If conscious and ingestion just happened (minutes):
+1. Identify plant if possible (photo, sample for medics — use gloves).
+2. Call emergency / poison control.
+3. If instructed: rinse mouth; small sips water if swelling not worsening.
+4. Activated charcoal only if advised by professional — not for all toxins.
+
+Do NOT:
+— Drink milk “to bind poison” (unreliable; may delay care).
+— Random “antidotes” from folklore.
+— Induce vomiting if drowsy, seizing, or corrosive burn suspected.
+
+Skin contact:
+— Wash 15+ minutes with soap and water; wash tools and under nails.
+— Launder clothes separately.
+
+Eye:
+— Flush 15–20 min with clean water; emergency care.
+
+Delayed symptoms (hours, liver pain, dark urine, jaundice):
+— Seek care immediately — some toxins need hospital monitoring days.
+
+
+PREVENTION IN SURVIVAL
+
+1. Eat only plants you identified with a reliable regional guide + all key features (leaf, flower, stem, habitat, season).
+2. Teach children: “pretty berries” rule — none without adult ID.
+3. Do not experiment on starving days — judgment fails.
+4. Separate foraging bags — toxic samples for ID never mix with food.
+5. When in doubt, use the Universal Edibility Test only as last resort and never for mushrooms or known deadly families — many guides discourage it; zero doubt policy is safer.
+
+
+SUMMARY TABLE (MNEMONIC)
+
+Lily of the valley — bells, NO garlic smell — heart toxin.
+Hemlock — purple spots on stem — neurotoxin.
+Foxglove — tall purple tubes — heart stop.
+Nightshades — hallucination berries — tropanes.
+Poison ivy family — “leaves of three” (sumac different) — rash; smoke deadly.
+Oleander / yew — ornamental killers.
+Monkshood — hood flower — deadly roots.
+
+If unsure — you are sure you should not eat it.

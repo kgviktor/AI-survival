@@ -1,0 +1,124 @@
+CHAPTER 11. TOOLS AND REPAIR
+11.3 Repairing and making household items
+
+REPAIR MINDSET
+
+Normal life: trash it. Crisis: fix, repurpose, harvest parts.
+
+Three moves:
+1. Restore original function.
+2. Adapt to a new job.
+3. Strip for components.
+
+
+POTS AND CONTAINERS
+
+Pinhole in metal pot:
+— **Food-safe:** tin solder with iron + flux (lead-free solder for food contact).
+— Large hole: same-metal patch, solder or folded seam + peen.
+— No solder: bread dough + fat plug — **one cook only** emergency.
+
+Plastic crack:
+— Heat-weld edges with careful hot knife/nail.
+— Staples across crack (stress relief holes at ends).
+— 2-part epoxy — clean, dry surfaces essential.
+
+Leaky bucket:
+— Rubber washer + bolt sandwich through wall.
+— Bitumen / pine pitch on outside.
+
+Broken jar neck:
+— Sand sharp lip with stone/file.
+— Use open-top or cloth + rubber band lid.
+
+
+FURNITURE AND STRUCTURE
+
+Broken chair/table leg:
+— Screws + corner brackets; wooden dowel + PVA; rope wrap while glue cures.
+
+Wobbly chair:
+— Disassemble, scrape old glue, fresh PVA, clamp/rope ~8–12 h.
+
+Door binds (twist):
+— Chalk rub on strike edge — close — marks high spots; plane or sand.
+— Rehang hinges if frame moved.
+
+Defeated lock:
+— Bolt bar + hasp; internal diagonal brace (see shelter hardening chapters).
+
+Roof leak:
+— Bitumen felt / plastic sheet overlap, batten down.
+— Bitumen mastic in cracks.
+— Foam gap-fill temporary only.
+— Liquid rubber / elastomeric paint brush coat.
+
+Broken window:
+— Temp: poly sheet + duct tape + battens.
+— Replace: score glass cutter, tap underside, break clean; glaze with putty or narrow strips + pins.
+
+
+MAKING ESSENTIALS
+
+Shelf:
+— Salvage boards; metal brackets or folded strap; anchors for wall type; check level.
+
+Bed / bunk:
+— Two crates or stumps + boards; or four posts + rails + deck; or hammock fabric between anchors.
+
+Table:
+— Door slab on sawhorses; or frame + plywood top.
+
+Stool:
+— Four legs + seat + diagonal braces; or smoothed stump.
+
+Water container:
+— Heavy poly liner in wooden box.
+— Nested buckets with gap sealed.
+— Tarp-lined pit — temporary pool.
+
+Brick rocket / stove sketch:
+— Dry-stack U or L; grate on top; can-stove flue possible — detail in fire/cook chapters (`4.4` if present).
+
+Wash station:
+— Tank + threaded plastic tap; or hanging can with plug cord.
+
+Water filter (rough):
+— Gravel → coarse sand → fine sand → charcoal — bottle neck down.
+— **Still boil or disinfect** after — see water treatment chapter (`2.3`).
+
+
+METAL WITHOUT A WELDER
+
+Rivet / peen:
+— Drill both layers; nail, bolt, or rivet; peen tail on anvil or heavy steel.
+
+Bend sheet:
+— Clamp edge; bend over wood block with hammer to avoid scarring.
+
+Cut:
+— Hacksaw; cold chisel for thick stock; angle grinder if powered.
+
+Wire wraps:
+— Double twist with pliers for tight mechanical joints.
+
+
+ADHESIVES IN PRACTICE
+
+2-part epoxy:
+— Metal, wood, glass, many plastics; mix 1:1 typical; full cure ~24–48 h.
+
+Contact cement:
+— Rubber, leather, fabric — coat both sides, open time ~10–15 min, marry.
+
+Cyanoacrylate:
+— Fast small rigid bonds; weak on flex; not structural.
+
+PVA:
+— Wood, paper, cardboard; clamp while drying.
+
+Hot-melt glue:
+— Quick tack; heat- and moisture-weak — temporary/light duty.
+
+Silicone sealant:
+— Flexible waterproof joints; full cure ~24–48 h before stress.

@@ -1,0 +1,124 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.7 Transmission and clutch: failure signs, temporary fixes
+
+TRANSMISSION TYPES
+
+**Manual (MT):**
+— Driver selects gears.
+— Simpler, often more field-repairable, less parasitic loss.
+— **Preferred** for many crisis/off-road roles.
+
+**Automatic (AT):**
+— Torque converter or multi-clutch auto — uses **ATF**.
+— Complex internal repair; **overheats fast** when slipping in mud/sand.
+
+**CVT:**
+— Poor tolerance for sustained slip and heavy towing — **weakest** for hard crisis use.
+
+**4×4 / AWD:**
+— **Full-time** — always driving multiple axles (e.g. some Subaru, Audi quattro).
+— **Part-time** — driver engages 4H/4L (common on trucks, simple 4×4s).
+— Use **4H/4L only on low-traction** — prolonged dry-pavement 4×4 can **wind up** driveline.
+
+
+CLUTCH (MT)
+
+Layout: friction disc → pressure plate → flywheel. Pedal out = engine coupled; pedal in = disconnected.
+
+**Worn disc:**
+— **Slip** — revs rise, speed doesn’t under load.
+— Burnt smell on hills.
+— “Grabs high” on pedal travel.
+
+**Throw-out bearing:**
+— Noise **only when pedal pressed** — often squeal/grind.
+
+**Fork / cable:**
+— Stiff pedal; no disengagement.
+
+**Free play (cable/mechanical):**
+— Often **~20–30 mm** at pedal — spec in manual. Too little = slip; too much = hard shifts.
+
+**Hydraulic clutch:**
+— Shared or separate reservoir; **spongy pedal** = air — bleed like brakes.
+
+**Last-resort “creep start”** if clutch won’t disengage:
+— Engine off, **1st** engaged, starter cranks vehicle forward — needs strong starter/battery — **hard on geartrain** — emergency only.
+
+
+MANUAL GEARBOX — SYMPTOMS
+
+**Hard to engage:**
+— Air in hydraulic clutch.
+— Worn synchronizers (grind **2nd/3rd** common).
+— Shift linkage bent or loose.
+
+**Pops out of gear:**
+— Worn dogs/syncros; loose linkage bolts.
+
+**Noise:**
+— Neutral growl — input shaft / bearings.
+— One gear whines — that gear set.
+— Howl moving — **low oil**.
+
+
+**MT FLUID:**
+— Side plug level check; change **~60–100k km** or manual.
+— Spec often **GL-4 75W-90** (many MT) — **not** GL-5 in some synchronized boxes — **verify**.
+— Top up to hole edge.
+
+
+AUTOMATIC — SYMPTOMS
+
+— Harsh shifts — dirty/old fluid, worn clutches.
+— Missing gear — solenoid / clutch pack.
+— **Slip** — revs rise, no acceleration — friction damage.
+— **Dark burnt-smelling fluid** — overheated — service urgently.
+— Noise — bearings or converter.
+
+**ATF check** (if dipstick exists): warm, idling in **P**, correct mark.
+
+Fresh fluid often clear red; **black/brown burnt** = trouble.
+
+Change interval **~60k km** or manual; some “sealed” units still need service at shops.
+
+**AT overheat:**
+— Mud/sand wheelspin heats fluid in minutes.
+— Lamp, smell, slip — **stop 20–30 min**; check cooler lines not blocked.
+
+**Field reality:** internal AT failure → usually **tow** — not roadside rebuild.
+
+
+PART-TIME 4×4 AND TRANSFER CASE
+
+**4H** — slippery roads, dirt, snow — speed limits per manual (e.g. up to **~80 km/h** on slip).
+
+**4L** — crawl, steep pulls — **low speed** — engage **stopped** or per manual.
+
+**2H** — dry road.
+
+Don’t cruise long on **dry asphalt in locked 4H** — binding/heat.
+
+**Transfer case oil** — seasonal level check; change **~60–100k km**.
+
+
+CV JOINTS (AXLES)
+
+Transmit torque while steering (FWD / many 4×4 fronts).
+
+**Click** on full-lock acceleration — worn CV.
+
+**Torn boot** → grease out, dirt in → joint dies fast — **boot kit early**.
+
+
+PROPSHAFT (CARDAN)
+
+RWD / 4×4 rear shaft with universal joints.
+
+**Speed-related vibration** — imbalance or **worn U-joint**.
+
+**Clunk on takeoff** — worn splines / U-joint.
+
+Lift vehicle; **no play** in U-joints.
+
+**Field:** U-joint replacement possible with basic tools; if shaft fails on **FWD-based** vehicle, sometimes remove shaft and **front-drive limp** (not all vehicles — **check manual**).

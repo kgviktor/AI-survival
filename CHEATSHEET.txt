@@ -1,0 +1,59 @@
+====================================================
+    AI SURVIVAL — CHEAT SHEET  (overview: README.md)
+====================================================
+
+All commands from the REPO ROOT (folder with run.bat).
+Or: cd /d "D:\path\to\AI_survival"
+
+MODE 1: SIMPLE CHAT
+====================================================
+    run.bat qwen3.5-4b
+
+    Options: qwen3.5-0.8b  qwen3.5-2b  qwen3.5-9b
+              qwen3-4b  qwen3-8b  qwen3-14b
+              coder-7b  coder-14b
+
+    In chat: /no_think (Qwen3)  /exit
+
+
+====================================================
+MODE 2: RAG (knowledge base)
+====================================================
+
+1) SERVERS (keep two windows open)
+    start_server.bat rag
+    start_server.bat rag qwen35-9b   — different chat model
+
+    Window "Embedding Server" = 8081, current window = chat 8080
+
+2) INDEX (after adding .txt under knowledge_base\texts\)
+    .venv\Scripts\python.exe scripts\build_embeddings.py
+
+3) DIALOG
+    .venv\Scripts\python.exe scripts\ask.py
+    .venv\Scripts\python.exe scripts\ask.py "your question"
+    .venv\Scripts\python.exe scripts\ask.py --clear
+
+    History (/clear): file stores only your turns and model replies,
+    not KB chunks. Chunk and port settings — config.yaml
+
+
+====================================================
+MODE 3: VS CODE (Continue)
+====================================================
+    vs_extension\SETUP.md
+    start_server.bat coder-7b  (or coder-14b, qwen35-4b, ...)
+
+
+====================================================
+MODELS
+====================================================
+    .venv\Scripts\python.exe scripts\download_models.py --list
+    .venv\Scripts\python.exe scripts\download_models.py --model qwen3-4b
+
+
+====================================================
+PYTHON
+====================================================
+    .venv\Scripts\python.exe scripts\<script>.py
+    (optional venv activation: .venv\Scripts\activate)

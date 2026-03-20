@@ -1,0 +1,80 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.4 Solar panels: sourcing, wiring, maintenance
+
+HOW A PANEL WORKS
+
+Photons knock electrons loose in silicon → DC current.
+
+Key specs:
+— Pmax (Wp): under STC (1000 W/m², 25°C cell).
+— Voc: open-circuit voltage (~18–22 V for “12 V” nom. panels).
+— Vmp, Imp: peak power point values.
+— Isc: short-circuit current.
+
+Real daily yield (very variable):
+— Strong sun hours ~3–5/day summer mid-latitudes; ~1–2 h winter north.
+— 100 W panel might average ~300–500 Wh/day summer clear sky; near zero deep winter north / heavy cloud.
+
+
+WHERE TO FIND PANELS
+
+Roof installs on homes/cabins; garden/ag shops (~5–50 W kits); building supply; telecom repeater sites (ethics/law apply); electronics retailers.
+
+Quick test:
+1. Full sun, multimeter on terminals: Voc ~18–22 V for 36-cell “12 V” panel.
+2. Current into ~known load or approximate Isc measurement — caution: heat in short.
+
+
+NEVER PANEL DIRECT TO BATTERY
+
+Overcharge and nighttime back-drain — always use a charge controller.
+
+PWM controller:
+— Simple/cheap; holds battery at charge voltage; wastes some panel voltage headroom.
+
+MPPT:
+— Tracks maximum power point — often ~15–30% more energy than PWM in suboptimal conditions; supports higher string Voc feeding 12 V bank.
+
+Typical wiring:
+PV+ → controller PV+ → controller BAT+ → battery+
+PV− → controller PV− → controller BAT− → battery−
+Optional LOAD terminals on some controllers — obey manual low-voltage disconnect rules.
+
+Fusing:
+— Panel to controller: ~125% Isc.
+— Battery to controller: at battery, rated ≥ max controller charge current.
+
+
+CONTROLLER SIZING
+
+Controller amp rating ≥ total Isc × ~1.25 (parallel panels add Isc).
+
+
+PARALLEL / SERIES
+
+Series: voltage adds — needs MPPT tolerant of higher Voc; watch cold Voc limits.
+
+Parallel: same voltage, I adds — parallel combiner with fuses per string; blocking diodes optional against shade back-feed (many panels have bypass diodes internal).
+
+
+PLACEMENT
+
+Tilt ≈ latitude is a starting rule (adjust steeper for winter sun height).
+Face equator (south in northern hemisphere); ±30° azimuth often acceptable.
+
+Shade kills output — one bad cell can drag a string — avoid tree/chimney shadow.
+
+Low profile or hide panels in crisis if signature matters — balcony parapet, take in after charging.
+
+
+MAINTENANCE
+
+Wash dust — can cost 10–30% output.
+Snow removal in winter.
+Check connectors for corrosion.
+
+Storage:
+— Indoors; cover opaque — no light = negligible current.
+
+Repair:
+— Cracked glass may still work — seal edges; fix broken junction boxes.

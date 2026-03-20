@@ -1,0 +1,103 @@
+CHAPTER 4. HEAT, WARMTH, AND FIRE
+4.6 Body insulation: clothing, layers, sleep systems
+
+PHYSICS OF BODY HEAT LOSS
+
+Body loses heat four ways:
+— Convection: wind strips warm air at skin (~40% in many conditions)
+— Conduction: contact with cold surfaces (~25%)
+— Radiation: IR to environment (~25%)
+— Evaporation: sweat and breath (~10%)
+
+Wind doubles or triples cooling rate. Wet clothing loses ~80–90% of insulation. Cold ground steals heat faster than cold air.
+
+
+LAYERING PRINCIPLE
+
+Three layers — classic:
+
+Base layer:
+Job: move sweat off skin. Wet skin = cold skin. Best: merino wool, synthetics (polypropylene, polyester). Cotton is worst next to skin — holds moisture, dries slowly, cools. “Cotton kills” in cold/wet survival. Crisis without proper base: thin synthetic or wool. Linen better than cotton; still not ideal when damp.
+
+Mid layer (insulation):
+Job: trap warmth. Fleece, wool, down. Fleece: light, fast-drying, some warmth when damp. Down: best warmth-to-weight; useless when soaked. Synthetic fill (e.g. polyester clusters): heavier than down but retains some warmth damp — often better for harsh survival.
+
+Shell (wind/water):
+Job: block wind and precip. Should allow some moisture escape (or you wet the midlayer from inside). In crisis: plastic poncho or trash bag with holes — crude wind shell.
+
+Layer management:
+Remove midlayer when working hard — avoid soaking with sweat. Add when stopped. Wet body at rest chills fast.
+
+
+CRITICAL BODY AREAS
+
+Head:
+Up to ~30–40% heat loss can occur from head/neck in cold without cover. Hat first priority. Balaclava or anything covering ears and back of neck.
+
+Neck:
+Large vessels near surface. Scarf or high collar saves a lot of heat.
+
+Hands:
+Mittens warmer than gloves (fingers share warmth). Deep cold: thin gloves inside mittens. Bare hands in severe cold — limit to ~5–10 min work bursts.
+
+Feet:
+Cold from below (conduction through sole). Thick sole insulates from ground. Two socks: thin synthetic + wool. Do not lace boots too tight — cuts circulation, feet freeze.
+
+Groin and armpits:
+Major vessels — warm packs here help warm blood reaching extremities.
+
+
+IMPROVISED CLOTHING
+
+Newspaper insulation:
+Several layers of newsprint under outer clothes — surprisingly effective; air pockets between sheets.
+
+Polyethylene under clothes:
+Thin plastic bag on torso under layers — cuts convection. Downside: sweat trapped. Use in wind/cold when not working hard.
+
+Trash bag rain shell:
+Large bag with head/arm holes — weak but better than nothing in rain.
+
+Fur from scrap:
+Cat/dog pelts — primitive but works. Felt, heavy wool from furnishings.
+
+Stuff voids:
+Pack dry leaves, moss, paper between layers — trapped air insulation.
+
+
+SLEEP SYSTEMS
+
+Main principle:
+Insulation under you matters more than on top. Body weight compresses bottom insulation to nearly nothing. Pad under sleeping bag is critical.
+
+Sleeping bag:
+Use “comfort” rating, not extreme marketing. Down: light, best warmth/weight; useless wet. Synthetic: heavier; warmer when damp — often better for survival.
+
+Without a sleeping bag:
+
+Method 1 — blanket “matryoshka”:
+3–4 blankets. One folded on floor (bottom insulation). Lie on it; others on top. Tuck edges — block drafts.
+
+Method 2 — leaf bed:
+Large sack (sheet, cloth) stuffed with dry leaves. Leaves between blanket layers. ~15–20 cm leaf layer gives good insulation.
+
+Method 3 — debris shelter:
+Pole frame, leaves and branches. Small space body warms. Example: ~-10°C outside, inside debris hut may reach ~+10…+15°C from body heat alone.
+
+Pad (ground sheet):
+Foam panels best. Cardboard ~5–7 layers works. Bough bed ~15 cm — classic. Never sleep on bare frozen ground.
+
+Sleep position:
+Curled — less radiating surface. Hands at chest, knees toward belly. Uncurl if too warm — ventilate.
+
+
+WIND PROTECTION
+
+Wind destroys insulation:
+Even a thin windshell matters. Rule: wind block often beats adding thick loft. At ~-10°C with ~10 m/s wind, effective temperature feels like ~-20°C.
+
+Wind breaks:
+Rock, wall, dense brush — any obstacle cuts wind speed. Forest interior often 3–5× calmer than open field.
+
+Windshell materials:
+Any dense fabric. Polyethylene — excellent. Leather — traditional. Metalized film — reflects IR (emergency blankets).

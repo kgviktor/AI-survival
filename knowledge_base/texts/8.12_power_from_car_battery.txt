@@ -1,0 +1,162 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.12 Powering devices from a car battery (without the car)
+
+OVERVIEW
+
+A 12 V automotive battery off the vehicle is a standalone DC source.
+Typical capacity ~55–90 Ah → ~660–1080 Wh nameplate; **use only ~50%** of that on a starter/flooded battery or you shorten life badly.
+
+Physically: two terminals — positive (+) and negative (−). All wiring goes between those two poles.
+
+
+IDENTIFYING TERMINALS
+
+Usually:
+— Plus: red boot or “+” mark, often slightly larger post.
+— Minus: black, “−”, often thinner.
+
+If unmarked: DMM — red probe on one post, black on other; ~12.x V display means red probe is on +.
+
+POLARITY — CRITICAL
+
+Swapped +/− → short, sparks, fire or explosion risk.
+**Think twice, connect once.** Connect order: **+ first, − second.** Disconnect: **− first, + second** — reduces spark risk if a loose + lead touches chassis.
+
+
+WIRES: WHAT MATTERS
+
+1. **Cross-section (mm² / AWG)** — current capacity; thin wire + high current = heat and fire.
+2. **Length** — shorter = less drop.
+3. **Insulation** — intact; bare metal touching chassis = short.
+
+Rough guide:
+
+Load / current        | Min copper (approx.) | Example
+Up to ~5 A (phone)    | 1.5 mm² (~16 AWG)    | Light hookup wire
+Up to ~10 A (USB hub, LED) | 2.5 mm² (~14 AWG) | Auto primary wire
+Up to ~20 A (~150 W inverter) | 4–6 mm² (~10–12 AWG) | Heavy auto wire
+Up to ~80 A (~1 kW inverter) | 16–25 mm² (~6–4 AWG) | Jumper cable class
+
+Laptop via inverter: ~6 mm², length ≤ ~1.5 m typical.
+Phone via USB buck: ~1.5–2.5 mm².
+
+Sources: auto parts store PVC/hookup wire; salvage from heavy extension cord (often ~1.5–2.5 mm²); jumper cables with clamps (~16–25 mm²).
+
+DIY leads with alligator clips:
+— Correct gauge wire + two clips; strip 5–10 mm, secure under screw or crimp; tape joints; red for +, black/blue for −.
+
+
+FUSE — MANDATORY
+
+Protects wiring from fire on short. Place on **+** lead, **within ~30 cm** of battery + post.
+
+Examples:
+— USB buck to ~5 A load: **5–7 A** fuse.
+— ~150 W inverter (~15 A): **~20 A**.
+— ~300 W inverter (~30 A): **~35–40 A**.
+
+Types: automotive blade (ATM/ATC) + inline holder — cheap and common.
+
+If no fuse: never leave unattended; if wire warms, disconnect immediately.
+
+
+THREE PATHS FROM BATTERY TO LOAD
+
+PATH 1 — DIRECT 12 V
+
+For 12 V native loads: LED strip, auto lamps, 12 V pump, CB rig with cigar plug, etc.
+
+**Battery + → fuse → load +**  
+**Load − → wire → battery −**
+
+Device polarity: red = +, black = −. Swapped LED often just off; pump may run wrong way — swap leads.
+
+
+PATH 2 — USB MODULE (phones, tablets, USB-C laptops)
+
+12 V → 5 V (or PD) DC-DC “car USB” adapter.
+
+Variants:
+— Cigarette-lighter USB adapter: power the socket’s +/− from battery with fused leads.
+— Panel USB module: two wires to battery terminals, USB out.
+— 12 V → USB-C PD (e.g. 65 W) for PD-charging laptops.
+
+**Battery → 5–7 A fuse → module → USB cable → device**
+
+
+PATH 3 — INVERTER (230/120 V AC loads, stock laptop bricks)
+
+**Battery → fuse → inverter → AC outlet → laptop brick → laptop**
+
+Inverter +/− usually heavy red/black with clamps or ring terminals. Pure sine (~150–300 W class) is safer for picky laptop chargers than modified sine.
+
+Use supplied inverter leads if rated; else ~6 mm², ~1–1.5 m.
+
+
+LAPTOP SETUP (STEP BY STEP)
+
+You need:
+— ~60–90 Ah battery.
+— ~150–300 W **pure sine** inverter.
+— Two ~6 mm² leads ~1.5 m with clamps (or rings).
+— **~25 A** fuse on + within ~20–30 cm of + post.
+
+Steps:
+1. Battery on flat, ventilated surface (gassing when charging).
+2. Red: battery + → inverter + input.
+3. Black: battery − → inverter − input.
+4. Power inverter; indicator on.
+5. Plug laptop brick into inverter; connect to laptop.
+
+Monitor:
+— Battery voltage (DMM or meter): below **~12.0 V** at rest under load → stop and recharge.
+— Inverter temperature; keep vents clear.
+— Inverter idle draw (~0.5 A typical) — turn off when unused.
+
+
+RECHARGING THE BATTERY (NO CAR)
+
+1. **Mains charger** (if grid sometimes available): automatic “smart” charger to +/−; ~6–10 A → full charge many hours; follow manual.
+
+2. **Solar**: panel (e.g. 100 W) → **MPPT** (or appropriate controller for your chemistry) → battery. Sunny day effective hours → partial to full charge depending on panel/controller. See `8.4_solar_panels.txt`.
+
+3. **Generator AC**: generator → same mains charger → battery.
+
+4. **Parallel with charged battery** (jumpers): charged + to depleted +, charged − to depleted −; ~30–60 min transfers some energy — not a full charge; prefer proper charger.
+
+**Do not:** tip battery (acid spill); charge in sealed unventilated space (hydrogen); reverse polarity; charge frozen battery — warm first.
+
+
+HOW LONG WILL IT LAST
+
+Rough usable energy ≈ **Ah × 0.5 × 12 V** on a starter battery you care about.
+
+Example **60 Ah** → ~**360 Wh** usable:
+
+Load                    | Power   | Order of runtime
+Laptop (light use)      | 30–45 W | many hours
+Laptop (charging brick) | ~65 W   | ~5–6 h
+Phone charge ~15 W      | 15 W    | many phone charges
+20 Ah power bank equiv. | ~74 Wh  | ~4 full charges of that class
+LED 10 W                | 10 W    | ~36 h
+Radio receive           | 5–8 W   | long receive-only
+
+Rule: **~12.0 V** under your normal loads → stop deep discharge; recharge.
+
+
+MINIMUM KIT TO BUY AHEAD
+
+Basic (phone + light):
+— 12 V → USB module (2–4 ports).
+— Two ~2.5 mm² leads ~1.5 m with clamps.
+— 7 A fuse + holder.
+
+Extended (laptop):
+— 150–300 W pure sine inverter.
+— Two ~6 mm² leads (often included).
+— ~25 A fuse + holder.
+— Multimeter for voltage checks.
+
+Full autonomous:
+— Above + ~100 W panel + MPPT controller.
+— Second deep-cycle/AGM battery dedicated to house loads if budget allows.

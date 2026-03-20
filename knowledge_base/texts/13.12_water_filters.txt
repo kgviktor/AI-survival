@@ -1,0 +1,65 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.12 Water filters: types, limits, service life
+
+WHY FILTER
+
+Threats: turbidity; **bacteria and cysts**; viruses (smaller); dissolved chemicals; **radioisotopes** (filters cannot fully fix dissolved ions).
+
+**Match method to threat** — see also main water chapter (`2.x` in library).
+
+
+TYPES
+
+**1 Sediment / mechanical** — dirt only; pretreatment for everything else.
+
+**2 Activated carbon** — taste, some organics, chlorine; **limited** on microbes and metals.
+
+**3 Hollow-fiber membrane** — ~0.1–0.2 µm; **strong bacteria/cyst** reduction; **viruses** mostly pass; chemicals pass.
+
+**4 Ceramic** — similar microbe class as HF; brush-cleanable; heavy.
+
+**5 Ultrafiltration** — tighter than typical HF; some viral reduction.
+
+**6 Reverse osmosis** — near-total dissolved solids removal; needs pressure; slow; camp/portable units exist.
+
+**7 UV pen** — kills **clear** water biology; **pre-filter turbidity first**; batteries.
+
+**8 Chemical** — chlorine dioxide tablets, bleach dosing, iodine (iodine not for long thyroid-safe use); crypto limits on some halogens.
+
+
+COMBO FIELD KITS
+
+**Squeeze / gravity hollow-fiber** (Sawyer, Platypus, etc.) — thousands of liters rated; **backflush** restores flow.
+
+**Pump ceramic + carbon** — murky water tolerance with prefilters.
+
+**Premium pump** — some units claim **virus** protection with complex cartridges — verify test data.
+
+**Berkey-style gravity** — base camp; carbon elements; maintain per maker.
+
+
+LIMITS
+
+— **Biology filters do not remove dissolved chemical plume** or fuel — carbon helps some VOCs, not all; **avoid the source**.
+
+— **Radiation:** particulates can be filtered **if** bound to sediment; dissolved radionuclides need different methods — seek clean source.
+
+
+SERVICE
+
+— Slow flow → **backflush** HF (syringe or clean water reverse).
+
+— **Never freeze** wet hollow fibers — destroys pores.
+
+— Long storage: dry per instructions or mild chlorine rinse per maker to prevent biofilm.
+
+— Replace carbon when taste changes or rated liters reached.
+
+
+RECOMMENDED STACK
+
+**Minimum:** hollow-fiber squeeze + **chlorine dioxide** or boil backup.
+
+**Better:** HF + UV on clear output for viral worry regions.
+
+**Shelter:** multi-stage bucket (gravel/sand/char) **+** boil or chemical — char is not sterile by itself.

@@ -1,0 +1,136 @@
+CHAPTER 10. FOOD PRODUCTION
+10.4 Poultry, fish, and small livestock in urban settings
+
+WHY ANIMAL PROTEIN
+
+Plants supply carbs and some protein, but animal foods:
+— Complete essential amino acids.
+— Vitamin B12 (animal sources).
+— Omega-3 from fish.
+— Eggs/dairy (where legal and possible) without slaughter each day.
+
+In crises lasting **3+ months**, animal protein deficit becomes serious.
+
+
+CHICKENS IN THE CITY
+
+Why chickens:
+— Hardy; layers ~150–300 eggs/hen/year (breed dependent).
+— Hens are relatively quiet (**roosters** anger neighbors and may be banned).
+— Eat scraps, grain, greens, insects.
+— A few hens can cover household eggs.
+
+Where (check **local laws**):
+— Enclosed balcony — very small flock only.
+— Courtyard, back lot.
+— Lit basement — poor air, last resort.
+— Roof pen — must be fenced; fall and predator proof.
+
+Minimum housing:
+— ~0.5 m² per bird indoors + run if possible.
+— Roost: perch ~10–15 cm wide, ~50–80 cm high.
+— Nest box ~30×30×30 cm, bedding.
+— Ventilation: ammonia from manure kills productivity.
+— Cold: below ~−10 °C extended — insulate or move birds.
+
+Feed:
+— Grain mix (wheat, barley, corn) as base.
+— Vegetable scraps, bread, boiled peelings.
+— Free-range insects if safe to forage.
+— Grit + crushed shell for digestion and strong eggshells.
+— Fresh water always.
+— Rough guide ~100–150 g grain/hen/day.
+
+Breeds for small flocks:
+— Leghorn-type: high egg count.
+— Brown-egg hybrids: calm, productive.
+— Dual-purpose: meat + eggs when culled.
+— Bantams: less feed/space; smaller eggs.
+
+Manure:
+— Excellent fertilizer — compost or dry-store.
+— Manage odor: weekly litter change or deep litter with dry carbon.
+
+
+RABBITS
+
+Pros:
+— Fast meat gain (~3 months to table on good feed).
+— Eat grass, leaves, veg scraps, hay.
+— Quiet.
+— Hide + fur byproducts.
+— High reproduction if managed.
+
+Housing:
+— Cage minimum ~0.5 × 1.0 m per adult; wire floor or frequent litter.
+— Hide box inside.
+— Heat stress >~30 °C; avoid drafts + rain.
+
+Feed:
+— Hay ad lib.
+— Forage (dandelion, plantain, nettle — **no toxic plants**).
+— ~50–80 g grain/day.
+— Winter: tree bark (birch, willow, fruit woods) as supplement.
+— Water always.
+
+Harvest (graphic reality of meat):
+— Typical age ~3–4 months for fryers.
+— Humane kill: approved method for your jurisdiction (mechanical or captive bolt per local rules); skin “sock” style; meat is lean, mild.
+
+
+PIGEONS
+
+— Feral city pigeons: **trapping laws vary**; some places prohibit.
+— Domestic pairs can raise squabs several rounds/year.
+— Feed: grain, bread scraps.
+— Small meat yield but real protein.
+
+Do not house rabbits and poultry together — disease and stress.
+
+
+FISH IN TANKS / TUBS
+
+Why fish:
+— Fast growth if fed; quiet; discreet; quality protein.
+
+Carp / carp-class cyprinids:
+— Tough; tolerate low DO and temperature swings.
+— Season growth ~200–500 g possible with feeding.
+— Without aeration: stock lightly — ~5–10 kg fish per m³ **very** approximate; watch gasping at surface.
+
+Tilapia:
+— Needs ~22–30 °C water — tropical; fast growth ~500 g in ~6 months on good feed.
+— Omnivorous.
+
+Aquaponics (fish + plants):
+— Fish waste fertilizes plants; plants strip nitrogen — recirculating loop.
+— Smallest loop: fish tank + grow bed above; water lifted by hand or small pump if power exists.
+
+No electricity options:
+— Fish low, grow bed high; hand pour/siphon ~1–2×/day.
+— Aeration: cascade pour from height ~30–50 cm entrains air; or wind-treadle paddle; or brief manual bellows/pump morning and evening.
+
+Fish feed:
+— Commercial pellets — best to stock.
+— Worms from compost (`10.5_compost.txt`).
+— Insects, duckweed if you can grow it.
+— Tilapia eats some green waste.
+
+Health:
+— Gasping at surface → low oxygen or ammonia.
+— White spots → ich — improve water, reduce density; salt ~1–3 g/L sometimes helps as bridge measure — research species tolerance.
+
+
+WORMS (VERMICULTURE)
+
+Not food directly but:
+— Castings = top fertilizer.
+— Protein snack for poultry/fish.
+— Fishing bait.
+
+Bin ~60 × 40 × 30 cm, vent + drain holes.
+Bedding: damp shredded paper/cardboard + small amount of soil.
+Worms: red wigglers / Eisenia species preferred.
+Feed: veg/fruit scraps, coffee grounds, eggshells. **Avoid** meat, dairy, oily food, onion/citrus heavy loads.
+Moisture: like a wrung sponge; temp ~15–25 °C.
+Harvest castings in ~3–6 months from bottom tray or migration harvest.

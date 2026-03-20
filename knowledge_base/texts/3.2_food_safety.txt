@@ -1,0 +1,118 @@
+CHAPTER 3. FOOD
+3.2 Food safety and judging shelf life
+
+WHY THIS MATTERS
+
+Food poisoning without medical care is a serious threat. Salmonella, botulism, staphylococcal toxin can kill. Yet many foods past “best by” dates are still safe. Rule: a date label is not the moment food becomes dangerous — it is often the maker’s quality guarantee cutoff.
+
+
+DATE LABEL TYPES
+
+“Use by” / “Expires”:
+Strictest. Used for items with real post-date risk: milk, meat, fish, ready meals. After the date, risk can rise — still judge by sight and smell.
+
+“Best before”:
+Quality date, not safety. Grains, cans, pasta, dried fruit are often safe for years after. Nutrition and taste may fade, not necessarily safety.
+
+“Sell by”:
+For the store, not the consumer. Food is often fine for days after.
+
+
+ASSESSING FOOD WITHOUT LABELS
+
+“VSG” — Visual, Smell, cook thoroughly:
+
+VISUAL:
+— Visible mold? Surface mold on bread/cheese — you can sometimes trim. Deep mold — discard.
+— Canned goods: swollen lid or sides — BOTULISM RISK. Discard without opening.
+— Meat color: beef browning is not always dangerous; green or gray — dangerous.
+— Fish: dark gills, cloudy eyes — not fresh.
+
+SMELL:
+— Sour/off dairy — spoiled.
+— Ammonia or rot on meat — discard.
+— Sour smell when opening cans — suspicious; do not eat.
+— Rancid oil — oxidized; not usually acutely toxic but unpleasant.
+
+COOK (heat):
+— Heat kills most pathogens. Rolling boil 3–5 minutes is strong protection.
+— Exception: botulinum toxin breaks down after ~10+ minutes boil, but spores may survive.
+
+
+SPECIFIC FOODS
+
+Cans (if stored well):
+— Acid foods (tomato, fruit): often OK ~12–18 months past date
+— Meat/fish: ~2–5 years past date in practice
+— Vegetables: ~2–4 years
+Danger signs: swollen can, spray on opening, sour smell, foaming.
+Botulism: may have no smell; swollen can = discard.
+
+Grains and legumes:
+Nearly indefinite if dry. Pests (weevils) — toast on a skillet or rinse; product is usable. Mold from dampness — discard or cut away only if clearly localized and you are desperate.
+
+Flour and pasta:
+Flour: ~1–2 years; longer if dry. Check: bugs, mold, sour smell. Dry pasta: ~2–3 years+, often longer if stored well.
+
+Sugar and salt:
+Indefinite if dry. May cake — break up.
+
+Honey:
+Does not spoil; may crystallize — warm to reliquefy. Ancient honey remained edible.
+
+Vegetable oil:
+Unrefined goes rancid faster (~6–12 months). Refined: ~1–2 years. Rancid oil is unpleasant and less nutritious.
+
+Eggs:
+Float test: sinks horizontal — fresh (~1–7 days). Sinks but stands up — older (~2–3 weeks) but often usable. Floats — discard. No water: crack into a cup — no foul odor means likely OK.
+
+Cheese:
+Hard cheese: surface mold — trim ~2–3 cm around and use the rest. Soft cheese (cottage, ricotta): any mold — discard.
+
+Bread:
+Visible mold — discard the whole loaf; hyphae spread deeper than you see. Exception: intentionally mold-ripened cheeses if you know them.
+
+Meat and fish:
+Highest risk. If doubtful — do not eat, or boil hard (30+ minutes). Thawed frozen meat: cook soon or discard.
+
+
+SPECIFIC TOXINS
+
+Botulism:
+Most dangerous food toxin. Anaerobic conditions — home-canned goods, improperly dried meat without airflow. Swollen can is the key sign. With home canning, be skeptical. Boiling ~10+ minutes destroys toxin (not necessarily spores).
+
+Aflatoxin (mold on nuts/grain):
+Peanuts, nuts, corn with mold may contain aflatoxin — potent toxin/carcinogen. Visible mold on nuts — discard all. Bitter nut — discard.
+
+Solanum alkaloids (nightshades):
+Green or sprouted potatoes and green tomatoes. Symptoms: nausea, vomiting, cramps. Cut away all green and sprouted parts with margin.
+
+
+UNIVERSAL EDIBILITY TEST FOR UNKNOWN PLANTS
+
+If you do not know it — structured test (takes ~8 hours):
+1. Touch to lips — burning/numbing = stop
+2. Tiny piece on tongue — burning/bitter = stop
+3. Chew but do not swallow — burning/bitter = stop
+4. Swallow a small amount — wait 8 hours
+5. No reaction — eat a small portion
+6. Wait another 8 hours — still OK = relatively safer
+
+Never test on an empty stomach — hunger masks symptoms.
+
+
+USING STOCKS IN ORDER
+
+Principle: eat the most perishable first.
+
+Immediate (0–24 h):
+Fresh dairy, meat, fish (when cold chain fails).
+
+Short term (1–7 days):
+Cooked dishes, open cans, bread.
+
+Medium term (weeks–months):
+Sealed cans, grains, pasta, dried fruit.
+
+Long term (years):
+Salt, sugar, honey, white rice, dry legumes.

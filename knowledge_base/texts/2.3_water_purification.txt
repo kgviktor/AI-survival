@@ -1,0 +1,158 @@
+CHAPTER 2. WATER
+2.3 Water treatment and disinfection: boiling, chlorine, iodine, filters
+
+HAZARDS IN WATER
+
+Water can carry three hazard types:
+
+Biological (removed by boiling and chemicals):
+— Bacteria: cholera, typhoid, dysentery, leptospirosis
+— Viruses: hepatitis A, polio, norovirus
+— Protozoa: Giardia, Cryptosporidium, amoebae
+
+Chemical (not removed by boiling):
+— Heavy metals: lead, mercury, arsenic
+— Nitrates, pesticides, petroleum
+— Industrial pollutants
+Carbon filtration or distillation helps some chemicals.
+
+Mechanical (particles, turbidity):
+— Removed by settling and filtration
+— Reduces chemical disinfectant effectiveness
+— Clarify first, then disinfect
+
+
+FULL TREATMENT PIPELINE
+
+Complete treatment — three steps:
+1. Settling (30–60 minutes)
+2. Filtration
+3. Disinfection (boiling or chemicals)
+
+Skip steps only when the source is known to be clean.
+
+
+STEP 1: SETTLING
+
+Pour water into a container; do not disturb for 30–60 minutes. Large particles sink. Carefully decant the upper ~2/3 into another vessel without disturbing sediment. A pinch of alum can speed coagulation — particles clump and settle faster.
+
+
+STEP 2: FILTRATION
+
+DIY layered filter:
+Cut the bottom off a plastic bottle; invert with neck down. Layers bottom to top (flow direction toward the neck):
+— Layer 1 (at neck): cloth or cotton — catches large debris
+— Layer 2: fine clean sand (5–10 cm) — mechanical filtration
+— Layer 3: coarse gravel (5–10 cm) — pre-filter
+— Layer 4 (top): activated carbon (10–15 cm) — reduces some chemicals, odors, color
+
+Activated carbon:
+Crush pharmacy charcoal tablets. Or powder from non-resinous wood charcoal. A 10–15 cm carbon bed helps noticeably. Carbon removes: some organics, part of heavy metals, odors, color. Carbon does NOT kill bacteria or viruses and will not fix high chemical loads.
+
+Slow sand filter (biological):
+A slow sand filter grows a biofilm of beneficial microbes that reduce pathogens. Takes ~2–3 weeks to “mature.” Flow ~0.1–0.3 L/h per dm² surface. Can be very effective against bacteria (up to ~99.9%).
+
+Cloth stacking:
+Several layers of dense cloth remove particles and some cysts. Not reliable against bacteria and viruses.
+
+
+STEP 3: DISINFECTION
+
+BOILING
+
+Most reliable method. Kills bacteria, viruses, and most protozoa.
+
+Boil time:
+— Sea level: 1 minute of rolling boil is enough
+— ~2000 m elevation: 3 minutes (lower boiling point)
+— ~5000 m: 5 minutes
+— When unsure: 3–5 minutes for margin
+
+Giardia and Cryptosporidium:
+Killed at ~70 °C; boiling guarantees it. Chlorine kills Giardia but is weak against Cryptosporidium at normal doses.
+
+Note:
+Boiling does not remove chemical contaminants. Some toxins (e.g., algal toxins) are heat-stable. Taste improves if you cover the pot while cooling.
+
+
+CHLORINE (BLEACH)
+
+Active ingredient: sodium hypochlorite.
+
+Household bleach (~5–6% sodium hypochlorite):
+Per 1 L clear water: 2 drops
+Per 1 L cloudy water: 4 drops
+Wait 30 minutes before drinking
+Per 10 L: ~20 drops (~1 mL)
+
+Important:
+Use plain unscented bleach. If concentration is ~10%, halve the dose. Bleach loses strength with age — old bottles are weaker.
+
+Chlorine tablets (e.g., Aquatabs):
+Follow package directions. Often 1 tablet per liter, 30–60 minutes. More stable than liquid for storage.
+
+Chlorine limits:
+— Weak against Cryptosporidium
+— Efficiency drops sharply in turbid water (particles consume chlorine)
+— Odor can be reduced with activated carbon or by letting water stand open
+
+
+IODINE
+
+Tincture of iodine 5%:
+Per 1 L clear water: 5 drops
+Per 1 L cloudy water: 10 drops
+Wait 30 minutes
+
+Iodine tablets:
+Follow directions; often 1–2 tablets per liter.
+
+Iodine limits:
+— Contraindicated for some thyroid conditions
+— Weak against Cryptosporidium
+— Unpleasant taste/smell — vitamin C after contact time can neutralize iodine and taste
+— Not for continuous use >~3 weeks
+
+
+ULTRAVIOLET
+
+SODIS (solar disinfection):
+Fill clear PET bottles (1.5–2 L). Place on a reflective metal surface. Sun exposure:
+— Clear sky: 6 hours
+— Cloudy: 2 days
+Water must be fairly clear — filter turbid water first.
+
+Effectiveness:
+Kills many bacteria and viruses. Weaker against Cryptosporidium. Free, no chemicals.
+
+UV lamps/sterilizers:
+Fastest if you have power.
+
+
+HYDROGEN PEROXIDE
+
+3% solution (pharmacy):
+~2–3 mL per liter (~40–60 drops)
+Wait 30–60 minutes
+
+Effective against many bacteria and viruses. Breaks down to water and oxygen — little aftertaste. Less stable in storage than tablets.
+
+
+POTASSIUM PERMANGANATE
+
+Weak solution (pale pink, not dark red):
+Better for surface disinfection than as a primary drinking-water method. Overdose (dark pink/purple) burns mucosa — do not exceed.
+
+
+COMPARISON TABLE
+
+Method        | Bacteria | Viruses | Giardia | Crypto | Chemistry | Speed
+Boiling       |   +++    |  +++    |   +++   |  +++   |   no      | ~5 min
+Chlorine      |   +++    |  +++    |   ++    |   -    |   no      | 30 min
+Iodine        |   +++    |  +++    |   ++    |   -    |   no      | 30 min
+SODIS (sun)   |   +++    |  +++    |   ++    |   +    |   no      | 6 h
+Carbon alone  |    -     |   -     |    -    |   -    |   +++     | ~1 h
+Filter+carbon |   ++     |   +     |   ++    |   +    |   +++     | ~2 h
+Peroxide      |   +++    |  ++     |    +    |   -    |   no      | 60 min
+
+Recommendation: combine methods. Filtration + boiling = strong protection against most threats.

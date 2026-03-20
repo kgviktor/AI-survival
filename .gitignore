@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Models (large files)
+models/*.gguf
+models/.cache/
+
+# RAG индекс — пересобирается build_embeddings.py (тексты в texts/ в репо)
+knowledge_base/index/*
+!knowledge_base/index/.gitkeep
+
+# llama.cpp binaries — install: python scripts\setup_llama_cpp.py (see INSTALL.txt)
+bin/*
+!bin/README.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+debug.txt
+
+# RAG chat history (локально)
+history.json

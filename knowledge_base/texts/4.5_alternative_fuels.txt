@@ -1,0 +1,102 @@
+CHAPTER 4. HEAT, WARMTH, AND FIRE
+4.5 Alternative fuels in town and field
+
+WHEN WOOD IS SCARCE
+
+In urban areas wood is not always the main fuel. Knowing what burns — heat output and smoke toxicity — keeps you from freezing or poisoning yourself.
+
+
+URBAN FUELS
+
+Furniture and lumber:
+Tables, chairs, doors, flooring — become firewood. Lacquered/painted wood — toxic smoke; outdoors or strong ventilation only. Particleboard, plywood: glues release formaldehyde and other toxics — outdoors only.
+
+Paper and cardboard:
+Newspapers, books, packaging — fast burn, few coals. Good for starting. Dense cardboard lasts longer. Roll tight — burns much longer than loose. Cardboard “logs”: roll tight, tie with cord — ~20–30 min.
+
+Petroleum oils (motor oil, used oil):
+High heat. Outdoors or strong exhaust only — very toxic smoke. DIY burner: metal tray + cloth wick + oil. Mix ~1:1 with sand — slower, safer burn.
+
+Ethanol and isopropanol:
+Relatively clean burn; little CO at small scale. Denatured alcohol (may contain toxic denaturants — do not drink). Isopropanol (pharmacy) — usable in alcohol stoves with care. Low smoke — possible indoors with minimal ventilation if flame is small and room is not sealed.
+
+Candle wax and paraffin:
+Clean burn. Old candles, paraffin blocks — good fuel. DIY candles from any fat — smokier but work.
+
+Vegetable oils:
+Olive, sunflower, any cooking oil — burns in oil lamp. Some smoke; far less than heavy oils. Simple lamp: shallow dish + cloth wick + oil.
+
+Gas (cylinders):
+Propane, butane — most convenient. Shops, construction sites, homes may have cylinders. Do not discard “empty” — often residual fuel.
+
+
+FIELD / BIOFUELS
+
+Herbivore dung (dried):
+Cow, horse, deer patties when dry — excellent slow fuel. Used for generations where wood is rare. Collect dry, store dry. Burn is mostly carbon smoke, little odor when dry.
+
+Peat:
+Brown layers near bogs. Dry peat burns slow and long. Hard to ignite — add small wood to start.
+
+Coal:
+May be found at depots, homes with coal heat. High heat, long burn. Needs draft — may go out in poor stove. Strong CO risk — only with chimney.
+
+Charcoal:
+Bagged lump or briquettes for grilling. Easy lighting, even heat, low smoke. Stock if you find it.
+
+Peat briquettes, compressed logs:
+Hardware stores. Long burn, low smoke.
+
+
+UNUSUAL OPTIONS
+
+Wax stubs and fat for lamps:
+Any rendered fat — oil lamp. Hemp/linseed oil often smokes less than some others.
+
+Medical 96% ethanol:
+Very clean burn — use only in proper stove; open pouring is dangerous.
+
+Vehicle fuel (gasoline, diesel):
+Gasoline: extreme fire risk, volatile at room temp. Never routine indoor use. Outdoors only as extreme last-resort accelerant — never pour on flame. Diesel: less volatile; outdoor oil-burner use only. Toxic smoke.
+
+Antifreeze:
+Some types burn; very toxic when burned. Outdoor last resort only.
+
+
+FUEL ENERGY (ORIENTATION)
+
+Fuel              | MJ/kg  | vs birch firewood (~)
+Birch firewood    | 15–17  | 100%
+Peat              | 8–10   | ~55%
+Bituminous coal   | 25–30  | ~175%
+Charcoal          | 29–33  | ~190%
+Paper/cardboard   | 13–16  | ~90%
+Paraffin/wax      | 42–45  | ~270%
+Ethanol           | 26–27  | ~165%
+Vegetable oil     | 37–39  | ~235%
+Dry dung          | 9–12   | ~65%
+
+
+STORING FUEL
+
+Wood:
+Dry stack under cover. Season at least ~1 year when possible (green wood ~50–60% moisture; well dried ~15–20%).
+
+Liquid fuels (alcohol, oil):
+Dark glass or metal, tight cap. Away from heat and flame. Label contents and date.
+
+Gas cylinders:
+Moderate temps (not deep freeze, not >50°C). Away from heat sources.
+
+Coal:
+Dry storage. Wet coal loses performance somewhat; recovers when dry.
+
+
+FUEL ECONOMY
+
+1. Good shelter insulation = less fuel to heat.
+2. Smaller heated volume warms faster.
+3. Lidded pot ≈ half the fuel to cook.
+4. Batch cooking — one big boil beats many small ones.
+5. Retained-heat cooking — boil, insulate pot, let finish.
+6. Efficient stove/rocket design — ~30–70% vs ~5–15% open fire.

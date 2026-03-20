@@ -1,0 +1,77 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.9 Basic electronics: multimeter, simple repair
+
+MULTIMETER
+
+Measures voltage, current, resistance — core diagnostic tool.
+
+Digital (DMM): common, easy.
+Analog: sometimes passive on AC ranges.
+
+DCV: red +, black −; start high range; battery and 12 V bus checks.
+
+ACV: mains/generator — **lethal voltages** — probes and training matter.
+
+DCA: **series** in circuit; use 10 A jack if needed; wrong range blows internal fuse often.
+
+Ohms: power off in circuit; continuity beeps low Ω.
+
+Diode mode: ~0.4–0.7 V forward on silicon.
+
+
+COMMON FAULTS
+
+Won’t charge battery:
+— Battery V <10 V may be dead; charger open-circuit V should exceed battery; check fuses; continuity harness.
+
+Load dead:
+— V at load under load? If good → load fault. If zero → fuse/wire.
+
+Hot wire:
+— Measure I — overload or partial short.
+
+Alternator not charging (vehicle):
+— System V under load vs battery alone.
+
+
+SOLDERING
+
+25–40 W fine work; 40–60 W terminals.
+Tin iron; flux; shiny fillet joint; shrink tube or tape after.
+
+Cold joint: dull, grainy — reheat with flux.
+
+Emergency: tin strands over candle + rosin; or crimp lugs.
+
+
+BASIC PARTS
+
+Resistor: limits current — LED example R ≈ (Vsupply − Vf)/If → e.g. (12−3.3)/0.02 ≈ 435 Ω → use 470 Ω standard.
+
+Capacitor: bulk DC filter — respect polarity on electrolytics.
+
+Diode: 1N4007 ~1 A; 1N5408 ~3 A; blocking + rectifier.
+
+LED: always current limited.
+
+MOSFET: switch heavy DC loads (e.g. IRFZ44N class).
+
+Relay: small signal switches big load.
+
+DC-DC modules: buck 12→5 V USB common.
+
+
+COMMON FIXES
+
+Blown fuse: replace same type; if instant pop → find short.
+
+SMPS charger: swollen primary cap — replace match V rating + higher temp grade; inspect charred resistors.
+
+USB cable: red +5 V, black GND — data pair optional for charge-only repair.
+
+Corroded battery terminal: sand clean; tighten; protect with grease.
+
+
+MINIMUM TOOL KIT
+
+DMM; iron + solder + flux; tweezers; cutters; stripper; tape + heat-shrink; screwdrivers; small files.

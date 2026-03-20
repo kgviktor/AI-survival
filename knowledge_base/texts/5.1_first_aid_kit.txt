@@ -1,0 +1,118 @@
+CHAPTER 5. MEDICINE AND FIRST AID
+5.1 Basic medical kit: what to find and what substitutes
+
+KIT PHILOSOPHY
+
+In a crisis a medical kit is one of your most valuable assets. Core idea: treat what kills fast (bleeding, infection, dehydration) and what disables people (pain, inflammation). Everything else is secondary.
+
+The “not everything in one box” rule:
+Do not chase a perfect list — chase priorities. Better lots of bandaging plus one antibiotic than a shallow “everything” set of weak OTC items.
+
+
+PRIORITY 1: STOP BLEEDING
+
+Kills in minutes — top category.
+
+What to have:
+— Tourniquet: commercial (CAT, SOFTT-W) or improvised wide cloth strip ~5–7 cm. Place proximal to wound on limb for arterial bleeding.
+— Hemostatic gauze/powder: Celox, QuikClot, or very tight packing with plain gauze.
+— Israeli-style pressure bandages: several.
+— Roller gauze: wide (10–14 cm) and narrow (5–7 cm), at least ~5 of each.
+— Sterile gauze: for wound packing.
+— Wide adhesive tape: secures dressings.
+— Nitrile gloves: several pairs.
+
+Substitutes:
+Tourniquet: wide belt, cut sleeve, ~5–7 cm cloth + windlass stick. Gauze: any clean cotton cloth. Gloves: plastic bags on hands.
+
+
+PRIORITY 2: ANTIBIOTICS
+
+Infection is the second fastest killer after bleeding.
+
+Basic set (examples — verify local guidelines and allergies):
+— Ciprofloxacin 500 mg: broad spectrum, gut infections, wound infections, pneumonia. ~30 tablets.
+— Amoxicillin/clavulanate 875 mg: skin infections, bites, ENT, UTIs. ~20 tablets.
+— Metronidazole 500 mg: anaerobes (abscesses, some wound patterns), giardia, amebiasis. ~20 tablets.
+— Azithromycin 500 mg: pneumonia, some respiratory/STI patterns. ~10 tablets.
+
+Alternatives:
+Doxycycline — broad, often cheaper. Levofloxacin — fluoroquinolone alternative to cipro. With no pharmacy antibiotics — honey (weak topical antiseptic), garlic (topical), vinegar (topical) are not replacements for systemic infection.
+
+
+PRIORITY 3: ANALGESICS
+
+Pain disables people.
+
+— Ibuprofen 400 mg: pain + anti-inflammatory + fever. ~50 tablets.
+— Acetaminophen/paracetamol 500 mg: fever, gentler on stomach for some. ~30 tablets.
+— Ketorolac 10 mg: strong short-term pain (prescription in many places). ~20 tablets.
+— Tramadol: severe pain — fractures, procedures — prescription only.
+
+Substitutes:
+Willow bark: salicin (aspirin precursor). Decoction — mild analgesic. Clove oil: topical dental pain.
+
+
+PRIORITY 4: ANTISEPTICS
+
+— Chlorhexidine 0.05%: general wound antiseptic. 3–4 × ~100 ml bottles.
+— Hydrogen peroxide 3%: mechanical debris lift (bubbles). Few bottles — not for repeated long-term use on healing tissue.
+— Iodine 5% (solution or stick): skin and wound edge — not deep cavity flooding.
+— 70% ethanol: tools and intact skin.
+
+Substitutes:
+40% vodka — weaker than 70% ethanol but some use. Honey — topical. Sugar — packed in wound (hyperosmotic effect). Saline wash (~1 tsp salt per 250 ml water).
+
+
+PRIORITY 5: REHYDRATION
+
+— Oral rehydration salts (ORS): 10–20 packets, or ingredients to mix your own.
+— Activated charcoal: ~100 tablets — some overdoses, diarrhea adsorption.
+— Loperamide: reduce diarrhea when appropriate (not with bloody dysentery).
+
+
+PRIORITY 6: TOOLS
+
+— Trauma shears (blunt tip): cut clothes and bandages.
+— Tweezers: splinters, ticks.
+— Scalpel or sharp knife: abscess opening when trained.
+— Suture needles/thread (or skin stapler): wound closure.
+— Thermometer.
+— Syringes: irrigation under pressure.
+— Flashlight.
+— Nitrile gloves: ~10+ pairs.
+
+Substitutes:
+Knife for scalpel. Boiled thread (nylon/cotton) and needle — boil/sterilize carefully. Plastic bags for gloves.
+
+
+PRIORITY 7: MISCELLANEOUS
+
+— Antibiotic eye drops (e.g. ofloxacin class): conjunctivitis.
+— Antihistamines (loratadine, diphenhydramine): allergy, insect bites.
+— Antifungal cream (clotrimazole): skin fungus, thrush external care.
+— Antidiarrheal for specific pediatric protocols if stocked.
+— Mild sedatives (valerian, etc.) — stress sleep only; not for severe mental health crises alone.
+— Vitamin C — scurvy risk in prolonged crisis with no produce.
+
+Chronic disease extras:
+Diabetes: insulin, strips, glucose.
+Hypertension: 6+ month backup meds.
+Asthma: inhalers.
+Epilepsy: anticonvulsants.
+
+
+WHERE TO FIND MEDS IN CRISIS
+
+Search order:
+1. Pharmacies (may be looted — try storerooms)
+2. Hospitals and clinics
+3. Veterinary suppliers (many drugs identical or parallel to human)
+4. Homes (most people have small cabinets)
+5. Shops (OTC)
+
+Veterinary labeling:
+Ciprofloxacin, amoxicillin, metronidazole often sold for animals — frequently same drug substance. Know dosing conversion risks — human dosing references still apply per weight/indication.
+
+Storage:
+Waterproof sealed container. Cool, dark. Inventory list on lid. Check expiry yearly.

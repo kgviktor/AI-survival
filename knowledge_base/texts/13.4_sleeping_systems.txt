@@ -1,0 +1,89 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.4 Sleep systems: bags, pads, bivies
+
+WHY SLEEP GEAR = SURVIVAL
+
+Sleep debt hits strength and judgment in 24–48 h; immunity drops; wounds heal slower.
+
+**Hypothermia while sleeping kills** — insulation is non-negotiable.
+
+
+SLEEPING BAG RATINGS
+
+**EN 13537 / ISO 23537** labels:
+
+— **Comfort** — typical cold sleeper (often women’s reference).
+— **Lower limit** — curled male reference sleeper.
+— **Extreme** — survival, not comfort — **not** a camping target.
+
+**Buy comfort rating ~5–10 °C colder** than your expected low.
+
+Seasons:
+— Summer ~+10 °C and up.
+— 3-season ~0 to +10 °C class.
+— Winter serious negative temps.
+— Arctic — expedition.
+
+
+DOWN VS SYNTHETIC
+
+**Down** — fill power (FP): higher = more loft per gram. 650 FP baseline; 800+ premium. Light, compressible, long life if kept dry. **Wet down collapses** — hydrophobic treatments help.
+
+**Synthetic** (Primaloft, etc.) — heavier bulk for same warmth; **works wet**.
+
+**Survival pick:** dry climate / careful packing → down; wet environment → synthetic or treated down.
+
+
+SHAPE
+
+**Mummy** — efficient warmth-to-weight; tight for restless sleepers.
+
+**Rectangular** — roomier, heavier, colder for same fill.
+
+**Hood** — essential cold weather — major heat loss from head.
+
+
+SLEEPING PADS (CRITICAL)
+
+Ground steals heat ~30× faster than still air. **Pad R-value stacks** with sleeping bag warmth.
+
+**Foam (EVA/XPE)** — indestructible, cheap, bulky. R ~1.5–3.
+
+**Self-inflating** — foam + air; R ~2–6; puncture risk.
+
+**Air** — light; R up to ~7+ on cold models; needs inflation; puncture risk.
+
+**R-value guide:** ~1–2 summer; ~3–4 three-season; **5+** winter.
+
+**Examples:** Z-Lite foam; NeoAir XTherm-class air for cold.
+
+
+BIVY SACKS
+
+Water/wind shell over bag — adds warmth, protects down from condensation, enables minimalist shelter.
+
+**Breathable** membranes cost more; cheap plastic traps sweat.
+
+**Emergency bivy / mylar bag** — ~50–100 g; reflects radiant heat; **not** a full bag substitute — carry as backup.
+
+
+STORAGE AND CARE
+
+**Do not** long-term store compressed — hangs or large sack preserves loft.
+
+Wash down per down detergent; **dry completely** with tennis balls in dryer to restore loft.
+
+DWR spray on shell renews bead.
+
+
+COLD SLEEP STACK
+
+1. Base layers dry on body.
+2. Optional fleece liner inside bag (+few °C).
+3. Bag.
+4. Bivy outside bag if storming.
+5. Pad below — never sleep on bare ground.
+
+Head: balaclava / hat (old “40% heat loss from head” is overstated but head still matters).
+
+Feet: dry socks before bed; **Nalgene hot water** at feet — classic trick.

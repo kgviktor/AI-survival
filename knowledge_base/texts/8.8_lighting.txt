@@ -1,0 +1,87 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.8 Lighting: flashlights, DIY lamps, candles
+
+WHY LIGHT MATTERS
+
+Darkness limits work, increases injury risk, hurts morale, blocks reading/study.
+
+Goals:
+— Task lighting.
+— Minimal night safety glow.
+— Signal light when needed.
+— Light discipline — not visible outside when hiding.
+
+
+LED FLASHLIGHTS / HEADLAMPS
+
+LEDs dominate off-grid: ~5–10× incandescent efficiency; long life; rugged.
+
+Headlamp: hands-free — ~100–200 lm general work; red mode preserves night vision.
+Carry 2–3 + spare cells.
+
+Handheld/spot: outdoor search — 500–2000+ lm possible; 18650/26650 cells.
+
+Camp lanterns: diffuse room/tent light.
+
+12 V LED strips/lamps: direct on battery — ~5 W/m strips common; G4/MR16 12 V bulbs.
+
+Cells:
+— NiMH AA/AAA rechargeable; 18650 for high-power lights.
+
+Alkaline stock:
+— AA/AAA buffer stock if no recharge — cool dry storage ~years.
+
+
+CANDLES
+
+Ancient reliable light — no grid.
+
+~20 mm pillar ~6–10 h burn; ~1 candela — lights ~1–2 m.
+
+**Fire risk** — never unattended; stable base; clear combustibles; ventilation — consumes O₂, adds CO₂/soot.
+
+Boost candle output:
+— Foil/mirror reflector behind.
+— Can lantern with slots — directional glow.
+
+Stock: many small candles or large pillar ~100+ h.
+
+
+DIY OIL LAMP
+
+Wick draws oil to flame.
+
+Vessel: jar or tin.
+Fuel: vegetable oil, animal fat, mineral oil, liquid paraffin — not gasoline.
+Wick: braided cotton; 3–5 mm above oil after soak.
+
+Trim charred wick for clean flame.
+~15–20 ml/h small lamp — ~50–70 h per liter oil rough.
+
+
+RECAST CANDLES FROM stubs
+
+Double-boil wax; center wick in mold; pour; cool; demold.
+Stearin hardens wax; scents optional.
+
+
+KEROSENE / PARAFFIN LAMP
+
+Brighter than candle (~10–20 cd class).
+Maintain globe; trim wick square; adjust for smoke-free flame.
+Fuel: lamp oil, liquid paraffin — not volatile gasoline.
+
+
+SHELTER LIGHT DISCIPLINE
+
+Blackout curtains before lights.
+Minimum needed — avoid ceiling bounce out windows.
+Red filter near openings — less visible outside, preserves night vision.
+
+Zones:
+— Bright only at work sites.
+— Dark sleep zone.
+— Dim corridor path lights.
+
+Backup per room: flashlight or candle + fire starter.
+UPS night light: charges on grid, works on outage if unit healthy.

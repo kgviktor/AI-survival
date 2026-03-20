@@ -1,0 +1,151 @@
+CHAPTER 3. FOOD
+3.10 Nutrition norms and fasting
+
+PHYSIOLOGY OF FASTING
+
+What happens without food:
+
+0–24 h: glycogen used (glucose stores in liver and muscle). Hunger, reduced focus, mild dizziness. Functions still normal.
+
+24–72 h: body shifts to fat (ketosis). Hunger paradoxically eases. Mental clarity often increases. Sharp early weight loss is mostly water.
+
+3–7 days: adaptation to fasting. Body spares protein, slows metabolism. Weakness grows. Physical work becomes hard.
+
+1–3 weeks: heavy fat use. Muscle mass begins to drop. Immune system weakens.
+
+3+ weeks: exhaustion. Very low body fat — danger zone. An average adult (~70 kg, moderate fat) may survive ~40–60 days without food if water intake is adequate.
+
+Death from starvation: often not “hunger” alone — infections with weak immunity, heart failure from wasted cardiac muscle, or multi-organ failure.
+
+
+CALORIE NEEDS
+
+Basal metabolic rate (BMR) — at rest:
+— Man ~70 kg: ~1700–1800 kcal/day
+— Woman ~60 kg: ~1400–1500 kcal/day
+— Child ~10 years: ~1200–1400 kcal/day
+
+Multiply by activity:
+— Rest (illness, sheltering in cold): ×1.1 ≈ 1900–2000 kcal
+— Light (walking, shelter work): ×1.4 ≈ 2400–2500 kcal
+— Moderate (carrying load, labor): ×1.7 ≈ 2900–3100 kcal
+— Heavy (running, hard work in cold): ×2.0 ≈ 3500–4000 kcal
+
+Cold increases burn:
+At about -10°C, expenditure ~10–15% higher than at +20°C. Shivering costs a lot — insulation matters for survival, not only comfort.
+
+
+MANAGING FOOD IN SHORTAGE
+
+How low can you go:
+— 1200–1500 kcal/day: minimal survival at rest. Long-term — depletion.
+— 800–1000 kcal/day: acceptable ~1–2 weeks at very low activity.
+— Below ~500 kcal/day: serious risk after 1–2 weeks.
+
+Stretching stores:
+1. Reduce physical activity — largest controllable cost.
+2. Improve cold insulation — saves thermoregulation calories.
+3. Smaller, more frequent meals — same daily total but less acute hunger spikes.
+4. Prioritize fats: 9 kcal/g vs 4 kcal/g for protein and carbs.
+
+
+MACRONUTRIENT PRIORITIES
+
+Carbohydrates (4 kcal/g):
+— Primary fuel for brain and muscles
+— Grains, bread, roots, sugar
+— If absent, body uses fat (and eventually protein)
+
+Fats (9 kcal/g):
+— Most calorie-dense. 1 tbsp oil ≈ 120 kcal.
+— Needed to absorb vitamins A, D, E, K
+— Animal fat, plant oil, nuts, seeds
+— In survival: add fat where you can
+
+Proteins (4 kcal/g):
+— Tissue building blocks
+— If carbs and fat are low, body catabolizes muscle protein
+— Meat, fish, legumes, insects
+— Minimum guideline: ~0.8 g/kg body weight (~56 g/day for 70 kg)
+
+“Protein poisoning” / rabbit starvation:
+Very lean meat only (high protein, almost no fat) causes nausea, diarrhea, exhaustion. You need fat. Traditional wisdom: eat brains and organ fat with lean game.
+
+
+VITAMINS AND MINERALS
+
+Scurvy (vitamin C lack):
+Onset ~4–6 weeks without C. Bleeding gums, tooth loss, weakness, poor wound healing. Sources: rose hips, pine/spruce needle tea, fermented cabbage, fresh wild greens.
+
+Beriberi (thiamine B1 lack):
+Classically from polished rice only diet. Nerve and heart problems. Sources: legumes, nuts, whole grains.
+
+Anemia (iron, B12):
+Weakness, pallor, shortness of breath. Iron: meat, liver, dark leafy greens. B12: animal foods only.
+
+Vitamin A deficiency:
+Night blindness. Sources: liver, carrots, dark green and orange vegetables.
+
+Practical minimum:
+— Some fresh greens daily when possible
+— Needle tea in winter when no greens
+— Variety is rule #1
+
+
+FASTING — PRACTICAL COPING
+
+Occupation:
+Idleness worsens hunger feelings. Staying busy helps.
+
+Water:
+Adequate water blunts hunger. Warm water or weak herb/bark “tea” fills the stomach.
+
+Fiber:
+Leaves, bark cambium — low calories but bulk. Caution: too much fiber causes diarrhea.
+
+Consumption order:
+Days 1–3: eat most perishable first.
+Days 3–7: shift to main stores.
+Day 7+: rationing mode; plan resupply.
+
+Psychology of hunger:
+— Hunger comes in waves every ~2–4 h — the peak passes.
+— First 2–3 days often hardest — then often easier.
+— Fixed meal times reduce mental stress.
+— Small portions eaten slowly feel more filling.
+
+
+SPECIAL GROUPS
+
+Children:
+— Deplete faster on deficit.
+— Higher protein need per kg.
+— Serious undernutrition signs: apathy, edema, hair loss.
+— Prioritize children in rationing.
+
+Pregnant and nursing:
+— Add ~300–500 kcal/day to baseline.
+— Protein need much higher.
+— Maternal deficit directly risks infant.
+
+Elderly:
+— Less reserve to compensate.
+— Dehydration develops faster.
+— Protein need does not drop with age — often underestimated.
+
+
+QUICK STOCK CALCULATIONS
+
+If you know what you have:
+
+Grain 1 kg ≈ ~3400 kcal ≈ ~2 days at 1700 kcal for one person.
+Vegetable oil 1 L ≈ ~8100 kcal ≈ ~5 days at minimum for one person.
+Canned meat ~325 g ≈ ~450 kcal ≈ ~¼ daily minimum.
+Sugar 1 kg ≈ ~3900 kcal.
+Hard crackers 1 kg ≈ ~3400 kcal.
+
+Simple formula:
+Total kcal in stores ÷ 1700 (rough minimum) ≈ person-days for one adult.
+Divide by number of people — group coverage.
+
+Example: 5 kg buckwheat (~17,000 kcal) + 2 L oil (~16,200 kcal) + 10 cans meat (~4500 kcal) = 37,700 kcal ÷ 1700 ≈ 22 person-days for one, or ~11 days for two.

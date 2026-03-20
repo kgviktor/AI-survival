@@ -1,0 +1,122 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.5 Brakes: inspection, pad replacement, bleeding
+
+BRAKE SYSTEM — BASICS
+
+Principle: brake pedal → master cylinder → hydraulic pressure → calipers/wheel cylinders → pads/shoes clamp disc/drum → deceleration.
+
+Components:
+— Brake fluid (DOT 3 / 4 / 5.1).
+— Master cylinder (under hood, reservoir on top).
+— Hoses and hard lines.
+— Calipers with pistons (disc) or wheel cylinders (drum).
+— Discs or drums.
+— Pads or shoes.
+
+Front brakes (usually disc): do **~70–80%** of stopping; wear faster.
+Rears: disc or drum; less loaded.
+
+
+BRAKE FLUID
+
+**DOT ratings (approximate dry / wet boil points):**
+— DOT 3: ~205 °C / ~140 °C after moisture uptake.
+— DOT 4: ~230 °C / ~155 °C — very common.
+— DOT 5.1: ~260 °C / ~180 °C — harder use.
+— **DOT 5 (silicone):** **do not mix** with glycol types — special applications only.
+
+**DOT 3, 4, 5.1** are glycol-based — topping up across these may be acceptable in emergency — **follow manufacturer**.
+
+Fluid **absorbs water**:
+— In humid climates, boil point falls over **1–2 years**.
+— Old fluid can boil under hard braking → vapor in lines → **long pedal**.
+— Replace **~every 2–3 years** or per manual.
+
+**Reservoir level:**
+— Between MIN and MAX.
+— **Low** — leak **or** worn pads (pistons extended).
+
+
+INSPECTION
+
+Through wheel spokes (disc):
+— **Minimum friction material ~3–4 mm** — below that, replace.
+— Many pads have squealers — metal noise when worn.
+
+**Discs:**
+— Light even wear OK.
+— Deep grooves **&gt;~1–1.5 mm** — machine or replace.
+— Minimum thickness often stamped on hat — measure with caliper.
+— Surface rust after parking — normal; clears after a few stops.
+
+**On the road:**
+— Straight stop without pull.
+— No pedal pulse (unless ABS self-test).
+— Squeal only first stops after rain/rust OK.
+— Pedal firm, not spongy or sinking to floor.
+
+
+DISC PAD REPLACEMENT
+
+Tools: jack, stands, lug wrench, caliper bolts (often 7–14 mm), piston retract tool or careful lever with old pad, brake grease **on metal slides only**.
+
+Typical front disc job:
+1. Lift; secure; remove wheel.
+2. Remove caliper bracket bolts (layout varies) — **don’t hang caliper on flex hose** — wire to spring/strut.
+3. Remove old pads from bracket.
+4. Retract piston (watch reservoir overflow — loosen cap slightly if needed).
+5. Lube **slide pins and pad ears** per service info — **never grease friction material**.
+6. Install new pads/hardware.
+7. Reinstall caliper/torque bolts.
+8. Pump pedal until firm.
+9. Check fluid level.
+
+**First 200–500 km** — easy stops while pads bed.
+
+**Drum (many rears, older cars):**
+— Remove drum; inspect shoes, springs, wheel cylinder for leaks.
+— Replace shoes; adjust; bleed if cylinder opened.
+
+
+BLEEDING
+
+**Why:** remove air — air compresses → spongy pedal.
+
+**When:** fluid change; any opened line, caliper, cylinder; soft pedal with good level.
+
+**Order:** usually **farthest from master** — RR → LR → RF → LF — **verify your manual**.
+
+**Two-person:**
+1. Reservoir full.
+2. Clear hose on bleeder, jar end submerged in clean fluid.
+3. Helper pumps **3–4×**, holds pedal down.
+4. Crack bleeder **¼–½** turn; watch bubbles.
+5. Close bleeder before pedal release.
+6. Repeat until clear; **never run reservoir dry**.
+
+**Solo:** pressure bleeder or one-way bleed bottle / check-valve hose.
+
+
+PARKING BRAKE
+
+Weak hold:
+— Cable stretch — adjust at equalizer/rears.
+— Worn rear shoes/pads.
+— Frozen in cold.
+
+**Frozen parking brake:**
+— In hard frost, pulled shoes can ice to drums — gentle warm-up; avoid yanking.
+— On manual trans, **gear + chocks** sometimes safer than relying on handbrake alone in extreme cold.
+
+
+EMERGENCY STOPPING
+
+**No ABS:** cadence braking — near lock, ease off, reapply.
+
+**ABS:** **full pressure**, hold — pedal may pulse — **keep steering**.
+
+**Brake failure moving:**
+1. Downshift — engine braking.
+2. Parking brake — **gradual** pull (rear lock can spin vehicle).
+3. Use terrain — brush, gravel berm — not head-on unless no choice.
+4. Horn/lights — warn others.

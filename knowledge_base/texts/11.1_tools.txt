@@ -1,0 +1,163 @@
+CHAPTER 11. TOOLS AND REPAIR
+11.1 Basic tool kit: what to acquire and store
+
+HOW TO BUILD THE KIT
+
+Tools in a crisis support:
+— Shelter repair (roof, windows, doors).
+— Making essentials (furniture, containers, more tools).
+— Gear and clothing repair.
+— Resource work (firewood, metal).
+
+Priorities:
+— **Hand tools** first — work without mains power.
+— Durable, field-serviceable, simple mechanics.
+— General-purpose (one good knife beats ten odd gadgets).
+— Consumables stock: blades, abrasives, files, fasteners.
+
+
+CATEGORY 1 — CUTTING (TOP PRIORITY)
+
+Knife:
+— Fixed blade stronger than folders for hard use.
+— ~10–15 cm blade is versatile.
+— Steel: stainless (e.g. 440C, AUS-8 class) vs carbon (1095, O1) — carbon sharper/easier to sharpen, rusts.
+— Carry: primary + backup + small folder.
+— Sharpening: dual-grit stone; honing rod for touch-ups.
+
+Saws:
+— Wood saw: building, firewood.
+— Hacksaw + **10+ spare blades** (they snap).
+— Folding camp saw: pack-friendly.
+
+Axe:
+— ~1–1.5 kg forest axe: splitting, building.
+— ~0.5–0.7 kg pack axe for carry.
+— Linseed oil handles; keep edge sharp.
+
+Chisels / gouges:
+— 1–2 sizes for wood joinery and fitting.
+
+
+CATEGORY 2 — STRIKING AND PRY
+
+Hammer:
+— ~500–800 g claw or carpenter hammer.
+
+Pry bar / wrecking bar:
+— **High value:** doors, crates, rubble.
+— ~40–60 cm balances leverage vs carry.
+
+Cold chisel:
+— Metal vs masonry types differ.
+
+Sledge:
+— ~2–4 kg: stakes, demolition.
+
+
+CATEGORY 3 — FASTENERS AND LASHING
+
+Fastener stock:
+— Nails ~50 / 80 / 100 mm — kg each size as budget allows.
+— Screws ~3.5×35, 4×50, 4×70 — hundreds.
+— Bolts M8/M10 + nuts + washers.
+— Staples; wall plugs if you work concrete.
+
+Wire:
+— Soft tie wire ~1.5–2 mm.
+— Stiff steel ~3–4 mm for frames.
+— Copper electrical scrap.
+
+Tape:
+— **Duct tape** — multiple rolls.
+— Electrical tape — many rolls.
+— Painter’s / masking tape.
+— Self-amalgamating rubber — pipes, seals.
+
+
+CATEGORY 4 — LAYOUT
+
+— 5 m tape.
+— Folding rule.
+— Spirit level.
+— Square.
+— Pencil / marker.
+— Plumb bob optional.
+
+
+CATEGORY 5 — WRENCHING AND TURNING
+
+Wrenches:
+— Open/box set ~8–24 mm.
+— Adjustable (“crescent”) ~200 mm and ~300 mm.
+— Socket set + ratchet if you can.
+— Pipe wrench for plumbing.
+
+Screwdrivers:
+— Phillips Ph0–Ph3.
+— Slotted ~4, 6, 8 mm.
+— Torx T20, T25, T30.
+
+Pliers:
+— Linesman / combination with cutters.
+— Needle-nose.
+— Clamps (F-style) ×2–4 minimum.
+
+Drill:
+— **Hand drill / brace** + twist bits ~3–12 mm for grid-down work.
+— Or cordless + spare batteries + 12 V charging path.
+
+
+CATEGORY 6 — BUILDING AND FINISH
+
+— Trowel; putty knives ~100 / 200 mm.
+— Brush + small roller.
+— Manual chain saw (fool’s capstan type) for logs if relevant.
+— Brace and bit optional.
+— Hand plane.
+
+
+CONSUMABLES — STRATEGIC
+
+Without these, edges and jobs stall:
+
+— Sandpaper ~80, 120, 240 grit.
+— Files: flat, round, half-round, coarse/medium.
+— Needle files.
+— Sharpening stones.
+— Solder + flux (if you have heat source).
+— Hacksaw blades ~10–20.
+— Spare drill bits.
+— Adhesives: PVA wood glue, contact cement, 2-part epoxy, cyanoacrylate.
+— Sealants: silicone, acrylic, polyurethane.
+— Soldering iron + spare (if power available).
+
+
+WHERE TO FIND TOOLS IN CRISIS
+
+— Hardware / builder merchants (full sets).
+— General stores.
+— Apartments — almost everyone has basics.
+— Garages and workshops — often complete kits.
+— Job-site shacks.
+— Auto shops — mechanic’s tools.
+
+When scavenging:
+— Hand tools over corded-only if power uncertain.
+— Quality pays: look for known professional brands vs disposable junk.
+— Portability: what you can move.
+
+
+STORAGE AND CARE
+
+— One primary box/bag; fixed places — find by touch in dark.
+— Inventory list on lid.
+
+Care:
+— Oil steel against rust.
+— Linseed wooden handles.
+— **Sharp tools are safer** than dull — dull forces slips.
+— Dry storage.
+
+Grab-go core:
+— Knife + pry bar + hammer + pliers + tape measure + screwdrivers + duct tape.

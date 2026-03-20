@@ -1,0 +1,70 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.7 Flashlights and headlamps: lumens, IPX, power
+
+WHY LIGHT STACKS MATTER
+
+Darkness breaks security, travel, cooking, and medical work. **Multiple independent lights** are mandatory.
+
+
+FORM FACTORS
+
+**Headlamp** — hands free; repair, medicine, chores.
+
+**Handheld tactical** — more throw than many headlamps; signaling; one hand occupied.
+
+**Lantern** — 360° area light for room or tent.
+
+**Keychain light** — always-on backup — not primary.
+
+
+LUMENS (ROUGH GUIDE)
+
+— ~20–50 lm — close tasks, map.
+— ~100–200 lm — walking dark trail.
+— ~300–500 lm — confident outdoor use.
+— ~500–1000+ lm — search, long throw — **heat and drain** on turbo; check **sustained** ANSI FL1 figures, not ad peak forever.
+
+**Throw** — headlamp ~50–100 m enough for camp; handheld can reach hundreds of meters with right reflector.
+
+
+RUNTIME
+
+Turbo often **minutes**; mid modes ~10–30+ h per battery set. Plan on **medium** for real work.
+
+
+IPX RATING
+
+— IPX4 — splashes.
+— IPX6 — strong jets.
+— IPX7 — 1 m / 30 min typical claim.
+— **Survival minimum:** IPX6+ preferred; IPX7 if budget allows.
+
+**ANSI FL1** — standardized lumen, runtime, drop, water claims — compare honestly.
+
+
+BATTERIES
+
+**AA / AAA** — everywhere; alkaline or **lithium primary** for cold and shelf life.
+
+**CR123A** — compact 3 V; cold tolerant; less common.
+
+**18650 / 21700 Li-ion** — high performance; need charger and **safe handling**; great with solar USB.
+
+**Strategy:** one AA light + spare alkalines/lithium **and** one 18650 USB-charge light if you have solar/car path.
+
+**Dual-fuel** radios/lights reduce single-point failure.
+
+
+MODES
+
+Low / med / high; **red** preserves night vision for watch; **SOS** blink if you need signaling; strobe — discipline use (friendly blinding).
+
+
+SURVIVAL SET (PER PERSON MINIMUM)
+
+— Headlamp, AA or dual-fuel, weather resistant.
+— Handheld with decent throw.
+— Keychain backup.
+— **Spare cells** cached dry.
+
+**Group add:** area lantern; chem light sticks (no battery, marking, low signature option).

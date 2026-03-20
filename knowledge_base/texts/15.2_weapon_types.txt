@@ -1,0 +1,130 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.2 Weapon types: pistols, shotguns, carbines, rifles
+
+HOW GUNS DIFFER
+
+By:
+— Barrel length (pistol vs carbine vs precision rifle).
+— Ammunition (pistol cartridge vs rifle vs shotshell).
+— Cycling (manual, semi-automatic, selective fire where legally present).
+— Operating principle (pump, gas, recoil, bolt, etc.).
+
+Knowing types helps you **identify** a found gun, **handle** it correctly, and judge **capability and limits.**
+
+
+PISTOLS
+
+Traits:
+— Short barrel (~**7–15 cm** typical).
+— Pistol cartridges: **9 mm**, **.45 ACP**, **.40 S&W**, etc.
+— One- or two-hand grip.
+— Practical effective range often **~10–50 m** for most users (training-dependent).
+
+**Semi-automatic (self-loading):**
+— Magazine in grip.
+— Each shot: slide cycles, ejects case, loads next round.
+— Magazine capacity often **~10–17** (varies widely by model and law).
+— Examples: Glock 17/19, Beretta 92, Sig P226, many military/police sidearms.
+
+**Makarov-class (9×18 mm) pistols:**
+— Still common in Eastern Europe and former Soviet-influenced regions.
+— Typical magazine **~8** rounds; simple, robust layout.
+— **Safety:** many variants use a **slide-mounted lever** — learn the specific model (up/down = fire/safe varies — **verify before handling**).
+
+**Revolver:**
+— **5–8** rounds in a rotating cylinder; no detachable magazine.
+— Often very reliable feeding; slower to reload.
+— Single-action (cock hammer) vs double-action (trigger cocks and releases).
+
+
+SHOTGUNS (SMOOTHBORE)
+
+Traits:
+— **Smooth** bore (no rifling) for shot; some loads use rifled slugs.
+— Shells with shot, buckshot, or slug.
+— Shot pattern: often **~20–40 m** “effective” depends on choke/load; slugs farther (**~100–150 m** possible with skill).
+— Very high **stopping effect** at close range.
+
+**Gauges:** **12** most common; **16**, **20**, **.410** less so.
+
+**Pump-action:**
+— Handguard cycles action; one round per stroke.
+— Simple, reliable; tube magazine often **~3–8** rounds (law and plug-dependent).
+— Examples: Mossberg 500/590, Remington 870; many regional clones.
+
+**Semi-auto shotguns:**
+— Gas or inertia operation.
+— Examples: Benelli M4, Beretta 1301 class.
+
+**Break-action (side-by-side / over-under):**
+— Two barrels; two shots, then manual reload.
+— Very simple mechanics; common hunting guns worldwide.
+
+**Shell contents:**
+— **Shot** — many small pellets; birds/small game.
+— **Buckshot** — large pellets — defense/large game (check local law).
+— **Slug** — single projectile; Brenneke/Foster-style common in smoothbores.
+
+
+RIFLES AND CARBINES
+
+**Rifled** bore spins the bullet for stability → accuracy at distance.
+
+**Semi-auto carbines (civilian-legal in many places):**
+— Shortened rifles; often intermediate or full-power cartridges.
+— Examples vary by region: AK-pattern semiautos, AR-15 pattern, hunting self-loaders.
+
+**Bolt-action hunting rifles:**
+— Manual bolt lift/pull/push — slow reload, high precision potential.
+— Examples: Tikka, Browning X-Bolt class; many regional bolt guns.
+
+**Bolt operation (concept):**
+— Lift handle → pull back (extract/eject) → forward (chamber) → close (lock).
+
+**Common cartridges (examples):**
+— **.22 LR** — small, cheap training/small game.
+— **7.62×39 mm** — very common globally (AK-family lineage).
+— **5.45×39 mm** — AK-74 lineage where encountered.
+— **7.62×54R** — older military/hunting long range in Eastern Europe and Asia.
+— **5.56×45 mm NATO** — AR-15/M16 family.
+— **.308 Win / 7.62×51 mm** — NATO/western hunting and battle-rifle class.
+
+
+SELECT-FIRE RIFLES (E.G. AK FAMILY) — MILITARY CONTEXT
+
+**AKM / AK-47 / AK-74 / AK-12** pattern rifles are widespread in some conflict zones and former military stocks.
+
+**Military** versions may have **full-auto** or burst; **civilian** clones are often **semi-auto only** — **legality varies by country.**
+
+**AK-pattern selector (typical military layout — verify each gun):**
+— Often **top** = full-auto (where present), **middle** = semi, **bottom** = safe — **or** safe blocks the charging handle — **learn the specific firearm.**
+
+**Carry with selector on safe** when moving unless immediate use is justified and lawful.
+
+**Mag-fed semi-auto shotguns** (e.g. “Saiga-12” class): **5–10** round magazines common — same safety rules as any semi-auto.
+
+
+SUBMACHINE GUNS / PDWS
+
+Pistol cartridge; selective fire in military form; compact.
+Examples in some militaries: Bizon, PP-2000 class — **civilian possession usually heavily restricted.**
+
+
+RANGE COMPARISON (RULE OF THUMB)
+
+| Type        | Typical practical range |
+|------------|-------------------------|
+| Pistol     | To ~50 m (most users less) |
+| Shotgun (shot) | ~20–40 m |
+| Rifle/carbine | ~100–600+ m (cartridge/optics/skill) |
+| Military rifle (semi) | ~300–400 m area targets with iron sights |
+
+
+IDENTIFYING A FOUND GUN — FIRST LOOK
+
+1. **Safe direction.**
+2. **Pistol?** Short barrel, grip below action.
+3. **Shotgun?** Long smooth barrel; break-open or pump forend.
+4. **Rifle/AK pattern?** Long barrel, magazine often ahead of trigger.
+5. Locate **safety** and **magazine release** only **after** muzzle and finger discipline.
+6. Then follow **15.4** to clear the weapon.

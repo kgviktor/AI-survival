@@ -1,0 +1,154 @@
+CHAPTER 10. FOOD PRODUCTION
+10.1 Growing indoors: windowsill and balcony
+
+WHY GROW INSIDE
+
+In a long crisis (weeks to months) stored food runs out. Apartment growing:
+— Fresh greens, vitamins, some calories.
+— No yard required.
+— Relatively discreet.
+— Works with minimal inputs.
+
+Realistic expectations:
+— You cannot fully feed a family from one windowsill alone.
+— Sprouts, microgreens, small roots — very doable.
+— Psychological boost: living food improves morale.
+
+
+LIGHT IS THE MAIN LIMIT
+
+Rough daily needs:
+— Leaf herbs (parsley, dill, basil, spinach): ~4–6 h direct sun **or** ~12–16 h good artificial.
+— Tomatoes, peppers: ~6–8 h direct sun — poor on a sill without supplemental light.
+— Sprouts: almost no light needed.
+— Microgreens: ~2–4 h.
+
+Best windows:
+— South / southwest: most sun.
+— High latitudes in winter: often too dark without grow lights.
+— Supplement: “full spectrum” LED or neutral white ~5000–6500 K.
+  — ~15–25 cm above plants.
+  — ~10–30 W for a small shelf.
+  — If power is scarce: run lights ~4–6 h from battery/solar.
+
+Mirrors and foil:
+— Reflective surfaces around the window add useful photons.
+— Foil on side walls can add up to ~30% effective light.
+
+
+WHAT YOU CAN ACTUALLY GROW
+
+Sprouts (fastest — ~3–7 days, little or no soil):
+— Wheat, lentils, mung, chickpeas, peas, soy, radish, sunflower.
+— Rich in vitamins (C, B-group, E) and enzymes.
+— Soak seeds ~8–12 h → rinse ~2×/day in a jar with mesh lid.
+— By day ~3 often ready to eat.
+— Yield ~3× seed volume by mass.
+
+Microgreens (~7–14 days):
+— Sunflower, mustard, radish, broccoli, pea, wheat, sesame.
+— Sow densely in shallow trays (~2–3 cm medium).
+— Snip at ~5–8 cm.
+— Low calories but nutrient density can be many times mature leaves.
+
+Leaf crops (~2–4 weeks to first pick):
+— Leaf lettuce: fastest, easy. Pick outer leaves → cut-and-come-again.
+— Spinach: cool-tolerant; iron and vitamins.
+— Dill, parsley: slower (~4–6 weeks) but valuable.
+— Green onion: bulbs in a glass of water → shoots in ~7–10 days — easiest trick.
+— Basil, mint, lemon balm: pots; harvest gradually.
+
+Root crops (~2–3+ months):
+— Radish: fastest root (~20–30 days). Pot depth ~15 cm.
+— Carrot: ~70–90 days; deep pot ~30+ cm.
+— Potato: bag or ~20 L bucket; ~70–90 days.
+— Beet: ~60–70 days.
+
+Fruiting (~3+ months, pollination needed):
+— Cherry tomatoes: compact types; ~60–80 days to fruit.
+— Peppers: productive over a long season.
+— Cucumbers: quick (~40–50 days); trellis; hand-pollinate indoors.
+
+
+CONTAINERS AND MEDIUM
+
+Containers:
+— Pots, totes, buckets, crates, milk cartons, Tetra Paks — anything that holds soil.
+— **Drainage holes mandatory** — else root rot.
+— Leaf crops: ~0.5–1 L soil per plant.
+— Tomatoes/peppers: minimum ~5–10 L.
+— Potato: ~15–20 L.
+
+Growing medium:
+— Bagged potting mix: ideal.
+— Garden soil: usable but may import pests/disease.
+— DIY: compost (~50%) + perlite or sand (~30%) + garden soil (~20%).
+— Coco coir: light, holds water, neutral, durable.
+— Soilless / hydro: see `10.3_hydroponics.txt`.
+
+Drainage:
+— ~2–3 cm layer of gravel, clay pebbles, broken pots at bottom.
+— No drainage → standing water → rot.
+
+
+WATERING AND FEEDING
+
+Water:
+— Check top ~2–3 cm — if dry, water.
+— Greens: often every 1–2 days.
+— Roots, tomatoes: ~every 2–3 days.
+— Overwatering hurts more than slight underwatering for many plants.
+— Room-temperature water; if chlorinated, let stand ~24 h.
+
+Feeding after ~3–4 weeks (nutrients deplete):
+— Compost tea: compost + water, steep ~24 h, dilute, water in.
+— Wood ash leachate: potassium and phosphorus; alkaline — use sparingly.
+— Crushed eggshell: calcium.
+— Banana peel soak: potassium.
+— Yeast feed: ~1 g yeast + ~1 tsp sugar per liter — mild growth boost.
+
+
+BALCONY
+
+Extra benefits:
+— More light (outdoor or open railing).
+— More area.
+— Air movement — fewer fungal issues.
+
+What to add vs windowsill only:
+— Tomatoes, cucumbers, zucchini, beans.
+— Perimeter boxes for greens and radish.
+— Vertical pockets: burlap, PET bottles on walls.
+
+Winter glazed balcony (~5–15 °C):
+— Green onion, spinach, lettuce — slow but alive.
+— Garlic cloves for greens → shoots in ~2 weeks.
+— Frost threat: move tubs inside.
+
+Vertical PET towers:
+— Cut ~1.5–2 L bottles; side holes for plants; fill with medium; hang or wall-mount.
+— Good for greens, strawberry, radish.
+
+
+SEED BANK
+
+Strategic stock:
+— Buy varieties you will actually grow.
+— Store in airtight bag + desiccant; cool, dark.
+— Viability: many seeds ~2–5 years (carrot, onion shorter; tomato, cucumber, pepper longer).
+
+Good staples:
+— Onion (fast greens).
+— Radish.
+— Leaf lettuce, spinach.
+— Dill, parsley.
+— Cherry tomato.
+— Peas (food + sprouts).
+— Lentils, mung (sprouts).
+— Sunflower (sprouts + oil crop).
+— Beans (dry storage + fast vine).
+
+Saving your own:
+— Let fruit fully ripen on plant.
+— Clean seeds; dry ~1–2 weeks in shade; paper envelope + label.
+— Tomatoes: ferment seeds in water ~3–4 days to remove gel → rinse → dry.

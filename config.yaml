@@ -1,0 +1,30 @@
+# AI Survival — RAG and indexing (ports match start_server.bat)
+paths:
+  models_dir: "./models"
+  knowledge_base: "./knowledge_base"
+
+rag:
+  host: localhost
+  chat_port: 8080
+  embed_port: 8081
+  top_k: 5
+  max_history_pairs: 20
+  max_chunk_chars: 15000
+
+indexing:
+  chunk_chars: 1500
+  overlap_chars: 300
+
+chat_api:
+  max_tokens: 1024
+  temperature: 0.7
+
+# System prompt for ask.py (single system block for Qwen-style templates)
+system_prompt: |
+  You are an autonomous AI assistant focused on survival and preparedness. Answer briefly and to the point.
+  When the knowledge base contains relevant information, rely on it.
+  Prioritize safety and practicality. If unsure, say so.
+  Write your responses in the same language as the user.
+
+  IMPORTANT: answers are informational only; they do not replace a doctor, instructor,
+  or emergency services. In danger, seek professionals.

@@ -1,0 +1,126 @@
+CHAPTER 9. COMMUNICATIONS AND INFORMATION
+9.5 Collecting and assessing situational information
+
+INFORMATION AS A SURVIVAL RESOURCE
+
+Bad intel kills:
+— “That route is safe” → ambush or exposure.
+— “Food there” → wasted march or trap.
+— “It’s over” (false) → you stay and lose.
+— “Hazmat upwind” → you mask and detour in time.
+
+Keep updating:
+— Where are threats (armed groups, fire, contamination)?
+— Where are resources (water, food, meds, fuel)?
+— Which routes are viable?
+— What are authorities doing?
+— Is the trend improving or deteriorating?
+
+
+SOURCES
+
+Radio:
+— National/local AM/FM: official summaries.
+— Shortwave: international and regional broadcasters.
+— Ham traffic: eyewitness nets (accuracy varies).
+— Scanner: public-safety traffic **where legal**.
+**Bias:** official channels may omit or spin; **cross-check.**
+
+People:
+— Most timely, least reliable: rumors, fear, lies.
+**Check** against multiple independent witnesses.
+
+Direct observation:
+— Highest fidelity **for your line of sight**; limited range.
+— Patrol scouts extend this.
+
+Physical traces:
+— Tracks, smoke, smell, building damage, animal behavior — honest but need interpretation.
+
+Notes left by others:
+— “Danger,” “water this way” — verify age and motive.
+
+Internet / messengers (early crisis):
+— Fast; also rumor firehose; state and non-state disinfo.
+
+Off-grid mesh (where deployed):
+— Meshtastic, goTenna-class — no central server; **~1–5 km** mesh pockets; still spoofable.
+
+
+CREDIBILITY (NATO-style reporting shorthand — adapted)
+
+**Source reliability**
+A — Confirmed reliable (your eyes; vetted partner).
+B — Usually reliable.
+C — Unreliable history but maybe right now.
+D — Unknown.
+E — Known liar / panic source.
+
+**Information credibility**
+1 — Confirmed by independent sources.
+2 — Probably true.
+3 — Possibly true.
+4 — Doubtful.
+5 — Improbable.
+
+Example: **A1** → act urgently if stakes demand. **D4** → ignore until corroborated.
+
+Field simplification:
+— Eyewitness vs hearsay vs rumor?
+— Distance from event?
+— How old is the report?
+— Does it match other channels?
+
+
+COMMON ANALYSIS ERRORS
+
+Telephone game:
+— “One armed man” → “platoon” after four retellings. **Trace to origin.**
+
+Confirmation bias:
+— Believing what you hope — “it’s getting better” while risk rises. **Hunt disconfirming data.**
+
+False urgency:
+— “Decide now!” — classic manipulation. **Pause and verify** when safe.
+
+False authority:
+— “They said on radio…” — compare to other sensors.
+
+
+SITUATION LOG
+
+Why:
+— See trends, not vibes.
+— Evidence-based decisions.
+
+Row format:
+`[Date/time] | Source | Fact | Grade (e.g. B2)`
+
+Examples:
+“Mar 15 09:40 | national radio | aid point open at City Hall | A2”
+“Mar 15 11:00 | northbound traveler | armed checkpoint ~3 km north | C3”
+“Mar 15 13:15 | own eyes | east horizon smoke, burnt smell | A1”
+
+Map sketch:
+— X = threat, O = resource, arrow = confirmed safe movement, ? = unverified.
+
+Analysis habits:
+— Convergence from independent sources → higher confidence.
+— Single extreme outlier → verify before betting lives.
+— Timestamp everything — intel rots fast.
+
+
+COLLECTION PRIORITIES
+
+First 24 h:
+— Utilities status (water, power, fuel).
+— Are official services functioning?
+— Threat class: random vs organized; short vs prolonged?
+
+Days 2–7:
+— Armed presence map; open routes; food/water; recovery vs collapse signals.
+
+Weeks+:
+— Power balance; “safe” zones; emerging rules of the new normal.
+
+**Never** assume the picture is complete — it changes hourly.

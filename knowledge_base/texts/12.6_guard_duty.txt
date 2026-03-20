@@ -1,0 +1,109 @@
+CHAPTER 12. GROUP AND SOCIAL SURVIVAL
+12.6 Security watches: shift organization
+
+WHY 24/7 COVERAGE
+
+Threats do not sleep. Many probes hit **night or first light**. One unguarded hour can end everyone.
+
+Security provides:
+— Early warning time.
+— Deterrence against quiet entry.
+— Situational updates.
+— Group reassurance.
+
+
+PERIMETER LAYERS
+
+Define what you **control** — smaller solid beats large porous.
+
+Typical rings:
+— **Outer:** yard, approaches.
+— **Inner:** entries, stairs, halls.
+— **Core:** living space / safe room.
+
+Hardening references: shelter chapter (e.g. `1.2` if in your library) — blocked doors, noise trips, observation windows.
+
+
+WATCH SYSTEM
+
+Rules:
+— **Continuous** coverage — no gaps.
+— **Rotation** — nobody on watch forever.
+— Aim **≥6 h** sleep between shifts when possible.
+— Minimum **1** awake; **2** is better (one can micro-nap while partner scans).
+
+Shift length:
+— **2–3 h** ideal alertness window.
+— **4 h** max before effectiveness drops.
+— Nights: keep shifts short — sleep pressure wins.
+
+Example — six people, three pairs (illustrative):
+— Rotate pairs through night blocks; next day shift pairs so same people are not always on the worst slot.
+
+Tiny group (3–4):
+— ~3 h on / ~6 h off pattern; daylight may relax to interior observation only; **never** bare night post.
+
+
+DUTIES ON WATCH
+
+— Scan observation arcs every **15–20 min**.
+— **Listen** — night audio beats night vision often.
+— Stay mobile; avoid warm silent chair trap.
+— **Raise alarm** on ambiguous threat — false positive beats silent failure.
+— Log time, sightings, sounds.
+
+Alarm triggers:
+— Human movement near wire.
+— Footsteps, voices, tools on fence.
+— Smoke, nearby fire.
+— Changed markers (moved object, cut trip).
+— Gut “wrong” — still report.
+
+
+ALARM SIGNALS
+
+Pre-brief:
+
+**Quiet alert** — e.g. three knocks — “check it out.”
+
+**Full alert** — whistle, shout code, metal on rail — “everyone up **now**.”
+
+Handoff:
+— Verbal pass: “Quiet. Saw… Heard…”
+
+**Duress words** — e.g. “table” = OK, “chair” = danger — rotate periodically.
+
+
+NIGHT VISION HABITS
+
+— Avoid bright lights 15–20 min before post.
+— Use **peripheral** gaze for shapes — rods see motion better off-center.
+— Motion pops before static objects.
+
+Stay awake:
+— Stand, pace, light snack mid-shift.
+— Splash cold water if nodding off.
+
+**Sleeping on watch** — first: warning; repeat: lose night privileges; pattern: group review — it endangers all.
+
+
+OBSERVATION POSTS
+
+Kit:
+— Cover from silhouetting; view of main approaches.
+— Seat or knee pad; binocs if available; notebook; drink.
+— Whistle or noisemaker.
+
+Multiple posts (larger group):
+— Primary best field of fire/view; secondary rear; inner door guard.
+
+**Dead zones** — string noise traps or periodic patrol.
+
+
+OUTSIDE RECON
+
+— ≥**daily**, better **twice**, **variable times** — predictability is weakness.
+— **Pairs**; stated route; **latest return time** — overdue = assume trouble.
+
+Returning:
+— **Signal approach** — agreed knock or light — so watch does not engage friendlies.

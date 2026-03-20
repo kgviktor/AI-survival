@@ -1,0 +1,112 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.6 Malfunctions: misfire, jam, double feed
+
+WHAT A “MALFUNCTION” IS
+
+Any interruption in the firing cycle that is **not** a broken part — often fixable in seconds.
+
+**Panic is the enemy.** Use **deliberate** steps, not guesses.
+
+
+BASELINE: TAP–RACK (SEMI-AUTO PISTOL / RIFLE)
+
+For many self-loaders:
+
+1. **TAP** — Smack magazine base **upward** — seated fully?
+2. **RACK** — Pull charging handle/slide **fully** back, **release** — ejects problem round/case, chambers fresh.
+3. Re-acquire target; decide whether to fire again.
+
+Fixes many **fail-to-feed** and some **stovepipes.** If not, go deeper.
+
+
+MISFIRE (CLICK, NO BANG)
+
+**Causes:** bad primer, weak mainspring, broken firing pin, oil in primer pocket, bad ammo.
+
+**Hangfire risk:** shot may fire **late** (**1–30 s** possible — treat seriously).
+
+**Steps:**
+1. **Muzzle safe** direction.
+2. **Wait ~30 seconds.**
+3. **Tap–rack** or manually clear per manual — eject the round.
+4. **Segregate** that round — do not mix with “good” ammo.
+5. **Repeated** misfires: clean firing pin channel; inspect firing pin; try different ammo lot.
+
+
+FAILURE TO FEED (ROUND DOES NOT CHAMBER)
+
+**Signs:** bolt/slide stuck **out** of battery; cartridge visible at angle.
+
+**Causes:** damaged round, dirty/damaged **magazine**, weak recoil spring, bad mag lips.
+
+**Steps:**
+1. Tap–rack.
+2. If still stuck: **remove magazine**, **pull** stuck round clear by hand (muzzle safe).
+3. Inspect round — dented? Discard.
+4. Inspect **mag lips** — bent?
+5. Reinsert mag; rack.
+6. **Repeat** → try **another magazine.**
+
+
+DOUBLE FEED (TWO ROUNDS FIGHTING FOR CHAMBER)
+
+Serious; slower to clear.
+
+**Steps:**
+1. Muzzle safe.
+2. **Strip magazine** (may require force).
+3. **Rack hard** several times — clear both rounds/cases.
+4. Verify **empty chamber.**
+5. Insert mag; rack; continue.
+
+**Often caused by:** weak extraction (case stuck) + new round trying to feed — clean **extractor**; check ejector.
+
+
+STOVEPIPE / FAILURE TO EJECT
+
+Case stuck partly in ejection port.
+
+1. Tap–rack first.
+2. If still there: **remove** case by hand (muzzle safe, action open).
+
+**Repeat stovepipes** → clean extractor; check recoil spring; check ammo.
+
+
+BOLT SHORT-STROKING (WON’T LOCK / WON’T FULLY EJECT)
+
+**Causes:** dirty gas system, weak spring, heavy friction on rails.
+
+**Field fix:** clean piston/tube (if applicable), lube rails lightly; long-term — replace springs.
+
+
+PUMP SHOTGUN
+
+Manual cycling avoids most auto-feed issues.
+
+**Click, no bang:**
+— Wait **30 s** (hangfire).
+— Open action — eject shell; next from tube.
+
+**Forend stuck rearward:**
+— Find **action release** / **bolt release** (model-dependent) — then cycle.
+
+
+AK-SPECIFIC TIPS
+
+**Bolt won’t go fully forward:**
+— **Palm-rack** forward on charging handle.
+— If fails: mag out, rack back, clear obstruction, reseat mag.
+
+**Chronic nose-up jams:**
+— Often **magazine** damage or wrong mag for variant — swap mag.
+
+
+PREVENTION
+
+— Clean on schedule (**15.5**).
+— **Good ammo**, dry storage.
+— **Serviceable magazines** — lips straight, spring strong.
+— **Light** correct lubrication.
+— Function-check on a **known-safe range** before relying on a gun.
+
+**Quick mag check:** load rounds; top round should press **smoothly**; mag **clicks** in solid; no rattles that suggest broken follower (varies).

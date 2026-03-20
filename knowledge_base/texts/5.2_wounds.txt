@@ -1,0 +1,150 @@
+CHAPTER 5. MEDICINE AND FIRST AID
+5.2 Wounds: care, bandaging, infection prevention
+
+WOUND TYPES AND GENERAL APPROACH
+
+Incised: clean edges, moderate bleeding — easiest to close.
+Lacerated: torn edges, more tissue damage — harder to suture.
+Puncture: small entry, deep track — risk of deep injury and anaerobic infection (depth = low oxygen = tetanus risk).
+Chop: large tissue loss, may involve bone.
+Gunshot: entry ± exit — very high infection risk.
+Abrasion: superficial skin loss.
+Bite (animal, human): highest infection risk — mouths harbor bacteria.
+
+
+FIRST PRIORITY: STOP BLEEDING
+
+Arterial (bright red, spurting):
+— Tourniquet PROXIMAL on limb immediately.
+— Note time applied (on forehead, on paper).
+— Max ~2 h on limb (necrosis risk rises).
+— No tourniquet — maximal pressure dressing + direct arterial pressure if trained.
+
+Venous (dark red, steady flow):
+— Direct pressure through sterile gauze.
+— Hold 5–10 min without peeking.
+— Elevate limb above heart if practical.
+
+Torso and neck — no tourniquet:
+— Tight packing (gauze) into wound.
+— Occlusive dressing for penetrating chest wounds (three sides taped, one side open as valve).
+
+Wound packing:
+1. Gloves on.
+2. Pack tightly with sterile gauze or clean cloth.
+3. Firm pressure with fist/body weight ≥3 min.
+4. Do not remove packing until higher care — unless protocol says replace.
+
+
+SECOND PRIORITY: CLEAN THE WOUND
+
+Key to preventing infection.
+
+Step 1 — Pressure irrigation:
+— Draw saline or clean water in 20 ml syringe.
+— Squirt forcefully into all corners of wound.
+— Medium wound may need ~200–500 ml total.
+— Goal: wash out dirt, bacteria, foreign material.
+
+Step 2 — Mechanical removal:
+— Tweezers/forceps for visible glass, gravel, cloth.
+— Do not probe deep blindly — vessels and nerves.
+— Remove obvious necrotic tissue (black/gray, foul).
+
+Step 3 — Antiseptic:
+— Chlorhexidine 0.05%: irrigate.
+— Hydrogen peroxide 3%: one-time debris lift — not repeated (delays healing).
+— Iodine: wound edges and skin, not deep flood.
+— Alcohol: skin around only — tissue-toxic inside wound.
+
+
+THIRD PRIORITY: CLOSURE
+
+When to suture/staple:
+— Clean incised wounds <~6 h old.
+— Edges gaping and will not approximate.
+
+When NOT to close (heal by secondary intention / delayed closure):
+— Wounds >~6–8 h old.
+— Animal and human bites.
+— Heavily contaminated (soil, feces, rust).
+— Puncture and gunshot (anaerobic risk).
+— Any infection signs.
+Keep open, drain if needed, dress frequently.
+
+Closure methods:
+1. Sutures: nylon or silk ~2/0–4/0, cutting needle. Simple interrupted: entry ~0.5–1 cm from edge, full dermal bite, symmetric exit. Square knots.
+2. Staplers: fast for linear skin lacerations.
+3. Adhesive strips (Steri-Strips): small superficial cuts.
+4. Medical cyanoacrylate: tiny clean cuts — avoid deep/contaminated.
+
+Improvised “bush thread”: horsehair, boiled household thread (nylon). Needle — boil and/or alcohol wipe.
+
+
+BANDAGING
+
+Basic dressing:
+1. Central sterile gauze pad (2–4 layers) on wound.
+2. Roller bandage to hold.
+3. Tape outer layer.
+
+Pressure dressing (moderate bleeding):
+1. Thick gauze on wound.
+2. Wrap snugly with even pressure.
+3. Check circulation distal (pulse, color, sensation).
+
+Change frequency:
+— Clean healing wound: every ~1–2 days.
+— Infected or draining: 2–3× daily.
+— If wet — change immediately.
+
+Signs of normal healing:
+— Edges approximating, no spreading redness.
+— Small serous (clear) drainage.
+— No foul odor.
+
+Infection — treat aggressively:
+— Increasing redness, heat, swelling.
+— Purulent drainage (yellow/green).
+— Red streaks toward body (lymphangitis — sepsis risk).
+— Fever, chills.
+— Bad smell.
+
+
+INFECTION PREVENTION
+
+— Wash hands before each dressing change.
+— Do not touch wound bed bare-handed.
+— Do not seal airtight if pus needs to drain.
+— Change dressings on schedule.
+
+Antibiotics for wounds — consider when:
+— Bites, heavy contamination, gunshot/puncture, early infection signs, immunocompromised.
+Example adult pattern (not universal): amoxicillin/clavulanate 875 mg ×2/day ×7 days.
+Alternative: ciprofloxacin 500 mg ×2/day + metronidazole 500 mg ×3/day (covers many gut/anaerobe patterns — verify indication).
+
+Tetanus:
+High risk: soil, rust, manure, deep punctures. Without vaccine status / immunoglobulin in field — maximal wound cleaning and watch for trismus, rigidity, spasms over ~3–14 days.
+
+
+SPECIAL SITUATIONS
+
+Scalp wounds:
+— Bleed heavily even when small — many vessels.
+— Direct pressure usually works.
+— Assess consciousness and head injury signs.
+
+Penetrating chest wound:
+— Seal with occlusive dressing — three sides taped (flutter valve).
+— Without seal — tension pneumothorax risk.
+— Semi-sitting, injured side down if tolerated.
+
+Evisceration (gut outside):
+— Do not push back in.
+— Cover with moist clean cloth.
+— Emergency surgical care.
+
+Amputation:
+— Tourniquet immediately.
+— Severed part — clean bag, keep cool (not frozen) with ice around bag.
+— Replant time windows are short — evacuate fast.

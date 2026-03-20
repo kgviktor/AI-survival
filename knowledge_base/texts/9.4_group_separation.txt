@@ -1,0 +1,119 @@
+CHAPTER 9. COMMUNICATIONS AND INFORMATION
+9.4 Communications when the group splits
+
+WHY SEPARATION IS DANGEROUS
+
+Split teams are weaker:
+— Fewer fighters and workers.
+— No mutual status → panic and bad calls.
+— Everyone burns time and calories searching instead of surviving.
+
+**Rule:** agree the plan **before** separation. Under stress people default to rehearsed SOPs, not new genius plans.
+
+
+PRE-BRIEF BEFORE ANY SPLIT RISK
+
+Every member should know:
+— Primary shelter (how to find it without phones).
+— **Rally Point A** (near home).
+— **Rally Point B** if A is unsafe.
+— **Rally Point C** outside the neighborhood / town.
+— Radio channel, tone, sked times.
+— Trail-mark SOP.
+— Names and **photos** of all members (each carries copies).
+
+Paper copy:
+— Waterproofed card: rally points, freqs, call signs, emergency contacts.
+— **On body**, not only in a pack you may lose.
+
+
+RALLY POINTS
+
+Point A (near):
+— ~100–500 m from main shelter.
+— Unmistakable: corner + landmark, big tree, known shop sign.
+— Wait window: **30–60 min** (twice daily if SOP says).
+
+Point B (fallback):
+— ~1–3 km out if A is blocked (police cordon, fire, rubble).
+— Wait: **2–4 h** per plan.
+
+Point C (evacuation):
+— Outside urban risk — relative’s farm, bridge name, village landmark.
+
+Progression rule:
+— Not at A → go B → not at B → go C.
+— Leave a note in the **agreed hide** at each stop pointing next movement.
+
+
+HOW LONG TO WAIT
+
+Typical SOP:
+— A: 30–60 min, **morning and evening** windows.
+— B: once per day check.
+— C: every 2–3 days if long evasion.
+
+Leaving criteria:
+— Wait the agreed time; leave **signed** message; move on.
+— **Do not** wait past SOP — stationary too long draws risk.
+
+
+RADIO SKED
+
+Schedule:
+— e.g. 08:00 and 20:00 local; **5–10 min** max.
+— No answer → retry +30 min; after **3** fails execute “lost comms” plan.
+
+Call signs:
+— Short handles: “One, Two, Three…” or neutral codenames.
+
+Status codes (example — make your own):
+— “**40**” = all OK (pre-briefed).
+— “**99**” = need help.
+— **Duress:** agree a phrase that means “I am compromised” (e.g. wrong meeting place name).
+
+Alternate frequency:
+— Primary + backup; rotation SOP if jammed or busy, e.g. primary → +1 h alt → +1 h primary.
+
+
+CHILDREN
+
+Prep:
+— Full name; parents’ names; **Rally A** described in kid words.
+— Age ~8+: radio channel if they carry one.
+— Sewn / laminated contact card in clothing.
+— Photo card of family faces.
+
+On separation:
+— “Go to A, wait, **do not go with strangers**.”
+— Exception only with **family duress codeword** only insiders know.
+
+Reunion with adults:
+— No leaving with unknown people without codeword.
+
+
+TOTAL COMMS LOSS — ALGORITHM
+
+1. Rally A, wait agreed time, leave note in dead-drop.
+2. Rally B, repeat.
+3. Rally C.
+4. If still alone → proceed to **final fallback** (relative, cabin) per plan.
+5. Each move: dated note “Name → next point → ETA.”
+
+If captured:
+— Do not reveal rally scheme or group strength.
+— Feed false directions if forced to speak.
+
+
+REUNION AFTER SPLIT
+
+Recognition:
+— Challenge/response passphrase for strangers at rally sites.
+— Visual backup: hat color, pin, gesture.
+
+Duress checks:
+— Odd escort or behavior → **no** shelter disclosure.
+— Example handshake SOP: right = free, left = under control (pre-brief **your** signal).
+
+After merge:
+— Injury and tail check; quick SITREP; inventory; **update the plan.**

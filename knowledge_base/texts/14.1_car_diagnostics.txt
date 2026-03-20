@@ -1,0 +1,112 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.1 No-tools diagnostics: look, listen, smell, feel
+
+VEHICLE IN A CRISIS
+
+A running car is strategic: mobility, cargo, shelter, 12 V power. A dead car at the wrong time is an anchor.
+
+**Any change from normal — investigate before it fails.**
+
+
+VISUAL CHECKS (WEEKLY UNDER HOOD)
+
+Engine oil:
+— Dipstick: wipe, fully reinsert, read. Between MIN/MAX. Below MIN — top up **now**.
+— Dark brown/black — normal for aged oil. **Milky** — coolant in oil (serious). Frothy yellow-gray — same family problem.
+
+Coolant (expansion tank):
+— Cold level between marks. Green/blue/red per spec OK. Rusty brown — neglected system. White crust on cap neck — possible combustion leak.
+
+Brake fluid:
+— Reservoir at firewall. Between marks. **Low** — leak or worn pads (pistons extended).
+
+Belts:
+— Cracks, fraying, glaze. Long spans: ~10–15 mm deflection thumb pressure typical for V-belts (check manual).
+
+Under vehicle (after parking):
+— **Black/brown** under engine — oil.
+— Green/yellow/red streaks — coolant or some ATFs.
+— Clear water under A/C condenser — normal summer drip.
+— Rust-brown at wheels — brake fluid.
+
+Tires:
+— Even wear. Outer/inner only — alignment/camber. Sidewall bulge — **replace**. Cracks — age. Legal minimum tread **~1.6 mm** many regions — use gauge; coin tests vary by coin.
+
+
+LISTEN — ENGINE RUNNING
+
+Light rhythmic tick — valve lash or injector tick (model dependent).
+
+Loud knock under load — detonation (fuel/octane/heat) or serious bearing knock — **ease off**.
+
+Deep knocking rising with RPM — rod/main bearing — stop soon.
+
+
+LISTEN — MOVING
+
+Brake squeal — worn pads to metal = **stop and fix**.
+
+Front-drive click on turn — CV joint.
+
+Clunk over bumps — shocks or bushings.
+
+Clunk on brake — loose caliper or warped rotor moving.
+
+Vibration at one speed — wheel balance or bent rim.
+
+Vibration always — tire damage.
+
+Vibration braking — overheated/warped rotors.
+
+Speed-related hum — wheel bearing (often changes loading in turns).
+
+
+SMELLS
+
+Burning rubber — rubbing tire/liner or **riding brakes** on long descent.
+
+Burning plastic — **electrical** — find before fire.
+
+Gasoline in cabin — **leak** — shut down, no sparks.
+
+Rotten eggs — overcharged battery or cat working hard.
+
+Sweet — coolant leak (heater core or engine).
+
+Burning oil — leak onto exhaust or oil consumption.
+
+
+FEEL — DRIVING
+
+Pulls — tire pressure, alignment, or **brake drag** one corner.
+
+Steering wheel shake — tire damage low speed; balance high speed; rotors if braking.
+
+Soft brake pedal — air or leak.
+
+Pulsing pedal when braking — warped rotors.
+
+Clutch slip — revs rise, speed doesn’t (manual).
+
+Spongy clutch — hydraulic issue or adjustment.
+
+Hard shifting — cold thick gear oil or syncro wear.
+
+Poor cold start — battery, plugs, fuel delivery.
+
+Poor hot start — fuel pressure, injectors, vapor lock (carb era).
+
+
+DASH WARNING LAMPS
+
+**Check engine** solid — fault stored; flashing — often misfire — reduce load.
+
+**Oil can red** with engine running — **stop** — no oil pressure.
+
+**Coolant red** — overheating — safe stop, **do not** open hot cap.
+
+**Battery** — charging system fault.
+
+**TPMS** — low tire(s).
+
+**ABS** — ABS off; brakes still work, longer skids possible.

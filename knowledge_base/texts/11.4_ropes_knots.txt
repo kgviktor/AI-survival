@@ -1,0 +1,107 @@
+CHAPTER 11. TOOLS AND REPAIR
+11.4 Cordage, knots, improvised lashing
+
+ROPE MATERIALS
+
+Synthetics:
+— **Nylon:** strong, ~10–15% stretch, shock-absorbing — good lifelines and dynamic loads.
+— **Polypropylene:** floats, cheap; weaker, brittle in deep cold.
+— **Polyester:** low stretch, UV-stable.
+— **Paracord 550:** ~250 kg break (type-dependent), seven inner yarns — compact utility line.
+
+Natural:
+— Manila, jute, hemp: rot when wet; stiff dry.
+— Sisal: harsh on hands.
+— Cotton: weak wet.
+— Long crisis: natural cordage needs constant replacement.
+
+Sources to cache:
+— Climbing/accessory cord (rated where life depends on it).
+— Builder’s line, mason’s twine.
+— Dock lines — very strong.
+— Nylon-jacket copper cable — strip for sheath + wire.
+— Fishing line and braided superline.
+
+Improvised fiber:
+— Basswood / willow inner bark strips, twisted.
+— Nettle retted fiber.
+— Spruce roots (whips).
+— Leather thongs.
+— **3-strand twist** from any fibers — strong enough for many camp tasks.
+
+
+3-STRAND ROPE FROM THREE BUNDLES
+
+1. Cut three equal-length bundles.
+2. Tie one end; anchor (nail, foot trap).
+3. Alternate outer strand over middle — like braiding hair; keep tension high.
+4. Tie off end.
+
+Strength ~75–80% of sum of strands if well laid.
+
+Splice extension: overlap new bundle ~20–30 cm into braid and continue.
+
+
+KEY KNOTS
+
+Joining two ropes:
+
+**Reef (square) knot** — same-diameter cord, non-critical loads; can capsize wrong if mis-tied.
+
+**Sheet bend** — different thicknesses; tail through bight correctly.
+
+**Double sheet bend** — extra security.
+
+**Zeppelin / Hunter’s bend** — jam-resistant join (learn if you rely on cord).
+
+To a fixed object:
+
+**Bowline** — fixed loop that does not slip under load; “rabbit out of hole, around tree, back in.”
+
+**Highwayman’s / slipped variants** — quick release if you need escape.
+
+**Timber hitch + half-hitches** — drag a log.
+
+**Clove hitch** — start a lashing; may slip on smooth poles — back up.
+
+**Round turn + two half hitches** — reliable post tie.
+
+**Figure-8** — stopper or clipped loop for climbing-rated systems (use proper PPE training).
+
+Friction / utility:
+
+**Slip knot / running noose** — adjusts under load — animals, snares — ethical/legal rules apply locally.
+
+**Barrel / double fisherman** — join two rope ends compactly.
+
+**Prusik** — 3–4 wraps of thin cord on thick rope; grips under load, slides when slack — adjust tensioners, ascend with training only.
+
+
+FIELD USES
+
+Stretcher improv:
+— Two poles through jacket sleeves (zippered) — carries adult if fabric strong.
+
+Mechanical advantage ~2:1:
+— Rope through fixed anchor + pull free end.
+
+Rope ladder:
+— Two vertical lines; rungs ~30–35 cm — marline spike hitch or ladder lash per rung.
+
+Tarp ridge:
+— Trucker’s hitch or Prusik tensioner for tight pitch.
+
+
+IMPROVISED CORD
+
+Plastic bags:
+— Cut spiral → long plastic strip — weak but ties light loads.
+
+Cloth strips:
+— **Tear** (not cut) — stronger edges; braid three strips.
+
+Wire:
+— Twist pairs with pliers — stiff lashing, not shock line.
+
+Belts:
+— Leather / nylon belts; slice lengthwise for longer lashing.

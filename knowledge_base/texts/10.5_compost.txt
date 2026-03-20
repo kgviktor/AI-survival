@@ -1,0 +1,134 @@
+CHAPTER 10. FOOD PRODUCTION
+10.5 Compost and fertilizers from waste
+
+WHY COMPOST
+
+Intensive growing strips soil nutrients in 1–2 seasons without inputs.
+
+Compost:
+— Recycles organics into stable humus.
+— Low or zero cash cost.
+— Improves water holding, drainage, and aeration.
+— Cuts landfill volume.
+
+Process: microbes and worms break organics → humus plants can use.
+
+
+HOT COMPOST (FAST — ~4–8 WEEKS)
+
+Needs:
+— C:N ratio ~25–30:1 overall.
+  — **Brown / high carbon:** dry leaves, straw, paper, cardboard, wood chips.
+  — **Green / high nitrogen:** food scraps, fresh grass, fresh manure.
+— Moisture ~50–60% — “wrung sponge.”
+— Oxygen — turn pile every ~3–7 days.
+— Volume — ~1 m³+ holds heat better.
+— Core temperature ~50–70 °C kills many pathogens and weed seeds (if maintained).
+
+Greens — add:
++ Veg/fruit peels, coffee grounds, tea leaves.
++ Fresh grass clippings, green leaves.
++ Herbivore manure (chicken, rabbit, horse, cow).
+− **Avoid:** meat, fish, dairy, lots of oil (odor, vermin), diseased plants.
+
+Browns — add:
++ Dry leaves, shredded cardboard (minimal glossy ink), straw, sawdust (untreated).
++ Eggshell.
++ A little wood ash (alkaline; K and P).
+− **Avoid:** charcoal briquettes (often not compostable), heavy glossy magazines.
+
+Process:
+1. Alternate green and brown layers ~1:2 by volume.
+2. Moisten dry layers as you build.
+3. Cover (lid or black plastic) to keep heat/moisture.
+4. In ~3–5 days center should heat — active composting.
+5. Turn every ~3–7 days.
+6. Done when dark brown, crumbly, earthy smell — not rotten.
+
+
+COLD COMPOST (SLOW — ~6–12 MONTHS)
+
+— Pile and ignore; minimal labor.
+— Smaller piles, less heat, weed seeds may survive.
+— Fine for low throughput or winter dumps.
+
+
+URBAN COMPOSTING
+
+Bins:
+— Wood slatted box ~60×60×80 cm.
+— Plastic bin with side/bottom holes.
+— Woven branch cage.
+— Pit in yard if soil allows.
+
+Odor control:
+— Always cap food scraps with browns.
+— No meat/dairy in open urban bins.
+— Stink = too wet or too green — add browns, turn.
+
+Balcony worm bin (`10.4_urban_animals.txt`):
+— Nearly odorless if balanced; produces leachate (“tea”) and castings.
+
+Typical timelines:
+— Hot: ~4–8 weeks.
+— Worms: ~2–3 months to usable castings.
+— Cold: ~6–12 months.
+
+
+HOMEMADE FERTILIZERS
+
+Wood ash:
+— From clean wood (not painted, not coal briquettes).
+— ~K₂O 8–10% plus Ca, P, traces.
+— Handful in planting hole or ~1 Tbsp per liter water, steep ~24 h, dilute to water plants.
+— Alkaline — good on acid soil; easy to overdo on peat-heavy mixes.
+
+Green manure tea:
+— Nettle, comfrey, dandelion — high N.
+— Pack bucket, cover with water, steep ~2 weeks (smells).
+— Dilute ~1:10 before watering soil.
+
+Banana peel:
+— Potassium source — bury by roots or soak few days, water in.
+
+Eggshell:
+— Calcium for tomatoes/peppers (blossom end rot prevention).
+— Crush to powder; work into soil.
+— Sharp edges may deter slugs slightly.
+
+Coffee grounds:
+— Mild acidifier + some N — berries, strawberries, tomatoes — moderate use in compost or top-dress.
+
+Manure:
+— Chicken: very “hot” — **compost before** applying or it burns plants.
+— Rabbit: milder — can use carefully fresh in small amounts.
+— Cow/horse: classic compost accelerators and bulk feeders.
+
+
+GREEN MANURES (COVER CROPS)
+
+Grow only to till in:
+— Mustard, phacelia, clover, vetch, lupin, rye — fix N or biofumigate or prevent erosion.
+
+Use:
+1. Sow after main crop.
+2. At ~15–20 cm, chop and dig in.
+3. Wait ~2–3 weeks decomposition → plant next crop.
+
+
+STORED MINERAL FERTILIZER (OPTIONAL CACHE)
+
+Urea (carbamide):
+— High N; stores years dry sealed.
+— ~10–20 g per 10 L water for soil drench (rough — follow label).
+— Foliar: weaker solution if crop tolerates.
+
+Calcium nitrate:
+— Ca + N — tomatoes, peppers.
+
+Superphosphate:
+— P for roots and fruiting — band at planting.
+
+Strategy:
+— Small sealed bags of urea + superphosphate as backup.
+— Long term: compost + manure + cover crops cycles toward self-sufficiency.

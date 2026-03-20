@@ -1,0 +1,109 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.2 Batteries: types, charging, storage, recovery
+
+BATTERY TYPES
+
+Lead-acid (flooded automotive):
+— 12 V (6 × 2 V cells); ~40–100+ Ah common.
+— High cranking current; **not** deep-cycle rated — avoid deep discharge.
+— Life ~3–5 years with care.
+
+AGM:
+— Sealed; less gas in normal charge; more cycle life than basic flooded.
+— UPS, solar, marine use.
+
+GEL:
+— Gel electrolyte; good deep-cycle tolerance; costly.
+
+Li-ion / LiPo:
+— Phones, laptops, tools — high energy density.
+— Needs BMS/charge control — avoid overcharge and deep discharge per cell (~2.5–3.0 V minimum).
+— Store ~40–60% SOC for long shelf; mechanical damage/heat = fire risk.
+
+LiFePO4:
+— Safer, very long cycle life (~2000–4000+ cycles).
+— Higher cost, heavier than Li-ion per Wh.
+— Popular for solar storage.
+
+NiMH:
+— Rechargeable AA/AAA; ~500–1000 cycles; higher self-discharge than Li-ion.
+
+
+CAPACITY MATH
+
+Ah × V = Wh (usable Wh is less than nameplate if you respect depth-of-discharge).
+
+Example: 60 Ah × 12 V = 720 Wh.
+If only 50% usable (starter lead-acid) → ~360 Wh.
+10 W LED → ~36 h; ~10 Wh phone → ~36 charges from that usable Wh (ideal — ignores losses).
+
+Lead-acid guidance:
+— Below ~12.0 V resting often ~50% or less; below ~11.5 V hurts life badly.
+
+AGM/GEL: deeper discharge often tolerated (~80%).
+LiFePO4: often ~80–90% usable window.
+
+
+CHARGING
+
+Flooded/AGM/GEL:
+— Absorption ~14.4–14.7 V (check battery spec); float ~13.6–13.8 V.
+— Charge current rule of thumb ~0.1C (60 Ah → ~6 A) unless manufacturer allows more.
+— Resting full ~12.6–12.8 V after ~1 h off charger.
+
+Solar:
+— Always charge controller (PWM or MPPT) between panel and battery.
+
+From vehicle:
+— Jumper cables to running vehicle — ~10–20 A possible — hours to meaningful charge.
+
+Li-ion / LiFePO4:
+— Use correct CC/CV charger profile — never raw unregulated source.
+— LiFePO4 4S full ~14.4–14.6 V pack typical.
+
+NiMH:
+— Slow ~C/10 ~14 h safe; smart chargers preferred.
+
+
+STORAGE
+
+Lead-acid:
+— Store charged; top monthly ~quarterly — self-discharge ~1–3%/month.
+— Cool dry; avoid deep discharge while stored; keep upright (flooded).
+
+Li-ion:
+— ~40–60% SOC; cool place.
+
+NiMH:
+— Any state; after 6+ months idle, cycle before critical use.
+
+
+RECOVERY
+
+Lead sulfation (flooded):
+— Symptoms: won’t hold charge, fast voltage sag under load.
+— Smart chargers “recondition” modes; very slow charge C/50–C/100 for days.
+— Charge/discharge cycles between ~10.5 V and ~14.7 V — limited recovery.
+— If low electrolyte — **only** distilled water to proper level — never tap water in cells.
+
+Deep-discharged Li-ion:
+— May need “wake” trickle to ~2.5–3.0 V then normal charge — **damaged cells can be hazardous**.
+
+NiMH:
+— Little memory; deep discharge/charge cycles can help lazy packs.
+
+
+SERIES AND PARALLEL
+
+Series: voltage adds (two 12 V → 24 V); Ah same — use matched age/condition cells.
+
+Parallel: Ah adds (two 12 V 60 Ah → 12 V 120 Ah); + to +, − to − — similar condition packs only.
+
+
+SAFETY
+
+— Never short terminals — hydrogen explosion risk when charging flooded batteries.
+— Ventilate when charging lead-acid indoors.
+— Gloves/eye protection with acid batteries.
+— Swollen Li-ion — do not charge; safe disposal outdoors.
+— No impacts on lithium packs.

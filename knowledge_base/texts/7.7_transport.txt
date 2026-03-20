@@ -1,0 +1,139 @@
+CHAPTER 7. NAVIGATION AND MOVEMENT
+7.7 Transport: bicycle field repair, motor vehicle use
+
+BICYCLE IN CRISIS
+
+Advantages:
+— No fuel required.
+— Fits paths and wrecked streets cars cannot use.
+— Quiet vs engine noise.
+— Cargo ~30–40 kg on rack plus pack possible.
+— ~12–20 km/h sustained — several× walking speed.
+— Easy to hide or abandon if needed.
+
+Disadvantages:
+— Fitness required.
+— Deep snow or thick mud may stop you.
+— Flat tires common.
+— Visible valuable — theft risk.
+
+Prep checklist:
+— Tires inflated to pressure for rider + load.
+— Lube chain.
+— Brakes both wheels functional.
+— Derailleurs adjusted if fitted.
+— Rear rack + panniers.
+— Two spare tubes; patch kit; pump with gauge.
+
+
+BASIC BIKE REPAIR
+
+Flat tire (most common):
+
+Remove wheel:
+1. Open quick-release or axle nuts.
+2. Rear: shift to smallest cog; loosen if needed.
+3. Release rim brakes or deflate to clear calipers.
+
+Tube repair/replace:
+1. Pry tire bead with levers (or careful spoons) opposite valve.
+2. Pull tube; inflate slightly to find leak (listen, or water dip).
+3. Patch: clean area, cement, wait, press patch.
+4. Or swap whole tube (faster).
+5. Reinstall — ensure tube not pinched under bead; seat tire evenly.
+
+No patch kit:
+— Tie knot at hole — limp short distance.
+— Pack tire with cloth, leaves, moss — “solid” tire emergency roll.
+
+Chain off front ring:
+— Lift back onto ring by hand; turn cranks forward slowly while guiding.
+
+Broken chain:
+— Chain tool + quick link ideal.
+— Without: remove damaged links, shorten chain — may become single-speed; avoid cross-chaining.
+
+Brakes:
+— Worn pads: replace or advance shoe position.
+— Cable slack: barrel adjusters.
+— Bent rotor: careful gentle re-bend with pliers — avoid cracks.
+
+Derailleur failure:
+— Barrel adjuster tweaks; if destroyed, lock to one usable cog with limit screws or zip-tie.
+
+
+MOTOR VEHICLE IN CRISIS
+
+Advantages:
+— Moves heavy load and several people.
+— Weather protection.
+— Speed on open roads.
+— Possible sleep-inside shelter.
+
+Disadvantages:
+— Needs fuel.
+— Useless in deep rubble or total gridlock noise.
+— Loud, visible.
+— Without fuel — dead weight.
+
+Fuel discipline:
+— Keep tank ≥ half in unstable times.
+— Jerrycans ~20–40 L — store legally; in vehicle secure in trunk/hatch, upright.
+— Gasoline ages ~3–6 months without stabilizer; longer with stabilizer treatment.
+— Diesel ~6–12 months typical before quality issues.
+
+Scrounging fuel (legal/ethical context varies):
+— Abandoned vehicles — siphoning risks fire, law, and contamination.
+— Station tanks may need specialized pumps if power out — hazardous.
+
+
+FIELD AUTO REPAIR BASICS
+
+Flat tire:
+— Jack + spare — spare must be inflated and fits.
+— No jack: lift point with lever and cribbing carefully — crush risk.
+— Plug kits can seal puncture without full removal — follow kit instructions.
+
+Dead battery:
+— Jump from good vehicle: + to dead +, + to good +, − to good −, last − to dead chassis ground (sparks away from battery).
+— Run ~10–15 min to recharge.
+— Manual transmission: bump start in 2nd gear ~5–10 km/h.
+
+Overheat:
+— Pull over; do not immediately open hot radiator cap.
+— Idle to cool if safe; then check coolant level and leaks.
+— Water temporary substitute for coolant in emergency — flush/repair later.
+
+Broken serpentine belt:
+— Alternator/water pump stop — battery dies and/or engine overheats.
+— Spare belt best; improvised belt lasts minutes to rarely longer — limp to help only.
+
+No brake fluid / pedal to floor:
+— Do not drive normally.
+— Refill correct DOT spec; find leak; bleed if trained.
+— Emergency: careful engine braking + parking brake only — high risk.
+
+Stuck mud/snow:
+— Spinning digs deeper — stop.
+— Traction mats, boards, brush under tires; rocking gentle throttle.
+— Air down tires ~15–20 psi temporarily for float — reinflate on hard road.
+— Keep shovel in vehicle.
+
+Ignition without key:
+— Modern immobilizers and chipped keys make unauthorized start nearly impossible and illegal. This text does not teach vehicle theft — only: carry spare key; know legal recovery options.
+
+
+MINIMUM IN-VEHICLE TOOL KIT
+
+— Wrenches ~8–22 mm open/box.
+— Screwdrivers flat/Phillips.
+— Pliers, adjustable wrench.
+— Electrical tape.
+— Jumper cables.
+— Tow strap/rope.
+— Factory jack + lug wrench.
+— Spare fuses.
+— Flashlight.
+— Warning triangles or flares (where legal).
+— Shovel.
+— Short rope ~5–7 m.

@@ -1,0 +1,143 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.10 Protecting gear: moisture, shock, storage
+
+MAIN ENEMIES OF ELECTRONICS
+
+Moisture → corrosion, shorts, board damage.
+Shock and vibration → mechanical failure.
+Dust → overheating, shorts, clogged mechanics.
+Extreme temperatures → battery degradation, cracks, parameter drift.
+Static electricity → instant damage to sensitive ICs.
+Overvoltage → component breakdown.
+
+
+MOISTURE PROTECTION
+
+Storage:
+— Sealed cases (Pelican-style, metal Zarges-type, or any plastic box with silicone gasket).
+— Zip bags: cheap, adequate for many devices.
+— Vacuum bags: better for long storage.
+— Desiccant (silica gel) in the container with gear. Indicating silica: blue = dry, pink = saturated (regenerate: bake ~120 °C ~1 h).
+
+Carry:
+— Dry bags for pack in rain/fords.
+— Phone dry pouches: fully waterproof.
+— In pack: electronics high in bag (rain pools low), inside bags.
+
+If wet:
+1. Power off immediately (do not try to turn on).
+2. Remove battery if possible.
+3. Do not shake — drives water deeper.
+4. Wipe exterior; remove visible liquid.
+5. Rice or silica container 48–72 h (draws moisture).
+6. Only after fully dry — power on and test.
+7. Optional: hair dryer on lowest heat (overheat risk).
+
+Corrosion:
+— Green/white on contacts: copper oxide and salts.
+— Clean: cotton swab + isopropyl alcohol (70–99%).
+— Soft brush + alcohol in tight spots.
+— After cleaning: dry fully; conformal coating on boards (not connectors).
+
+
+SHOCK PROTECTION
+
+Cases:
+— Phone: rugged case (hard shell + rubber).
+— Laptop: sleeve + hard shell.
+— Tablet: frame case.
+— Multimeter: rubber boot.
+
+DIY padding:
+— Bubble wrap: several layers.
+— Foam: cut to shape.
+— Plastic box + foam = solid transit pack.
+
+After drop:
+— Do not rush to power on.
+— Inspect: cracks, broken parts.
+— Cracked screen may still work if backlight/touch OK.
+— Avoid opening unless needed — dust and moisture enter.
+
+
+DUST PROTECTION
+
+Dust is worst for:
+— HDDs: particles on platters → errors.
+— Fans: clog, lose cooling.
+— Connectors: poor contact.
+
+Measures:
+— Closed storage.
+— Dust caps on unused ports (USB, audio).
+— Blow/clean vents every 1–3 months.
+— Compressed air or cold blow-dryer.
+
+
+TEMPERATURE
+
+Cold (below 0 °C):
+— Li-ion loses ~20–40% capacity around −10 °C.
+— Very low temps: LCD can freeze/crack.
+— Carry gear against body (inner pocket) for battery warmth.
+— Do not power frozen gear immediately — warm to room temp first.
+
+Heat (above 40–50 °C):
+— Li-ion ages fast; RAM can glitch.
+— Never leave gear in direct sun (car interior summer can exceed 80 °C).
+— Do not block vents in use.
+
+Condensation:
+— Cold → warm transition: moisture on boards.
+— Let gear sit powered off 30–60 min before switching on.
+
+
+STATIC (ESD)
+
+Static kills ICs instantly.
+
+Risky when:
+— Working on bare boards/components.
+— Dry weather + synthetic clothing.
+
+Protection:
+— ESD wrist strap to ground (earthed metal).
+— Without strap: periodically touch grounded metal (radiator, PC chassis, metal pipe).
+— ESD mat or work on antistatic bags.
+— Store ICs/boards in silver antistatic bags.
+
+
+OVERVOLTAGE PROTECTION
+
+Sources:
+— Unregulated generator.
+— Solar without proper controller.
+— Lightning induction on lines.
+— Poor inverter output.
+
+Mitigation:
+— 230 V stabilizer before sensitive loads.
+— TVS diodes on 12 V inputs.
+— MOVs for surge absorption.
+— UPS with line conditioning for laptops/serious gear.
+
+Lightning:
+— Storm: disconnect from mains and antennas.
+— Ground antenna mast with proper arrestor to earth.
+
+
+LONG-TERM STORAGE (6–12+ months)
+
+Li-ion:
+1. Charge to ~40–60% (not empty).
+2. Zip bag + desiccant.
+3. Rigid container.
+4. Cool (10–15 °C), dark, dry.
+5. Every ~6 months: check SoC, top to ~50% if low.
+
+Lead-acid:
+— Store charged; float/top every 3–6 months.
+— Do not freeze deeply discharged battery (~−10 °C risk).
+
+NiMH:
+— Any state OK; after long storage do full charge/discharge cycle before critical use.

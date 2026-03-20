@@ -1,0 +1,74 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.9 Compasses: types, use, declination
+
+WHY COMPASS BEATS PHONE-ONLY GPS
+
+GPS needs: power, sky view, intact electronics — all can fail.
+
+**Magnetic compass:** no battery, hard to jam, works under canopy (if you read it correctly).
+
+**Rule:** map + compass baseline; GPS optional boost.
+
+
+TYPES
+
+**Liquid-filled needle** — damped; standard hiking quality.
+
+**Baseplate** — ruler edge for map work; global standard.
+
+**Mirror / sighting** — more precise bearings; mirror for signaling.
+
+**Button / zipper** — backup only.
+
+**Wrist** — quick rough heading.
+
+**Surplus military** — often rugged; verify accuracy vs known line.
+
+
+USING THE COMPASS
+
+Level the housing; rotate bezel until **red needle aligns with orienting arrow** (red in the shed); direction-of-travel line now points your **heading**.
+
+**Follow an azimuth:** set desired degree on bezel, align needle, walk keeping alignment; **pick landmarks** along the way to reduce cumulative drift.
+
+
+MAGNETIC DECLINATION
+
+Magnetic north ≠ true north. **Difference** is declination — **location and time dependent**.
+
+Your topo map margin shows **true north grid**; compass reads **magnetic**.
+
+**East declination** (magnetic east of true): common in much of Europe, Asia, North America varies by coast — **always read the map legend**.
+
+**Rule of thumb:** errors &lt;~5° matter little for short hikes; **long legs or artillery-precision nav** — apply correction.
+
+**Adjustable-declination** compasses bake offset into bezel — set once per region.
+
+**Sources:** map footnotes; national geological survey web tools; GPS app offline note.
+
+
+MAP WORK
+
+**Orient map:** rotate paper map until grid north matches compass north (with declination handled per your method).
+
+**Resection:** take bearings to 2–3 known features; back-plot lines on map — intersection ≈ your position.
+
+**Route plan:** edge of compass from A to B on map; read bearing; apply declination; walk.
+
+
+INTERFERENCE
+
+Keep compass **30–50 cm** from steel, knives, weapons, batteries, radios, vehicles, rebar.
+
+Hold **flat** — tilted needle sticks or lies.
+
+**Verify:** compare two compasses; or Polaris / known road alignment.
+
+
+MODELS (ORIENTATION)
+
+Sighting: Silva Ranger-class; Suunto A-30; Brunton TruArc; USGI lensatic pattern.
+
+Budget reliable: simple baseplate from major outdoor brand.
+
+**Thumb compass** — orienteering speed tool.

@@ -1,0 +1,105 @@
+CHAPTER 4. HEAT, WARMTH, AND FIRE
+4.4 Indoor heat sources: candles, alcohol stoves, improvised stoves
+
+INDOOR HEAT — DIFFERENT RULES
+
+Open fire indoors without proper ventilation kills. Carbon monoxide (CO) builds invisibly — no smell, no color. Every indoor heating method needs ventilation. That is the main rule of this topic.
+
+
+CANDLES
+
+Heat output: one candle ≈ ~80 W. In a tiny space ~1–2 m³ (tent, blanket “burrow”) several candles add noticeable warmth.
+
+Flower-pot candle heater:
+Several candles under an inverted clay flower pot. Pot stores and radiates heat more evenly than bare flames.
+
+Metal can variant:
+Can with holes as shell — candle inside. Side holes for air, top holes for heat exit.
+
+Candle safety:
+— Never leave burning candle unattended
+— Stable base — tipped candle = fire
+— Clearance from combustibles: ~30 cm sides, ~50 cm above
+— Avoid strong drafts — flicker can overheat edges
+
+Saving candles:
+Paraffin candles are cheap. DIY: rendered fat + cotton wick. Fat candle in can: fill with animal or plant fat, wick from twisted cloth. Burns for hours.
+
+
+ALCOHOL STOVES
+
+Can stove:
+Aluminum can, wick of fiberglass cloth or cotton. Fuel: denatured alcohol, isopropanol (verify purity and additives — some denaturants are toxic). ~100 ml alcohol ≈ 30–40 min burn. Heat ~500–800 W — more than a candle.
+
+Precautions:
+— Alcohol flame is nearly invisible by day — do not refill while lit.
+— Keep fuel away from stove.
+— Metal can gets hot — place on non-combustible surface.
+
+Pressure-style small stoves:
+Two aluminum disks with perimeter jets — vapor pressure design. More efficient than simple wick, more fabrication.
+
+
+IMPROVISED STOVES
+
+Tin can “burzhuyka” / hobo stove:
+Large metal drum or stacked cans.
+
+From cans (temporary):
+1. Large can (~5 L) body.
+2. Hole near bottom for air.
+3. Hole near top for stovepipe.
+4. Stack open-bottom cans as chimney — exit through window.
+5. Load fuel through top (remove lid).
+
+Efficiency: modest but it heats. Chimney exhausting outside is the critical CO control.
+
+Brick rocket stove:
+L channel — horizontal fuel feed, vertical heat riser. Pot on riser top. High efficiency, low fuel use. Can be surrounded with brick and mass (clay/stone) for storage heat.
+
+Brick masonry stove:
+With bricks and clay mortar — full stove with flue through wall or window. Thermal mass holds heat — radiates hours after fire dies. Warm-up ~1.5–2 h; holds ~4–8 h.
+
+200 L metal drum:
+With chimney stub — workable wood stove. Radiates well. Set on bricks — not directly on wood floor.
+
+
+HEATING WITH STONES
+
+Hot rocks indoors:
+Heat large flat stones in fire 30–40 min. Move with shovel/tongs. Hold heat ~4–6 h.
+
+Foot-of-bed rocks:
+Heated rocks wrapped in cloth — bed warmer. Avoid smooth river cobbles — may crack. Dry field rock safer.
+
+Bricks as thermal battery:
+Ordinary bricks heated in fire hold heat long. Several hot bricks in shelter noticeably raise temperature.
+
+
+GAS STOVES AND HEATERS
+
+Camping gas stove:
+Main job cooking, but adds significant heat in small space. Produces CO — ventilation mandatory.
+
+Catalytic heaters:
+Propane/butane or naphtha; flameless catalytic combustion — lower CO than open flame. Some models marketed for ventilated indoor use. Still need airflow.
+
+Gas in cold:
+Butane canisters weak below about -5°C. Propane works to about -40°C. Isobutane blends — compromise. Warm canister in pocket or armpit.
+
+
+SUMMARY COMPARISON
+
+Method           | Heat   | Fuel use | CO risk | Complexity
+Candles          | Low    | Low      | Low     | Simple
+Alcohol stove    | Medium | Medium   | Low     | Simple
+Hot stones       | Medium | None*    | None    | Medium
+Gas (stove)      | High   | Medium   | Medium  | Simple
+Rocket stove     | High   | Low      | High*   | Medium
+Can/drum stove   | High   | Medium   | High*   | Medium
+Brick stove      | High   | Medium   | High*   | Hard
+
+* With proper chimney to outside — risk drops to low.
+
+Recommendation for shelter:
+Any stove with flue outside + hot rocks for residual heat. Candles and alcohol — very small spaces or supplement only.

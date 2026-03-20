@@ -1,0 +1,88 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.8 Storing and transporting firearms
+
+SAFE STORAGE — THREE GOALS
+
+1. **Inaccessible** to children and unauthorized people.
+2. **Protected** from rust and damage.
+3. **Accessible enough** for lawful defense if that is your plan.
+
+These goals **conflict** — a locked steel safe is slow; a bedside gun is fast. **Choose for your situation and local law.**
+
+
+LONG-TERM STORAGE (WEEKS TO YEARS)
+
+— **Cleared** or stored per local law: magazine out, chamber empty.
+— **Cleaned and oiled** before storage.
+— **Dry, dark, cool** space.
+
+**Rust prevention:**
+— Thin oil film on metal; **oiled patch in bore** for storage — **remove before firing.**
+— Silica gel in case/bag.
+— **Monthly** check in humid climates.
+
+**Packing:**
+— Oiled wrap + **plastic** box with desiccant beats damp basement alone.
+— **Leather** holds moisture — poor for **long** metal contact.
+
+**Surface rust care:** oil types (Ballistol, CLP class products) or light mineral oil; field substitutes as in **15.5**.
+
+
+READY STATE (LAWFUL DEFENSE CONTEXT)
+
+When quick access is needed:
+— Magazine **near** or **in** gun per training and law.
+— **Only** responsible adults; **never** children’s reach.
+
+**Pistol readiness jargon (training terms — verify with your instructor):**
+— **Condition 4:** mag out.
+— **Condition 3:** mag in, **chamber empty** — rack to fire.
+— **Condition 1:** chamber loaded, hammer/striker ready, **safety on** where applicable.
+— **Condition 0:** ready to fire — **maximum** risk; **trained users only.**
+
+**With children in the home:** many instructors prefer **3 or 4** for storage; **1** only on-body by trained carrier.
+
+
+TRANSPORT
+
+**Follow all applicable laws** — they vary widely by country/state/city.
+
+**General safety regardless of law:**
+— **Case or bag** prevents trigger snags in a vehicle.
+— **Secure** the gun — not sliding in the trunk.
+— If you need readiness, balance **legal** locked storage vs. access.
+
+**On foot:**
+— Long gun: **muzzle safe**, sling adjusted, not flagging the person ahead.
+— Pistol: **holster** that covers trigger — **not** loose in a pocket.
+— **Sling rule:** adjust length so the muzzle **never** covers you or teammates when slung.
+
+**Pocket carry without holster:** **high** negligent-discharge risk — avoid.
+
+
+GROUP STORAGE
+
+**Arms room concept:**
+— Central secured storage; **one accountable person** (armorer).
+— **Inventory:** what, serials if recorded, condition.
+— Issue and return with **verbal state** (“cleared” / “loaded”) and **personal** verification.
+
+**Rules:**
+— **No** unattended loose guns.
+— **Hand to hand** only; state condition.
+— **Don’t** handle others’ weapons without permission.
+— **Duty weapon stays with** the person on watch.
+
+**Children:** clear teaching — **do not touch**; **tell an adult** if they find a gun.
+
+
+SIGNS OF NEGLECT
+
+— Rust spots.
+— **Bulged** barrel (do **not** fire).
+— Loose sights, cracked stock, packed mud in action.
+
+**Surface rust + deep clean** may restore utility.
+**Bulged bore, cracked receiver, broken fire control** → **gunsmith** or retire the weapon.
+
+**If in doubt — do not shoot** until inspected.

@@ -1,0 +1,175 @@
+CHAPTER 5. MEDICINE AND FIRST AID
+5.3 Fractures, dislocations, burns — immobilization and care
+
+FRACTURES
+
+Signs:
+— Pain worse on loading.
+— Swelling, bruising.
+— Deformity.
+— Abnormal motion at site (do not test for crepitus on purpose).
+— Loss of function.
+
+Open fracture (bone through wound or wound at fracture site):
+— Very high osteomyelitis risk.
+— Irrigate wound, cover sterile.
+— Do not reduce bone in the field.
+— Antibiotics essential.
+
+Field principle:
+“Splint them as you find them.” Do not straighten without imaging and proper analgesia.
+
+
+IMMOBILIZATION (SPLINTING)
+
+Goal: immobilize joints ABOVE and BELOW the injury.
+
+Materials:
+— Boards, branches, ski poles.
+— Folded magazines/cardboard.
+— Rolled clothing/blanket (soft splint).
+— Inflatable splints if carried.
+
+Rules:
+1. Analgesia first (ibuprofen, ketorolac if available).
+2. Check distal pulse BEFORE and AFTER splinting.
+3. Padding under rigid splints — protect skin.
+4. Secure above and below fracture.
+5. Recheck pulse, sensation, color every ~30 min.
+6. Slight elevation reduces swelling.
+
+Humerus:
+— Splint armpit to elbow + sling.
+— Elbow ~90°, arm in sling around neck.
+
+Forearm:
+— Splint palm to elbow, elbow flexed, sling.
+
+Femur:
+— Severe — may lose ~1.5–2 L blood into tissues.
+— Long splint groin to heel; second splint inner thigh to heel.
+— Traction splint if trained and available for shaft fractures.
+
+Lower leg:
+— Splints both sides knee to foot.
+
+Clavicle:
+— Figure-8 wrapping both shoulders retracting scapulae, or sling supporting arm.
+
+Ribs:
+— Do NOT wrap tight — restricts breathing → pneumonia risk.
+— Analgesia (ibuprofen 400–600 mg q6h if safe).
+— Semi-sitting, lie on injured side for comfort.
+— Multiple ribs with flail segment (paradoxical chest wall) — urgent care.
+
+
+SPINE
+
+— Minimize movement.
+— C-collar: rolled clothes or cardboard.
+— Log-roll carry with several rescuers on one axis.
+— Paralysis or numbness — treat as unstable spine until ruled out.
+
+
+PELVIS
+
+— Massive blood loss possible (up to several liters in worst fractures).
+— Compression belt at level of greater trochanters (belts, sheet).
+— Supine, legs slightly flexed and adducted.
+
+
+DISLOCATIONS
+
+Signs:
+— Severe pain, deformity, no normal motion.
+— “Springy” block if tried.
+
+Rule:
+Reduce only if you are sure it is dislocation, not fracture. If doubt — splint as-is and evacuate.
+
+Shoulder (most common):
+— Many reduction techniques exist — slow traction methods; Stimson: prone, arm hangs with small weight at wrist to fatigue muscles.
+— After reduction — sling ~2–3 weeks.
+
+Finger:
+— Traction along digit with pressure at base.
+— Buddy-tape to neighbor finger.
+
+Jaw (TMJ):
+— Thumbs on lower molars (wrapped), press down and back — trained technique only.
+
+Hip:
+— Hard to reduce without help and strong analgesia — specialist methods.
+
+
+BURNS
+
+Degrees:
+
+First (superficial):
+— Red, painful, intact skin.
+— Heals ~3–5 days.
+
+Second (partial thickness):
+— Blisters, severe pain.
+— Superficial wet blisters — heal ~2–3 weeks.
+— Deep pale mottled — less pain, slower heal.
+
+Third (full thickness):
+— White, charred, leathery — nerve damage may reduce pain.
+— Needs grafting in hospital care.
+
+“Rule of nines” (adult rough %):
+Head 9%, each arm 9%, front torso 18%, back 18%, each leg 18%, groin 1% — verify pediatric charts separately.
+
+Critical: >~20% body surface deep partial/full thickness — high mortality without ICU-level fluid resuscitation.
+
+
+First aid — burns:
+
+1. Cooling:
+— Cool (not ice-cold) running water ~15–20 min.
+— Start ASAP — useful up to ~30 min post burn.
+— No ice on large burns (vasoconstriction injury).
+— No butter, oil, sour cream — bacterial growth medium.
+
+2. Clothing/jewelry:
+— Cut away clothing around burn; do not peel if stuck.
+— Remove rings and bracelets early — swelling follows.
+
+3. Cover:
+— Clean moist non-adherent dressing if possible.
+— Hydrogel dressings ideal when available.
+— No circumferential tight wraps.
+
+4. Blisters:
+— Do not pop — barrier to infection.
+— If ruptured — treat as open wound.
+
+5. Pain:
+— Ibuprofen 400–600 mg or acetaminophen 500–1000 mg.
+
+Field ongoing care:
+
+Superficial partial-thickness I–II:
+— Regular moist dressing changes (~1–2 days).
+— Chlorhexidine at changes if available.
+— Consider antibiotic prophylaxis for large II-degree.
+— Heal ~2–3 weeks.
+
+Large deep II / III:
+— Fluid resuscitation (Parkland-style estimate): 4 ml × kg × %TBSA burned = ml for first 24 h; half in first 8 h from burn time — IV in hospital; by mouth only if no IV and conscious — aggressive small frequent sips of ORS/water with medical guidance.
+— Antibiotics per severity and infection signs.
+— Dress changes in warm setting — hypothermia kills burn patients.
+
+Chemical burns:
+— Flush water 20–30 min.
+— Acid: weak baking soda solution after thorough rinse (controversial — priority is water).
+— Alkali: weak vinegar after water (again, water first).
+— Dry lime: brush off dry first, then water.
+
+Airway burns:
+— Facial burn + singed brows/lashes + hoarse voice + stridor.
+— Swelling can close airway in hours.
+— Hospital intubation if available.
+— Field: semi-sitting, humid/cool air, urgent evacuation.

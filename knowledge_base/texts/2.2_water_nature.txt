@@ -1,0 +1,108 @@
+CHAPTER 2. WATER
+2.2 Water in the wild: streams, dew, condensation
+
+FINDING WATER OUTDOORS
+
+There are more natural water sources than it seems — you need to know where to look and how to read signs.
+
+Search rule:
+Water flows downhill and collects in low spots. Follow the grade. Watch terrain, vegetation, and animals.
+
+
+FLOWING AND STANDING WATER
+
+Streams and rivers:
+Most reliable source. Prefer moving water over stagnant — fewer bacteria. Take water upstream of camps, roads, fields, and settlements. Mountain streams with rocky beds are often cleaner than silty lowland streams. Cloudiness is suspended solids (filterable). Color is dissolved matter — some cannot be removed by simple filtration.
+
+Lakes and ponds:
+Stagnant water — higher bacteria and algae. Algal blooms (cyanobacteria) — do not drink even after boiling; many toxins are heat-stable. Take water at an inflow, not at the shore — better mixing and quality. Sample 30–50 cm below the surface — fewer surface algae.
+
+Bogs:
+Last resort. High organic load, bacteria, tannins (color). Needs serious filtration and boiling. Smell is a clue: hydrogen sulfide or rot — very contaminated.
+
+
+GROUNDWATER
+
+Springs:
+Often the best natural source — water filtered through soil. Where to find: at hill bases and slopes, in damp draws, near green growth in dry terrain, where soil stays wet without rain. Spring water still needs boiling — especially near pastures (Giardia).
+
+Hand-dug well:
+Dig in low areas, near a dry streambed, at a slope toe. Find the lowest point between two highs. Depth depends on soil: sand 1–3 m, clay 3–8 m. Sign of water: damp dark soil while digging. Do not drink the first water — very silty. Let settle, then boil.
+
+Riverbank infiltration:
+Dig a hole 10–20 m from the riverbank — water that seeps in is often cleaner than river water. Soil filtration removes much bacteria.
+
+
+ATMOSPHERIC WATER
+
+Dew:
+Forms at night and early morning on grass, leaves, metal. Collection: wipe grass with cloth, or wrap cloth on legs and walk through dewy grass — wring out. A large cloth or plastic sheet on grass collects much more. Yield: on a good dew, ~0.1–0.5 L per m² of cloth overnight. Peak at dawn; by 9–10 AM it is gone.
+
+Condensation on metal:
+Metal roofs, pipes, cars cool at night and collect dew. Drain into a container in the morning. Often cleaner than grass dew.
+
+Plant condensation:
+Cut a leaf or young shoot — a little sap/moisture. Not a water substitute but may help in extremis.
+
+Solar still:
+Dig a pit ~30–40 cm deep, ~60–90 cm wide. Place a collection cup at the bottom. Cover with clear film; seal edges with soil. Put a small rock at the center to form a cone over the cup. Sun warms soil; moisture evaporates, condenses on film, drips into the cup. Yield ~0.3–1 L/day depending on soil moisture and sun. Speed tip: add damp leaves, wet moss, even urine on the pit floor — they evaporate and condense.
+
+Rainwater:
+Collect with film, burdock leaves, broad leaves as funnels. Discard the first 5–10 minutes if collecting from roofs.
+
+
+SIGNS WATER IS NEAR
+
+Terrain:
+Draws between hills, valleys, low points.
+
+Vegetation:
+Dense green growth in dry country — water nearby. Willow, poplar, alder, reed — always at water or high groundwater. Tall grass in a hollow — shallow groundwater.
+
+Birds:
+Birds fly to water morning and evening. Insects (flies, mosquitoes) cluster at water. Animal trails widen and converge at water — follow downhill. Tracks (especially cloven) at watering spots.
+
+Bees:
+Bees rarely fly >6 km for water. Watch flight direction.
+
+
+WATER FROM PLANTS
+
+Birch in spring:
+A cut in the trunk in spring (April–early May) yields birch sap — 1–5 L/day. Relatively clean water with sugars. Often drunk raw (boiling is still preferable).
+
+Young conifer shoots:
+Squeeze green needles — small amount of moisture.
+
+Fruits, berries, vegetables:
+Rich water source. Cucumber ~97% water; most fruit 80–90%. Count moisture in food.
+
+Plant stems:
+Cut thick reed or burdock stem — small amount of moisture. In tropics, bamboo may hold water in nodes.
+
+
+SEAWATER AND BRACKISH WATER
+
+Do not drink seawater:
+Salt causes net water loss — accelerates dehydration. One swallow will not kill you, but habitual drinking is lethal.
+
+Field desalination:
+Distillation: boil seawater in a closed pot; lead steam through a tube into a cool container — condensate is fresh. Low efficiency, high fuel cost. Mixing: slightly brackish water (<~1 g salt per liter) may be tolerable. Seawater ~35 g/L is ~35× over that limit.
+
+
+FIELD SOURCE ASSESSMENT
+
+Good signs:
+— Flowing water
+— Clear
+— No smell or neutral smell
+— Animals drink from it (not a safety guarantee, but encouraging)
+— No obvious pollution upstream
+
+Bad signs:
+— Unnatural color (orange, red, black)
+— Chemical or hydrogen sulfide smell
+— Dead animals nearby
+— No life in or near the water
+— Oil sheen
+— Persistent foam

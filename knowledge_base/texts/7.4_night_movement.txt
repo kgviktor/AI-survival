@@ -1,0 +1,130 @@
+CHAPTER 7. NAVIGATION AND MOVEMENT
+7.4 Night movement
+
+WHEN NIGHT MOVEMENT MAKES SENSE
+
+Harder and riskier than day — sometimes necessary:
+— High daytime detection risk (patrols, observers).
+— Emergency evacuation.
+— Summer heat — cooler at night.
+— Must cross open ground unseen.
+
+When to avoid:
+— Unfamiliar terrain with cliff/bog hazards.
+— Heavy urban ruin without light.
+— Fog, whiteout — disorientation.
+— If you can choose: travel by day, rest at night.
+
+
+NIGHT VISION ADAPTATION
+
+Dark adaptation:
+— First ~5–10 min partial; full ~30–45 min.
+— Bright light resets it instantly.
+
+Preserve night vision:
+— Dim light only for ~30–45 min before moving.
+— For map/phone: close one eye — keep other dark-adapted.
+— Red light preserves scotopic vision better than white — red lens or filter.
+
+Peripheral viewing:
+— Look ~10–15° off target — rods detect dim motion better than central fovea.
+— Scan slowly with side vision.
+
+Sudden flashes (explosion, headlights):
+— Close one eye before/during flash — one retina keeps adaptation.
+
+
+QUIET MOVEMENT
+
+Walking:
+— Toe contact, slow roll to heel.
+— Slower than feels needed — sharp steps noise.
+— Toe-test surface before loading weight.
+
+Clothing:
+— Cotton/wool often quieter than noisy synthetics.
+— Pad or pocket metal (keys, buckles).
+— Tighten pack straps — no flapping.
+
+Packing:
+— No rattles — pack tight, pad metal items.
+— Shake pack test before leaving.
+
+Listening halts:
+— Every ~50–100 m in threat areas: stop ~30–60 s, listen.
+— Human steps, voices, twig snaps, breathing.
+— Normal wind/animal noise vs suspicious silence (birds stopped).
+
+
+NIGHT NAVIGATION
+
+Without light:
+— Tree silhouettes against sky.
+— Wind direction if known from day.
+— Polaris if clear (Northern Hemisphere).
+— Moon: rises east, sets west; apparent position moves through night — learn basic sky for your latitude.
+
+Minimal flashlight:
+— Red preferred; cup hand around lens; beam at feet only, not horizon.
+— Prefer momentary on/off over long white flood.
+
+Urban night cues:
+— Window lights, fire glow.
+— Moon on water.
+— High-rise silhouettes.
+— Smell: food, smoke → people nearby.
+
+
+GROUP MOVEMENT AT NIGHT
+
+Spacing:
+— ~2–3 m if you can see lead silhouette.
+— Very dark: light touch on forward pack strap.
+
+Signals:
+— Agreed hand squeezes: one = stop, two = go, three rapid = danger.
+— Voice — whisper only when needed.
+
+Point man:
+— Slow; picks route.
+— Hand down = step; arms spread = obstacle, bypass.
+
+If separated:
+— Freeze; quiet recall signal.
+— Do not run randomly.
+— Use prearranged rally point.
+
+
+SPECIAL CONDITIONS
+
+Moon:
+— Full moon: you see better — you are also more visible.
+— New moon: stealthiest, poorest vision.
+— Moon behind cloud: you in shadow while open ground may still be lit — use edges.
+
+Snow:
+— Reflects light — brighter night; dark clothing silhouettes — white camo if hiding.
+— Crunch is hard to silence — slow steps; morning crust may be quieter than fresh powder.
+
+Fog:
+— Visibility ~5–20 m common — easy to get lost; compass every ~50 paces.
+— Sound carries oddly.
+— Often better to wait.
+
+Rain:
+— Footsteps masked.
+— Visibility drops; hypothermia risk if slow/wet.
+— Guards may be less alert — not reliable.
+
+
+TIME WINDOWS
+
+For stealth, ~03:00–05:00 often cited:
+— Human activity low.
+— Many people’s alertness dips before dawn.
+— Still dark in summer at mid-latitudes.
+
+Higher risk ~20:00–23:00:
+— Active looting/patrol periods in some crises.
+— Most people still awake.

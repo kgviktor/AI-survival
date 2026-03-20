@@ -1,0 +1,66 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.14 Generators and charging: watts, watt-hours, efficiency
+
+BASICS
+
+**Watt (W)** — power now.
+
+**Watt-hour (Wh)** — energy over time; **Wh ≈ V × Ah** for DC (12 V × 100 Ah = 1200 Wh nominal).
+
+**Efficiency:** fuel gensets ~25–35% fuel to electricity; panels ~15–22% cell class; inverters often ~85–95%; chargers ~80–95%.
+
+**Rated vs peak** — motors need **several ×** run watts to start — fridges, pumps.
+
+
+FUEL GENERATORS
+
+**Open frame** — loud; cheap.
+
+**Inverter generator** — cleaner sine; quieter; fuel-throttle; better for electronics.
+
+**Propane/LPG** — stable fuel storage; conversion kits exist.
+
+**Sizing:** add loads + **20–30%** margin; **500–1000 W** class lights + charge; **2–3 kW** adds kitchen loads carefully.
+
+**Fuel math (rough):** ~0.4–0.6 L gasoline per kWh at typical small-engine efficiency — plan jerrycans.
+
+**Gasoline storage:** stabilizer for >few month storage; **ventilated** fuel store; metal cans preferred by many.
+
+**Maintenance:** oil ~50 h or annual; spark ~100–200 h; air filter; **empty or stabilize** for storage.
+
+**CARBON MONOXIDE:** **never** run indoors or in garage attached to living space — exhaust kills silently. Outdoor, downwind, extension cords through window gap with remaining opening ventilated — see energy chapter `8.x`.
+
+
+SOLAR (SUMMARY — DETAIL IN CH 8)
+
+Nameplate W is lab STC; real output often **60–80%** peak hours; winter/cloud **much** less.
+
+**100 W panel × ~5 h good sun** ≈ **500 Wh/day** order-of-magnitude before losses.
+
+**MPPT** controller beats **PWM** on energy harvest.
+
+**Pure sine inverter** for picky chargers; modified sine for simple resistive loads only.
+
+
+BATTERIES
+
+**Powerbanks** — 10–30 Ah class @ 3.7 V nominal inside — ~3–6 phone charges per 10 Ah nameplate (conversion losses).
+
+Store Li-ion **~40–60% SOC** long term; top-up every **3–6 months**.
+
+**12 V AGM** — common; use **≤50%** for starter battery longevity; deep-cycle better for house loads.
+
+**LiFePO4** — many cycles; expensive; needs correct BMS charging.
+
+**Daily budget example:** 10 W lamp × 8 h + 5 W radio × 2 h + 10 W phone × 2 h ≈ **110 Wh/day** — 12 V 100 Ah (~1200 Wh) usable ~600 Wh → ~5 days without recharge at that draw.
+
+
+CHARGING GEAR
+
+Smart chargers for NiMH AA/AAA; Li-ion bays with **overcharge protection**.
+
+**Folding solar USB** — slow direct-to-phone; better into powerbank buffer.
+
+**Vehicle 12 V** — slow but works; DC-DC buck for efficient phone charging.
+
+**Hand-crank** — marginal Wh per effort — last resort supplement.

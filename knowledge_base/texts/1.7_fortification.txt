@@ -1,0 +1,107 @@
+CHAPTER 1. SHELTER AND A SAFE LOCATION
+1.7 Fortified structures and perimeter protection
+
+WHEN FORTIFICATION IS NEEDED
+
+Camouflage and concealment are the first layer of defense. If you are discovered or contact risk is high, you need a second layer: physical barriers. Fortification does two jobs: it slows entry (buying reaction time) and creates positions to observe and respond.
+
+Threat assessment before fortifying:
+Low threat (stray looters, random passersby): door barricade and a noisy perimeter are often enough. High threat (organized armed groups): serious hardening and multiple defensive layers. Do not waste scarce resources on fortification when threat is low — invest in supplies and scouting instead.
+
+
+HARDENING DOORS
+
+Doors:
+A wooden door can be kicked in at the hinges and lock area. Hinge reinforcement: steel strap across the hinge on both faces, long bolts through the door. Lock-area reinforcement: ~15×30 cm steel plate over the lock, bolted through. Diagonal bar: vertical wooden beam, bottom wedged to the floor, top under the door handle — blocks opening and needs no tools.
+
+Interior barricade:
+Furniture pushed tight against the door adds mass to shift. Wardrobes beat sofas for weight. Tilted furniture braces better than perfectly vertical. Tie multiple pieces together with cord — one combined mass.
+
+Metal doors:
+Better than wood, but hinges and the cylinder hole remain weak. Hinges can be pinned with welded rods from inside.
+
+Exterior approach obstacles:
+Prevent a running ram. Large objects (containers, vehicles) across a driveway. Junk piles that cannot be stepped over quietly.
+
+
+HARDENING WINDOWS
+
+Wooden grilles:
+~5×10 cm timbers vertically on ~15 cm centers, mortised/nailed into the opening. Outside mounting is harder (no backstop); inside mount to frame or adjacent wall. Diagonal (diamond) pattern is stronger than vertical-only.
+
+Steel bars:
+Rebar ≥12 mm welded into the frame. Field expedient: bundle rebars with wire into a grid, bolt to the window frame.
+
+Sandbags at windows:
+~30 cm of sand stops many small-arms projectiles. In survival conditions, use any bags filled with soil, gravel, or tightly packed damp leaves. Stack low and to the sides — cover for someone observing from inside.
+
+Furniture barriers:
+Tipped wardrobes and fridges at windows slow entry and provide cover.
+
+
+BUILDING A PERIMETER
+
+Why an outer ring matters:
+An outer perimeter warns before a threat reaches the building. That time lets you man positions, wake people, or pack for evacuation.
+
+Alarm perimeter:
+Tier 1 (~30–50 m from entrance): tripwire with cans ~25 cm off the ground; multiple rows. Bells, metal pendants. Tier 2 (~10–20 m): gravel or glass in pinch points.
+
+Physical fence:
+Materials: sheet metal, corrugated panels, boards, rebar stakes, barbed wire. Height: ~2 m — hard to climb without obvious effort. ~1.5 m slows but may not stop. Inward-leaning stakes on top strongly discourage climbing.
+
+Trenches and pits:
+A ~1 m wide, ~0.8 m deep ditch is hard to jump in the dark. Spike pits: build only if facing lethal armed threat — they are deadly traps. Mark them clearly for your own people.
+
+Clear field of view:
+Strip cover outside the fence: bushes, junk, cars. Open ground makes attack less attractive.
+
+
+DEFENSIVE POSITIONS INSIDE
+
+Defense in depth:
+Multiple lines — perimeter, building entry, specific floor, hardened room. Each line buys time to fall back.
+
+Hardened room:
+Last-ditch hold point. One door, reinforced as much as possible. Water, food, and med kit inside. Comms (if any) and evacuation plan.
+
+Observation / limited fields of fire:
+Loophole: small opening in wall, door, or metal sheet — see and respond without full exposure. ~15×10 cm is enough to observe. Cover: sandbags or heavy furniture in front of observation points.
+
+Dead zones:
+Walk the building for blind spots where approaches cannot be seen. Ensure every approach is visible from at least one post. Mirrors can see around corners.
+
+
+MATERIALS FOR FORTIFICATION
+
+Best materials by availability:
+
+Earth/sand bags:
+Most effective and accessible. Soil from any ground. Any bag: trash bags, pillowcases, backpacks. ~30 cm thickness — meaningful ballistic cover. ~50–60 cm — better fragmentation protection.
+
+Brick and blocks:
+One brick thickness (~12 cm) is weak against bullets. Two bricks (~25 cm) with mortar is serious. Without mortar, walls are quick to build but easy to dismantle.
+
+Metal:
+Sheet metal, doors, car hoods — slow but do not fully stop bullets. Good as an extra layer over earth fill. Filled drums or containers are mobile barriers.
+
+Wood:
+Weaker than brick or metal. Logs ≥20 cm diameter are substantial cover. ~5 cm boards slow but do not stop.
+
+Concrete:
+If you can mix cement and sand, concrete blocks outperform plain brick. Unreinforced concrete is brittle against impact.
+
+
+MANAGING THE FORTIFICATION
+
+Watch rotation:
+Fortifications are useless without observers. Rotate watches every 2–4 hours — fatigue kills awareness. Minimum one observer always.
+
+Passwords and recognition:
+Keyword or gesture for scouts returning — reduces friendly fire mistakes.
+
+Map the perimeter:
+Sketch where alarms, pits, and key positions are. Everyone in the group must know the layout.
+
+Maintenance:
+Check alarms daily. After rain, inspect pits — they may fill with water or collapse.

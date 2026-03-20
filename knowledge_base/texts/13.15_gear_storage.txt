@@ -1,0 +1,61 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.15 Storing and maintaining gear
+
+READINESS PRINCIPLE
+
+Gear fails you if you **cannot find it**, it is **dead battery / dull / empty**, or you **never practiced** with it.
+
+**Goal:** grab-and-go functional state 24/7.
+
+
+STORAGE LAYERS
+
+**On body:** knife, multitool, small light, fire, phone if carried.
+
+**Immediate pouch:** EDC med; water bottle; spare cells; radio.
+
+**Go-bag by exit:** full evacuation kit — **30-second** grab.
+
+**Shelter cache:** long food, fuel, bulk med, duplicates.
+
+
+LABEL AND LOG
+
+Container exterior: **contents list** + last check date + expiry notes for food/drugs/cells.
+
+Master spreadsheet: item / qty / location / condition / checked.
+
+**Color code** optional: red med, blue comms/nav, green food/water, orange tools, yellow docs/cash.
+
+
+MAINTENANCE SCHEDULE
+
+**Monthly:** top lights/radio/powerbank; visual gear pass; bug-out bag present?
+
+**Quarterly:** clothing zippers, seam tape, DWR; **knife/axe edge**; boot soles; **radio check**; generator exercise **outdoors** with load; med expiry sweep; food rotation.
+
+**Annual:** full inventory audit; replace expired; wash sleep systems; oil steel tools; **document copies** refresh; cash in emergency stash checked for damage; **wear the pack 2–3 km** — adjust fit and contents.
+
+
+ITEM-SPECIFIC
+
+**Knives:** sheathed; oiled carbon.
+
+**Firearms (where legal):** secured locked storage; rules vary — follow law; clean after use; **ammo separate** per safe practice.
+
+**Electronics:** remove **alkaline** cells for long storage (leak damage); Li-ion ~50% SOC; silica gel in box; avoid car summer heat for batteries.
+
+**Documents:** laminated or waterproof pouch; copies off-site.
+
+**Food:** cool, dark, dry; **FIFO**; oxygen absorbers for grains optional.
+
+**Moisture:** pack liner + dry bags inside; desiccant in tubs; inspect for mold.
+
+
+EVACUATION WEIGHT
+
+**Three-zone rule:** body = survive 24–72 h if pack gone; pack = main kit; vehicle = bulky extras.
+
+**Target:** ≤~15–20 kg pack for fast foot movement if you must.
+
+**Pre-flight checklist:** water ≥2 L; food ≥3 days; fire triple; light + cells; shelter; med L2; compass + map; comms + charge; knife + tool; docs; cash.

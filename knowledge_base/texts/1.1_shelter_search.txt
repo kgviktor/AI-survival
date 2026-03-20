@@ -1,0 +1,99 @@
+CHAPTER 1. SHELTER AND A SAFE LOCATION
+1.1 Finding shelter: abandoned buildings, metro, basements
+
+GENERAL PRINCIPLES FOR CHOOSING SHELTER
+
+Good shelter provides three things: protection from the elements (weather, temperature), safety from people and animals, and a chance to rest. In urban survival, a fourth factor is added: concealment.
+
+Priority when choosing:
+1. Structural integrity (it will not collapse)
+2. Protection from wind and precipitation
+3. Ability to heat the space
+4. A backup exit route
+5. Low visibility from outside
+
+Your first shelter does not have to be perfect — it should buy you time to find a better one.
+
+
+ABANDONED BUILDINGS
+
+Scout from outside before entering:
+Spend 5–10 minutes observing from outside. Are there signs someone is already inside: tracks, light, smoke, food smells? Signs of collapse: a sunken roof, severe wall tilt, foundation cracks? Signs of fire or chemical contamination: soot, unusual odors.
+
+How to enter:
+Do not rush through the first door you see — walk around the building and locate all entrances. Use a secondary entrance (not the main one) — it is less conspicuous. Keep a retreat path. Move slowly and listen.
+
+Types of suitable buildings:
+— Apartment blocks: many room options, water may still be in the plumbing, familiar layout.
+— Office buildings: often good ventilation, water coolers, first-aid kits, and they may attract fewer looters than residential buildings.
+— Industrial buildings: large, easy to hide in, often tools and materials. Downsides: hard to heat, possible chemical hazards.
+— Schools and hospitals: often backup water and medical supplies, solid construction, multiple floors.
+— Shopping malls: large resource pools, but they easily attract other people.
+
+Best floor:
+Second to fourth floor is optimal. Ground floor: easy outside access, flood risk, colder. Top floors: collapse risk, hard to carry water and supplies, colder in winter. Basement: stable temperature and concealment, but often one exit, flood risk.
+
+Room inside the building:
+Choose interior rooms without exterior walls — warmer and less visible from outside. Corner rooms are worse: two exterior walls = colder and more visible from outside. Rooms near stairs give a fast exit. Avoid rooms over large voids (garage, underground parking) — higher floor-failure risk.
+
+
+METRO AND UNDERGROUND STRUCTURES
+
+Advantages of the metro:
+Fairly stable temperature year-round (+12…+15 °C), protection from precipitation, wind, and some radiation. A branching network offers multiple withdrawal routes. Technical rooms often contain tools and supplies.
+
+Disadvantages and hazards:
+— Powered rails: even in an emergency, rails may remain energized. Never step on rails or touch the third rail.
+— Limited air: without ventilation, CO₂ builds up in sealed tunnels.
+— Darkness: without a light source, orientation is nearly impossible.
+— Crowding: metro attracts many refugees — competition for resources and safety risks.
+— Flooding: if pipes fail or rains are heavy, tunnels can fill with water quickly.
+
+How to use the metro:
+Locate ventilation shafts first — they bring fresh air and serve as landmarks. Service tunnels and technical rooms are often locked with simple locks — possible access to supplies and tools. Prefer station areas over long tunnels: more space, better ventilation, multiple exits. Do not burn open flame in sealed tunnels without ventilation.
+
+Underground parking:
+Worse than metro — weak ventilation, one or two exits, easy to trap. Use as temporary shelter, not a long-term base.
+
+Utility tunnels and collectors:
+Risky due to possible flooding and poor ventilation. Good concealment. In collectors, water generally flows from the center toward the city edges (toward the river). Can be used to move between districts discreetly.
+
+
+BASEMENTS OF RESIDENTIAL BUILDINGS
+
+Advantages:
+Stable temperature (+5…+10 °C in winter), good concealment, protection from wind and precipitation.
+
+Assess a basement before use:
+Check the floor for standing water or flood marks. Find all exits: hatches, vent windows, emergency doors. Smell the air: rotten-egg odor (hydrogen sulfide) or gas — do not enter. Check for gas lines — after damage, gas can accumulate low.
+
+
+Basement ventilation:
+Without ventilation, CO and CO₂ from any fire build up fast. Use vent windows (small openings at building base) for airflow. If none exist, a 10 cm PVC or metal pipe routed outside through a window, with bends, can create natural draft.
+
+Typical basement problems:
+Dampness and mold during long stays cause respiratory issues. Mitigation: plastic sheet flooring, ventilation, and preventing condensation on walls.
+
+
+COMPARING MULTIPLE OPTIONS
+
+If you can choose among several shelters, score them:
+
+Structure (will it hold?)              — 1–5 points
+Exits (at least two?)                  — 1–5 points
+Heating (can you safely use fire?)     — 1–5 points
+Water (nearby or inside?)              — 1–5 points
+Concealment (not obvious outside?)     — 1–5 points
+Resources (usable materials/supplies?) — 1–5 points
+
+Maximum 30 points. 20+ is a good pick. Below 15 — keep looking.
+
+
+SIGNS YOU MUST LEAVE THE SHELTER IMMEDIATELY
+
+— Unfamiliar tracks appear inside
+— Outside smoke smell is increasing
+— Sounds of machinery or an organized group nearby
+— Structural noises: cracking, groaning load-bearing members
+— Gas smell
+— Water is rising from below

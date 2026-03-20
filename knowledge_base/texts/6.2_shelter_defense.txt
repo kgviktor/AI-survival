@@ -1,0 +1,120 @@
+CHAPTER 6. SECURITY
+6.2 Shelter defense: barricades, traps, alarms
+
+LAYERED DEFENSE CONCEPT
+
+Good protection uses multiple layers. Each layer buys time and information:
+
+Layer 1 — Perimeter (far): noise trips, warning devices, visible “occupied” cues.
+Layer 2 — Approaches: obstacles that slow and sound.
+Layer 3 — Entry: hardened doors, fixed barricades.
+Layer 4 — Interior: safe room, escape routes.
+
+Goal is not to “win a siege” — goal is time to decide (leave or fight) and preserve surprise.
+
+
+PERIMETER AND ALARMS
+
+Simple trip systems:
+
+Cord trip:
+— Cord/fishing line ~15–20 cm above ground across likely paths.
+— Tie cans with pebbles, bells, metal lids.
+— Hard to see at night; noise on contact.
+— Set ~10–15 m from shelter.
+
+Brush and debris:
+— Dry crunch (twigs, leaves, gravel) on paths — every step heard at night.
+
+Broken glass:
+— Under windows and along walls outside — instant noise cue.
+
+Bedroom trip line:
+— Fine thread across path to bowl of water or can by sleeping position — wakes you if pulled.
+
+Yard perimeter:
+— Fence/wall plus topping hazards (glass, nails, barbed wire) where legal and ethical for your situation.
+— Gates are weak points — reinforce and add solid bolts.
+
+Night lighting:
+— Lights aimed at approaches.
+— Backlighting: light in attacker’s eyes; you stay in shadow.
+
+
+BARRIERS AND HARDENING
+
+Doors:
+— Metal doors preferred over hollow wood.
+— Extra bolts, bars, hasps.
+— Wood door: cross-brace ~50×100 mm in brackets — resists kicking.
+— Diagonal brace floor-to-door at ~45° — simple strong block.
+— If door swings out, pin/weld exterior hinges when feasible.
+
+Furniture barricade:
+— Sofas, cabinets, fridge at door.
+— ~60–80 cm depth of mass slows even armed entry.
+— Fill gaps — no run-up space.
+
+Windows:
+— Shutters first choice.
+— If none: board the frame, not just the glass pane.
+— Sandbags inside below window line — some ballistic help from street level.
+— Boarded window with narrow slit — observation port.
+
+Stairwells (upper floors):
+— Remove lower steps if desperate — rope ladder for your exit only.
+— Debris on stairs — noise + “abandoned” look.
+
+Building entry:
+— Seal main entry to look vacant (brick, boards, junk).
+— Use side window, roof hatch, adjoining building as true entry.
+— Hide signs of use at the obvious door (light, noise, tracks).
+
+
+NON-LETHAL DELAY DEVICES
+
+Goal: warn and slow, not kill.
+
+Pit trap:
+— ~50–60 cm deep on path, covered with sticks/leaves.
+— Leg drops — noise, loss of momentum.
+— Only where enemy approach is likely; mark for your team (secret tree blaze).
+
+Trip line / stumble cord:
+— Ankle-height cord to cans or simple stumble.
+
+False trails:
+— Beat decoy paths away from real shelter.
+— Old cold fire rings on false routes.
+
+
+OBSERVATION
+
+Day:
+— Window from inside low (sit or lie) — head not silhouetted.
+— Angle view slightly off direct line through slit.
+— Do not press against glass — silhouette visible.
+
+Night:
+— Do not stare from dark room into bright outside — ruins night vision.
+— Use peripheral vision — look slightly beside the target.
+— Optional distant external LP/OP.
+
+Group watch:
+— Shifts ~2–4 h.
+— Two watchers: one scans, one listens (different sectors).
+— Signal line to shelter (cord tension codes, radio if available).
+
+
+ESCAPE ROUTES
+
+Always have Plan B:
+— Second exit: other window, roof hatch, neighbor unit, basement connector.
+— Route rehearsed; whole group knows it.
+— Rally point if split during evacuation.
+
+Cache along route:
+— Small stash of water, food, map ~200–500 m from main shelter — if you bolt empty-handed.
+
+“Never trap yourself”:
+— One exit only = trap. Secure second route before settling in.

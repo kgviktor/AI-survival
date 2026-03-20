@@ -1,0 +1,136 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.10 Fuel: range math, biodiesel, alcohol as fuel
+
+FUEL RANGE MATH
+
+Basic:
+— Your consumption (L/100 km or MPG): add **20–30%** for load, off-road, bad roads.
+— Liters needed = distance × (L/100 km) / 100.
+
+Example:
+— 10 L/100 km baseline.
+— Trip 300 km.
+— With margin: 300 × 12 / 100 = **36 L**. Add **20%** ≈ **43 L**.
+
+Factors that raise use:
+— Full load: **+10–20%**.
+— Off-road: **+50–100%**.
+— Mountain roads: **+20–40%**.
+— Winter warm-up: **+15–25%**.
+— High speed (e.g. &gt;120 km/h sustained): **+20–30%**.
+
+**Jerrycan reserve:**
+— Keep **20–40 L** extra when traveling in uncertainty.
+— Long routes: plan **500+ km** margin beyond nominal distance when feasible.
+
+**Gasoline storage:**
+— Metal cans often permeate less than thin plastic.
+— Stabilizer (e.g. Sta-Bil): slows oxidation.
+  — With stabilizer: often **12–24 months** usable if kept cool/dark.
+  — Without: **3–6 months** typical before noticeable degradation (varies by fuel).
+— Cool, shaded, away from sparks/heat.
+
+**Diesel storage:**
+— Generally more stable than gasoline.
+— **Summer diesel in winter** can wax/gel — use **winter-grade** or anti-gel additive for cold storage.
+— **Biocide** for long-stored diesel — microbial growth in water phase.
+
+**Water in tank:**
+— Partial tanks condense moisture.
+— Keep tank **full** when storing.
+— Fuel dryer additives (isopropanol types) for trace water issues — follow label.
+
+
+BASE FUEL FOR GENERATORS
+
+If a **~2 kW** generator runs ~**1 kW** load: often **~0.5–0.7 L/h** (model-dependent).
+
+— 10 h/day ≈ **5–7 L/day**.
+— Month ≈ **150–210 L**.
+
+**Bulk storage:**
+— IBC totes (~1000 L) on pallets — industrial supply.
+— **200 L** drums common.
+— **20–30 L** cans for rotation and transport.
+
+**Crisis refuel ideas:**
+— Hand-crank pumps where legal/safe.
+— Underground station tanks may hold fuel after grid loss — **authorized access only** in normal law.
+— Manual pump/siphon from another vehicle tank — **fire/explosion/legal** risks — only where lawful and safe; never sparks, never inhale vapors.
+
+
+ALTERNATIVE FUELS
+
+BIODIESEL
+
+Principle:
+— Vegetable oil + methanol + catalyst (alkali) → biodiesel + glycerin layer.
+— Reaction: **transesterification**.
+— Runs in diesel engines; often blended with pump diesel.
+
+Feedstock:
+— Any vegetable oil: sunflower, rapeseed, soy.
+— Used fryer oil: cheap but must be **filtered/dewatered**.
+— Animal fat: works; worse cold-flow.
+
+Components:
+— **Methanol:** ~**20%** of oil volume by common small-batch recipes. **Toxic, flammable** — outdoor work, no ignition sources.
+— Catalyst: **NaOH** or **KOH**.
+  — Rule-of-thumb **~3.5–7 g KOH per liter** fresh oil (titrate for used oil in serious practice).
+
+Simple lab-scale batch (**1 L** — illustrative; scale chemistry carefully):
+
+1. Check for water: heat a sample — bubbling suggests water; dry oil first.
+2. Heat oil to **~55 °C** (don’t overheat).
+3. Dissolve **~3.5 g KOH** in **~200 mL methanol** (**exothermic** — add slowly, ventilation).
+4. Slowly add methoxide to oil with mixing.
+5. Mix **30–60 min**.
+6. Settle **8–12 h**.
+7. Bottom: dark glycerin; top: lighter biodiesel.
+8. Drain glycerin.
+9. **Wash** biodiesel with water (multiple gentle washes) to remove residual catalyst.
+10. **Dry:** gentle heat to drive off water.
+
+**Use:** neat **B100** often OK above **~+10 °C**; in frost blend with diesel (**B20–B50**). Neat biodiesel can gel in cold.
+
+**Safety:**
+— Methanol: volatile, flammable, **toxic** (vapor hazard) — **outdoors**, PPE.
+— Caustic: **gloves + eye protection** mandatory.
+
+**Home scale:** **20–50 L** batches are sometimes done in garages; larger needs proper reactor/agitation.
+
+DIRECT VEGETABLE OIL (SVO)
+
+— Some **old** diesels (early VW diesels, tractors) tolerate neat oil with modifications.
+— **Modern common-rail:** generally **not** recommended without professional conversion — injector/coking issues.
+— **Blend** up to **~20%** oil in diesel: sometimes tolerated short-term in older mechanical pumps — **risk remains**.
+— **Fuel heating** before injection reduces viscosity.
+
+
+ETHANOL AS FUEL
+
+— High octane; **less energy per liter** than gasoline → higher consumption on same tune.
+— Blends **E5–E85** exist globally.
+— **E10:** widely compatible with modern gasoline cars (check manufacturer for classics).
+— **E85:** **flex-fuel** vehicles only.
+
+Issues in engine:
+— Can swell/degrade some rubbers; check compatibility.
+— **Water absorption** — phase separation in storage.
+— Can increase corrosion in wrong materials.
+
+**Moonshine / high-proof ethanol** as emergency extender:
+— **70–80%** ABV sometimes discussed as **E20–E30-equivalent** blends in folklore — tuning/richness issues; **illegal** many places; **fire** risk.
+— **Legal/industrial ethanol** for fuel use is regulated — this section is **crisis theory only**, not recipe for tax evasion.
+
+**Methanol as fuel:**
+— Racing/historic use; **very toxic**; aggressive to metals/seals — not a gasoline substitute without engineered systems.
+
+
+LPG / CNG
+
+**LPG (propane/butane):** dual-fuel kits common in some regions; cylinder stockpile possible.
+
+**CNG:** high-pressure tanks; infrastructure dependent.
+
+**Wood gas** (historic gasifiers): wood → combustible gas for engines — slow start, heavy adaptation — historical interest and niche builds.

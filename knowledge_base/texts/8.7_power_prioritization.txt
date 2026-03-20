@@ -1,0 +1,76 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.7 Power budgeting when energy is limited
+
+ENERGY BUDGET MINDSET
+
+Treat watt-hours like cash.
+
+Steps:
+1. Estimate daily Wh in (battery usable + solar/generator).
+2. List loads and watts.
+3. Allocate runtime hours.
+4. Keep ~20–30% reserve.
+
+
+PRIORITY LEVELS
+
+1 — Critical (life/safety):
+— Phone, radio; medical devices (pump, CPAP); minimal safety lighting; flashlight charge.
+
+2 — Important:
+— Evening room light; power bank topping; water pump; group comms.
+
+3 — Useful:
+— Laptop for maps/docs; small fan.
+
+4 — Cut first:
+— Electric kettle, space heaters, microwave, large AC fridge, idle wall warts.
+
+
+TYPICAL DEVICE POWER (ROUGH)
+
+<5 W: phone charge ~5–15 W; 1–5 W LED lamps; radio receive ~0.5–1 W.
+
+5–50 W: laptop ~20–65 W; tablet ~10–25 W; 12 V fan ~5–15 W; small 12 V pump ~5–20 W; 12 V compressor fridge ~30–60 W average.
+
+50–300 W: TV; inverter tare ~5–20 W; loaded inverter + losses ~+20%.
+
+300+ W: kettles, irons, heaters, hair dryers, washers — avoid on small systems.
+
+
+EXAMPLE DAY (~500 Wh BUDGET)
+
+Phones 2× ~10 W × 2 h = 40 Wh
+Radio ~2 W × 4 h = 8 Wh
+LED 5 W × 3 lamps × 4 h = 60 Wh
+Pump ~12 W × 0.5 h = 6 Wh
+Laptop ~40 W × 2 h = 80 Wh
+Total ~194 Wh — remainder reserve or extra tasks.
+
+Bad weather plan: drop laptop; cut lamps; phone only essential use.
+
+
+SAVE POWER HABITS
+
+— On only when needed; kill standby.
+— Charge during solar/gen windows when possible.
+— Batch charging sessions.
+— Phone: min brightness; radios/WiFi/GPS off; airplane mode when idle.
+— Laptop: low brightness; battery saver.
+— LEDs only; task light not whole room.
+
+Battery care:
+— Shallow cycling extends lead-acid life; stop heavy loads before ~12.0 V resting on starter types.
+— LiFePO4: follow BMS low-voltage cut.
+
+
+MONITORING
+
+Voltmeter on battery:
+— Charging ~13.5–14.7 V (lead absorption).
+— Rest full ~12.6–12.8 V.
+— ~12.0–12.2 V — reduce loads.
+— <~11.8 V — critical — shed nonessential.
+
+Ammeter shunt or clamp — see who draws current.
+Plug-in watt meter — inventory AC loads.

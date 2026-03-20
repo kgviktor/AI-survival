@@ -1,0 +1,102 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.1 Finding and using ready-made power sources
+
+WHY ELECTRICITY MATTERS IN CRISIS
+
+Even small power enables:
+— Phone charging (comms, maps, flashlight).
+— Radio (information).
+— Shelter lighting (night safety).
+— Some medical devices.
+— Charging power banks.
+
+Load priority (typical):
+1. Comms and information.
+2. Lighting.
+3. Medical needs.
+4. Food prep.
+5. Comfort.
+
+
+SCAVENGED DC SOURCES
+
+Car batteries:
+— Very common early in crisis.
+— Typical 12 V ~60 Ah ≈ ~720 Wh if fully charged (usable fraction lower for starter batteries).
+— Garages, abandoned cars, shops, warehouses.
+— Multimeter: ~12.6 V full, ~12.0 V ~50% SOC, ~11.5 V very low.
+— Flooded lead-acid self-discharges over months without maintenance.
+
+UPS units:
+— Offices, clinics, server rooms — 12 V blocks inside (or 24/48 V strings).
+— Small units ~7–12 Ah; large server UPS ~40–100+ Ah.
+— Open case, disconnect terminals safely.
+
+Power tool packs:
+— Li-ion ~18–21 V, ~2–5 Ah — usable with proper buck converter to 5 V USB.
+
+Power banks:
+— Homes/shops — ~10,000–30,000 mAh typical; 5 V USB output.
+
+
+FUEL SOURCES
+
+Gas/diesel generators:
+— ~230/120 V AC; fuel ~0.3–0.8 L/h per kW load (varies).
+— Loud — signature risk. **Never run indoors** — CO kills. Use outside, optional baffle box/shed with airflow — see 8.5.
+
+Inverter generators:
+— Quieter, efficient at partial load (Honda EU, Yamaha EF class, etc.).
+
+Propane generators:
+— Cylinders widely sold in many regions.
+
+
+PASSIVE / ENGINE SOURCES
+
+Solar panels:
+— Roof installs, garden stores (~5–50 W kits). See 8.4.
+
+Small wind:
+— ~12–24 V turbines on some rural sites.
+
+Vehicle alternator (engine running):
+— ~12–14 V, high amps while engine runs — tap at battery with engine on.
+— Idle fuel ~0.5–1 L/h typical.
+
+
+BEFORE YOU USE A FOUND SOURCE
+
+Ask:
+— Voltage? (6, 12, 24, 48, 120/230 V)
+— DC or AC?
+— Capacity or power rating?
+— Physical damage? Leakage?
+
+Checks:
+— Multimeter on terminals.
+— Inspect case for cracks, swelling, leaks.
+— Smell: burnt insulation, sulfuric acid.
+
+Safety:
+— Do not short + and − (arc, fire).
+— Damaged flooded battery — gloves/eye protection.
+— Swollen/hot Li-ion — fire risk; isolate outdoors.
+
+
+CONNECTING 12 V LOADS
+
+Auto accessories:
+— Cigarette socket plug → many 12 V gadgets.
+— 12 V → 5 V USB adapters for phones.
+— 12 V LED lamps direct connect.
+
+Phone from 12 V:
+— Car USB adapter or buck module ~5 V.
+— ~5–10 W (~0.4–0.8 A at 12 V) typical charge.
+
+Inverter (12 V DC → AC):
+— Modified sine cheaper; pure sine better for sensitive chargers.
+— ~10–20% conversion losses.
+— ~150–300 W class covers many small AC needs.
+— Short thick leads from battery (e.g. ≥~6 mm² copper for ~150 W — verify length and inverter manual).

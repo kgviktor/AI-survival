@@ -1,0 +1,105 @@
+CHAPTER 2. WATER
+2.1 Water sources in the city
+
+WATER PRIORITY
+
+Rule of threes: without water a person dies in about 3 days. With exertion and heat — faster. Water is the first priority after shelter.
+
+Daily needs:
+— Bare survival minimum: 1 liter (drinking only, no cooking or hygiene)
+— Comfortable minimum: 2–3 L (drinking + minimal hygiene)
+— With cooking and sanitation: 4–6 L
+— Physical labor in heat: up to 8–10 L
+
+Dehydration signs: dark urine (normal is pale yellow), headache, dizziness, poor concentration. Dark urine means you are already dehydrated — drink immediately.
+
+
+MUNICIPAL WATER AFTER SHUTOFF
+
+Residual pressure in pipes:
+After the supply is cut, water remains in the lines. In a multi-story building that can be hundreds of liters. Open a tap on the lowest floor — water will drain by gravity.
+
+Water heaters and boilers:
+A tank water heater (50–200 L) is a large reserve of relatively clean water. Open the drain cock at the bottom. Water inside is often suitable for drinking — it was hot and effectively pasteurized.
+
+Toilet tanks:
+The tank usually holds 6–12 L. Water in the tank — not the bowl — is clean potable water. Collect from every apartment in the building: many floors × many apartments = hundreds of liters.
+
+Heating systems:
+Water in radiators and heating pipes is not drinking water. It contains corrosion inhibitors, rust, and sometimes antifreeze. Do not drink without serious multi-stage treatment.
+
+Fire systems:
+Fire hydrants and tanks in large buildings. Water is non-potable — needs treatment.
+
+
+NATURAL SOURCES IN THE CITY
+
+Rainwater:
+Often the cleanest urban source. Collect from clean surfaces: plastic pallets, film, clean metal sheets. Do not collect the first 5–10 minutes of rain: it washes contaminants off the roof. Rain from tile roofs is better than from bitumen. Rig: film as a funnel into a container. Store in closed containers; use within 24–48 hours or boil.
+
+Snow:
+Clean snow from uncontaminated surfaces is a good source. Do not collect yellow or gray snow or roadside snow (salt, heavy metals). Snow-to-water ratio is roughly 10:1 (10 L snow ≈ 1 L water). Melt gradually — do not eat snow directly (hypothermia, high energy cost).
+
+Urban rivers and streams:
+High risk of fuel, sewage, and chemical contamination. Requires full multi-stage treatment. Use only if no better option. Take water upstream of industry and dumps.
+
+Groundwater:
+Some cities have springs and shallow groundwater outcrops. Quality depends on depth and distance from pollution. Deep (artesian) water is usually much cleaner than surface water.
+
+
+UNUSUAL URBAN SOURCES
+
+Water coolers:
+Offices, schools, hospitals — large bottles of clean water. A 19 L bottle = about 7–10 days minimum supply for one person.
+
+Pools:
+Chlorinated — that helps. Volume 50–80 thousand liters — huge reserve. If stagnant for long, algae grow — needs additional disinfection.
+
+Aquariums:
+Small volume but relatively clean water. Boil before drinking.
+
+Air conditioning:
+Condensate from AC units is distilled water. A drip tray can collect 1–3 L per day in hot weather. Relatively clean; minimal treatment needed.
+
+Basements and mechanical floors:
+Technical tanks — check every building. Often 1–5 thousand liters of non-potable or technical water.
+
+
+ASSESSING WATER QUALITY WITHOUT TEST KITS
+
+Visual:
+Clear is better than cloudy. Cloudiness does not always mean danger; clarity does not guarantee safety. Oil film on the surface — petroleum hazard. Foam that does not dissipate — organic or chemical contamination.
+
+Smell:
+Chlorine smell — treated, relatively safer. Rotten-egg (hydrogen sulfide) — may be natural springs or bacterial growth. Chemical smell (gasoline, solvent) — do not drink.
+
+Taste:
+Metallic — rust or heavy metals. Bitter — possible alkali or chemicals. Soapy — alkaline. Salty — dissolved minerals (may be OK) or seawater/brackish water (do not drink in quantity).
+
+Safety rule:
+If in doubt — treat and boil. Illness from bad water can kill faster than thirst.
+
+
+SOURCE PRIORITY (best to worst)
+
+1. Bottled water (no treatment needed)
+2. Water heaters and boilers (clean, was heated)
+3. Toilet tanks (municipal supply water)
+4. Cooler bottles (clean)
+5. Rainwater (collected correctly)
+6. Melted snow (from clean surfaces)
+7. Pools (needs disinfection)
+8. Urban rivers (high risk, full treatment)
+9. Puddles and surface pools (last resort)
+
+
+WATER RECONNAISSANCE WHEN ENTERING A NEW BUILDING
+
+First 5 minutes in any building:
+— Open taps on the lowest floor — is there water?
+— Find water heater/boiler — how many liters?
+— Count toilet tanks × ~10 L
+— Check basement for technical tanks
+— Look for office water coolers
+
+Keep inventory: water stock for X people = X days at Y L/day.

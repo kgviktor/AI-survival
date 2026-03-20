@@ -1,0 +1,144 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.12 Motorcycle and bicycle: basic repair and maintenance
+
+MOTORCYCLE IN A CRISIS
+
+Advantages:
+— Maneuver: gaps cars can’t use.
+— Fuel: often **~3–6 L/100 km** — much better than many cars.
+— Bypass jams and rough tracks.
+
+Disadvantages:
+— Weather exposure.
+— Little cargo.
+— High injury risk in crashes.
+— Winter: limited use in ice/snow.
+
+**Good crisis types:**
+— Dual-sport / enduro: clearance, tough wheels.
+— **250–650 cc** often balances power vs fuel.
+— **Carbureted** bikes: simpler field repair where still available.
+
+
+ROUTINE MOTORCYCLE CARE
+
+**Engine oil:**
+— Change **~3–5k km** (often sooner than cars under hard use).
+— Level: dipstick or sight glass.
+— Viscosity per manual (**10W-40** common).
+
+**Air filter:**
+— Paper: blow out gently; replace **~15–20k km**.
+— Foam (off-road): wash in solvent, dry, re-oil.
+
+**Spark plugs:**
+— Check **~5–10k km**; gap often **0.6–0.8 mm**.
+— Dark fouling — rich/oil; white — lean/overheat.
+
+**Drive chain:**
+— Slack **~20–30 mm** mid-span (spec in manual).
+— Lube every **500–1000 km** with proper chain lube.
+— Clean with kerosene or chain cleaner when gritty.
+— Sprockets wear with chain — replace as a set.
+
+**Brakes:**
+— Fluid level; change fluid **~2 years**.
+— Pads: **≥2–3 mm** friction material typical minimum.
+— Drums: cable adjustment.
+
+**Electrics:**
+— Small battery dies fast if lights left on.
+— Long storage — disconnect or tender charge.
+— Spare bulbs.
+
+**Tires:**
+— Pressure: often **~2.0–2.5 bar** front, **~2.2–2.8 bar** rear — **follow sidewall/bike manual**.
+— Tread minimum often **~1.5–2 mm** legal zones — replace earlier off-road.
+— Puncture: rope plug similar idea to cars (tread only).
+
+**Carb (if fitted):**
+— Clean jets with acetone/carb cleaner; compressed air on passages.
+
+**Forks:**
+— Leaking seals (oil on fork legs) — service before long trip.
+
+
+FIELD MOTORCYCLE FIXES
+
+**Won’t start:**
+1. Fuel on? Petcock/reserve?
+2. Spark: pull plug, ground, crank.
+3. Clogged pilot/main jets.
+4. Weak battery: bump start in **2nd** gear — clutch dump at **~10–15 km/h**.
+
+**Broken chain:**
+— Shorten with master link spare; carry **master link + tool**.
+
+**Snapped throttle/clutch cable:**
+— Route spare cable; temporary wire/zip-tie **only** to limp.
+
+
+BICYCLE IN A CRISIS
+
+Advantages:
+— No fuel — human power.
+— Simple repair.
+— Quiet.
+— Cheap.
+— Path flexibility.
+
+Disadvantages:
+— **~15–30 km/h** typical.
+— Cargo **~20–40 kg** with racks; more with trailer.
+— Physical effort.
+
+**Types:**
+— **MTB:** tough frames, wide tires, often disc brakes.
+— **Touring:** speed + racks.
+— **Cargo bikes:** heavy loads (model-dependent).
+— **Fat bike:** soft surfaces/snow.
+
+**Suggestion:** hardtail MTB with **hydraulic or mechanical discs**, **1×** or **3×8** drivetrain simplicity.
+
+
+ROUTINE BICYCLE CARE
+
+**Chain:**
+— Lube every **200–400 km**; wet lube rain; dry lube dust.
+— Wear gauge or **12-link rule:** **12 inner links** should measure **~304.8 mm** (12 in) when new; elongation = replace chain (and often cassette).
+
+**Cables:**
+— Brake engages around **⅓** lever travel after adjustment.
+— Barrel adjusters on levers; light oil inside housing.
+
+**Brakes:**
+— Mechanical disc: pad gap **~0.2–0.5 mm** — adjust pad bolts.
+— Hydraulic: bleed like small automotive brake (nipple + lever strokes).
+— V-brake: pad toe and height to rim.
+
+**Flat repair:**
+1. Remove wheel.
+2. Tire levers — one bead off.
+3. Remove tube.
+4. Inflate tube slightly; water dip or listen/feel for leak.
+5. Scuff area; glue + patch (or peel-stick patch).
+6. Reassemble; inflate to sidewall range.
+
+**Derailleurs:**
+— Barrel adjuster for indexing; **H/L** limit screws stop over-shifts.
+
+**Pedals:**
+— Right pedal **right-hand** thread; left pedal **left-hand** thread — don’t force wrong way.
+
+**Hubs / bottom bracket:**
+— Front often long-life sealed; rear cassette body clean; BB replace if crunch/play.
+
+
+CYCLING KIT FOR CRISIS TRAVEL
+
+Spare tube(s); patch kit + levers; pump (gauge preferred); multi-tool / hex keys; chain tool; **2–3 quick links**; tape; lights if night riding.
+
+**Load carrying:**
+— Rear rack + panniers ~**20 kg** practical.
+— Trailer **~80–100 kg** class exists.
+— Front basket for quick access.

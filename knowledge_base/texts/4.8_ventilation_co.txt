@@ -1,0 +1,118 @@
+CHAPTER 4. HEAT, WARMTH, AND FIRE
+4.8 Ventilation and carbon monoxide safety
+
+CARBON MONOXIDE — INVISIBLE KILLER
+
+Carbon monoxide (CO) is a leading cause of death when people use combustion indoors. No color, no smell, no taste. Poisoning feels like tiredness or flu at first — then unconsciousness and death.
+
+Indoor CO sources:
+— Any open flame (wood, coal, gas, kerosene)
+— Gasoline/diesel generators
+— Car engines
+— Charcoal grills, hibachi
+— Unvented gas heaters
+
+Concentrations and effects (approximate):
+— ~35 ppm: headache with long exposure (residential limits often ~9 ppm or lower)
+— ~200 ppm: headache, nausea in ~2–3 h
+— ~400 ppm: life-threatening in ~3 h
+— ~800 ppm: unconscious in ~45 min
+— ~1600 ppm: death in ~1 h
+— ~6400 ppm: death in ~15 min
+
+A small wood stove in a sealed ~15 m² room without airflow can reach lethal CO in ~2–4 h.
+
+
+SYMPTOMS OF CO POISONING
+
+Early (~35–200 ppm):
+Headache (often frontal), mild dizziness, nausea, fatigue — often mistaken for cold or overwork.
+
+Moderate (~200–800 ppm):
+Severe headache, vomiting, confusion, sleepiness, fast pulse.
+
+Severe (~800+ ppm):
+Unconsciousness, seizures, respiratory failure, death.
+
+Key clue:
+Several people in same space sick at once — think CO, not “flu.” Flu rarely hits everyone simultaneously.
+
+If CO suspected:
+1. Move victim to fresh air immediately.
+2. Lie down, loosen clothing.
+3. If not breathing — rescue breathing / CPR per training.
+4. Oxygen if available (speeds CO clearance).
+5. Rest, warmth; no smoking, alcohol, exertion.
+6. Even “mild” cases — hours of fresh air.
+
+Severe cases need hospital care; hyperbaric oxygen is definitive treatment in many protocols.
+
+
+VENTILATION PRINCIPLES
+
+Minimum rule:
+Any combustion indoors needs continuous fresh air intake. No intake = incomplete combustion = CO. Ventilation must be steady, not “open window sometimes.”
+
+Basic pattern:
+Low intake (floor level) for cool air; high exhaust (ceiling or chimney) for hot gas. CO molar mass ~28, air ~29 — CO mixes throughout the room; high and low vent both help.
+
+Chimney is primary protection:
+Proper flue carries products outside. Draft from temperature difference. Test draft: flame or smoke pulled toward flue opening. Flue should exit above roof line where wind will not push exhaust back indoors.
+
+Without chimney:
+Open window or door crack near heat source. Rough guide: ~200–400 cm² total vent area minimum for small room with small flame — more is safer. Some ventilation beats none.
+
+Window slot chimney:
+Metal pipe (e.g. stacked cans) through window gap — improvised exhaust.
+
+
+CO DETECTION
+
+Simple biological warning:
+Small caged bird or rodent — more sensitive than humans in some conditions. Historical mine “canary” concept — they fail first.
+
+Chemical indicators:
+Special CO indicator materials exist — not DIY-friendly.
+
+Electronic CO alarms:
+If batteries or power available — best protection. Inexpensive; replace per manufacturer dates.
+
+Relative risk by fuel (high to low, very general):
+1. Bituminous coal — very high indoors without flue
+2. Wood without chimney — high
+3. Gas — moderate
+4. Wood with good chimney — low if draft maintained
+5. Alcohol — lower
+6. Candles — lowest (not zero in sealed space)
+
+
+VENTILATION BY HEAT SOURCE
+
+Wood stove with chimney:
+Relatively safe if draft is good. Stop burning if flue blocks or backdrafts.
+
+Open fire indoors without flue:
+Extremely dangerous. If forced: large permanent opening to outside and strong cross-ventilation — still marginal.
+
+Gas camp stove:
+CO₂ and water vapor; some CO. Brief use in ~20+ m² with window cracked may be tolerable for cooking — not for heating sealed rooms.
+
+Generators:
+Never indoors, garage, or enclosed stairwell. Outside, exhaust away from windows/doors — minimum ~5 m often cited; more is better.
+
+Charcoal / BBQ coals:
+Never indoors for heat — common fatal mistake.
+
+
+NIGHT SAFETY
+
+Sleeping while an unvented heater runs is highest risk — you will not feel warning signs.
+
+Night rules:
+— Stove with chimney: generally OK if maintained.
+— No chimney: extinguish before sleep. Better cold than dead.
+— Fire watch in shifts (~4 h) if you must have open flame.
+— Buddy line from sleepers to watch.
+
+If no watch and no chimney:
+Insulate body heavily; let fire die. Cold is uncomfortable; CO is lethal.

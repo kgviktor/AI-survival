@@ -1,0 +1,152 @@
+CHAPTER 9. COMMUNICATIONS AND INFORMATION
+9.1 Radio communications: radio types, bands, procedures
+
+WHY RADIO IN A CRISIS
+
+Phone networks often fail first (overload, tower power loss, deliberate shutdown). Radio:
+— Works without carrier infrastructure.
+— Needs no internet or cellular.
+— Range from ~1–2 km (handheld PMR) to hundreds of km (HF/shortwave).
+— Batteries are the only fuel.
+
+
+RADIO BANDS (OVERVIEW)
+
+VHF (~136–174 MHz):
+— Propagation: line of sight + mild refraction.
+— Urban range: ~1–5 km handheld; open terrain ~5–30 km.
+— With repeater: ~50–100+ km possible.
+— Use: professional radios, public safety.
+
+UHF (~400–512 MHz):
+— Penetrates buildings and clutter better than VHF.
+— Range similar to VHF, sometimes slightly shorter handheld.
+— Use: many portables, PMR446 (EU), FRS (US).
+
+PMR446 (~446 MHz — license-free in much of Europe):
+— 8 channels (or 16 with CTCSS/DCS subtones).
+— No license in participating countries.
+— Power: 0.5 W typical.
+— Range: ~500 m–3 km terrain-dependent.
+— Common brands: Motorola TLKR, Midland, Alan-class units.
+
+Regional license-free UHF (example: some countries use ~433 MHz LPD-style allocations):
+— Very low power, many channels where regulated — **check your national table**.
+
+CB (~27 MHz “citizen’s band”):
+— Channel plan **varies by country** (e.g. EU vs US).
+— Ground-wave range ~3–30 km; sporadic skip can go far.
+— Often license-free or light rules — **verify locally**.
+— Mobile CB is common among truckers worldwide.
+
+HF / shortwave (~3–30 MHz):
+— Ionospheric skip → intercontinental range.
+— Transmitting usually needs a license; **listening is widely allowed** (check law).
+— Use: amateur radio, military, broadcast.
+
+Marine VHF (~156–174 MHz):
+— Channel 16 (156.8 MHz): international calling and distress.
+— Coastal and inland waterways where used.
+
+
+RADIO TYPES
+
+Handheld (HT):
+— Compact; Li-ion pack or AA/AAA.
+— ~0.5–5 W typical.
+— Whip or removable antenna.
+
+Mobile (vehicle):
+— 12 V powered; ~5–50 W → much more range than handheld.
+— Roof-mounted antenna helps a lot.
+
+Base station:
+— Mains powered; ~25–100 W; tall antenna for max range.
+
+Satellite phones (Iridium, Inmarsat, Thuraya-class):
+— Work with sky view; expensive hardware/airtime.
+— Iridium offers global coverage.
+— Starlink-style terminals: internet where satellites are visible.
+
+
+COMMON SURVIVAL-ORIENTED RADIOS
+
+Baofeng UV-5R family (UV-82, UV-9R, etc.):
+— Inexpensive; ~5–8 W; VHF + UHF.
+— Programmable to many channels.
+— Power: Li-ion or AA shell adapters.
+— Cons: needs programming; UI not beginner-friendly; **transmitting outside allowed bands is illegal in most places** — program only lawful channels for your jurisdiction.
+
+License-free PMR446 / FRS-type handhelds:
+— Simple operation; no license where permitted.
+— ~0.5 W — limited range.
+— AA/AAA — easy to stock.
+
+CB mobile/handheld:
+— Longer ground-wave range than tiny license-free handsets.
+— Mobile use possible; trucker traffic = traffic and road intel.
+
+
+CHANNELS AND FREQUENCIES TO REMEMBER
+
+Emergency / calling (verify locally — plans differ):
+— **156.8 MHz** — marine VHF Ch 16 (international distress/calling).
+— **121.5 MHz** — aviation emergency (receive-only for most users).
+— **CB Ch 9** — widely used as emergency/help in many CB plans.
+— **CB Ch 19** — trucker traffic in US-style plans; EU plans differ.
+— **PMR Ch 1** — first channel of your license-free plan (e.g. 446.00625 MHz EU PMR).
+
+CTCSS / DCS:
+— Opens squelch only for matching tone — **not encryption**; anyone can still hear you on FM.
+— Reduces chatter on busy channels.
+
+Group SOP:
+— Pre-agree channel + tone + sked time.
+— Write on paper: e.g. “PMR3, tone 7, daily 20:00 local.”
+
+
+RADIO PROCEDURE AND SECURITY
+
+Basic etiquette:
+— “Over” at end of transmission — await reply.
+— “Out” — end of contact.
+— “Roger” / “Copy” — acknowledged.
+— “Say again” — repeat.
+— “Break” or callsign — interrupt if urgent.
+
+Calling:
+1. “[Name], this is [Name], over.”
+2. Wait 10–15 s.
+3. Repeat if no answer.
+
+Brevity:
+— Short messages; no filler.
+— Pre-agree codewords for common situations.
+
+**Security:** analog voice is public.
+— Never broadcast exact shelter location.
+— Use codes: “at base” not a street address; “Point A” not a real name.
+— Minimize transmissions — each one is intel for a listener.
+
+
+TECHNICAL NOTES
+
+Antenna:
+— Longer whip usually helps.
+— Quarter-wave wire: λ = 300/f(MHz) m; λ/4 = λ/4.
+  — ~145 MHz: ~51 cm
+  — ~433 MHz: ~17 cm
+  — ~27 MHz CB: ~2.8 m
+— Vertical polarization common for portables/vehicles.
+— Height wins range.
+
+Programming Baofeng-class radios:
+— CHIRP (free) from PC.
+— Or manual: menu → frequency → save to channel.
+— Build a lawful channel list: local PMR/FRS, marine RX if allowed, CB if you own CB, agreed simplex channels.
+
+Power budget:
+— Li-ion: top up before storage.
+— AA adapter for emergencies.
+— Power-save mode sleeps between RX bursts.
+— RX ~0.5–1 W electrical; TX 5 W may pull ~1.5–2 A from battery.

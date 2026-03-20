@@ -1,0 +1,136 @@
+CHAPTER 10. FOOD PRODUCTION
+10.2 Rooftop and courtyard gardening
+
+URBAN SPACE POTENTIAL
+
+Cities hide huge idle area:
+— Flat roofs on blocks (100–1000+ m²).
+— Courtyards and internal yards.
+— Vacant lots.
+— Lawns and green strips.
+— Balconies and loggias.
+
+Rough productivity (intensive beds):
+— ~10 m² can yield ~50–100 kg vegetables per season (climate and skill dependent).
+— ~100 m² can materially help feed a group of ~5–10 people in a long crisis (3+ months).
+
+
+ROOFTOP — LOAD FIRST
+
+**Soil is heavy:** ~1 m² bed 20 cm deep ≈ 200–300 kg wet mass.
+
+— Reinforced concrete flat roofs on older panel buildings often rate ~150–500 kg/m² design load — **verify with an engineer if unsure**.
+— Do not concentrate load on edges/corners without knowledge.
+— Light metal or unknown wood decks: **do not use** without professional check.
+
+Light substrates:
+— Coco coir ~0.15 kg/L vs mineral soil ~1 kg/L.
+— Perlite ~0.1 kg/L.
+— 50/50 coco + perlite: excellent light bed.
+— Hydroponics: lightest wet system.
+
+Rooftop bed build:
+— Containers: totes, buckets, builder bags.
+— Or framed boxes from pallets/lumber.
+— **Waterproof membrane** under soil — protect the roof membrane.
+— Drain: holes → pipe to drain or storage, not ponding on waterproofing.
+
+Water on roof:
+— Without mains: barrels from downspouts.
+— Gutter → cistern.
+— Gravity drip from tank.
+— Buckets by hand.
+
+Wind:
+— Above ~5 floors: constant wind dries soil and breaks stems.
+— Wind mesh (shade cloth) cuts wind but passes light.
+— Compact/dwarf cultivars.
+— Mulch surface to cut evaporation.
+
+Access and safety:
+— Confirm legal access to roof; **unprotected edges = fatal fall risk**.
+— Rail or barrier around work zone.
+
+
+COURTYARD GARDEN
+
+Site selection:
+— ≥6 h sun if possible.
+— Wind break (fence, building).
+— Water access.
+— Not under dense trees (shade + root competition).
+
+Urban soil contamination:
+— Heavy metals, fuels common near roads, old industrial sites, parking.
+— Fix: **raised beds** with imported clean soil, or containers.
+— Geotextile under clean fill separates from suspect native soil.
+— Minimum clean depth ~20–25 cm most crops; ~30–40 cm for roots.
+
+Raised bed frames:
+— Boards, slate, brick, blocks — whatever is safe and available.
+— Width ~80–120 cm (reach both sides without stepping in).
+— Height ~20–40 cm.
+— Untreated wood: char or used motor oil (traditional) vs rot — or use plastic/composite.
+
+Mulch:
+— ~5–10 cm organic layer: chips, grass, leaves, straw, cardboard.
+— Cuts water loss (~2–3× fewer waterings).
+— Suppresses weeds.
+— Feeds soil as it breaks down.
+
+
+CROP PLANNING
+
+Rotation (if permanent plot):
+— Do not repeat same family in same spot every year.
+— Example loop: greens → roots → legumes → nightshades → greens.
+— Beans and peas fix nitrogen — feed the next crop.
+
+Companion planting:
+— “Three Sisters”: corn + climbing beans + squash — corn trellis, beans fix N, squash mulches soil.
+— Basil near tomato: some pest confusion; aroma.
+— Marigolds on edges: nematode/suppress some pests.
+
+Sowing calendar:
+— **Adjust to your frost dates and latitude.** Temperate Northern example:
+— Early spring: cold-hardy (carrot, radish, onion, pea, spinach).
+— After last frost: warm crops (tomato, cucumber, squash, beans).
+— Mid-summer: second sowing of greens and radish.
+— Early fall: last harvests; prep for winter.
+
+Season extension:
+— Floating row cover (fleece): a few degrees frost protection.
+— Hoop + plastic tunnel: +1–2 months shoulder season.
+— Under cover in cool season: scallions, spinach, chard, mache/corn salad.
+
+
+WATER
+
+Rain barrels:
+— ~200–1000 L under downspouts.
+— First flush from roof is dirty — divert it.
+— ~200 L ≈ ~2–3 days irrigation for a small intensive bed (climate dependent).
+
+Saving water:
+— Drip from barrel along row.
+— Water morning or evening, not midday heat.
+— Mulch.
+— Buried bottle with pinhole — slow olla-style trickle.
+
+
+PEST CONTROL (LOW-TECH)
+
+Physical:
+— Bird netting (especially roofs).
+— Fine mesh against carrot fly etc.
+— Hand-pick caterpillars.
+
+Organic sprays / dusts:
+— Wood-ash spray: aphids, whitefly (test on one leaf first).
+— Garlic/onion soak: aphids, mites.
+— Dilute soap water: soft-bodied insects.
+— Ash + tobacco dust: slugs (toxicity caution near food).
+
+Pollinators:
+— Flowering herbs (marigold, dill, basil, parsley in bloom) attract bees.
+— On isolated roofs, pollinators may be scarce — **hand-pollinate** with cotton swab or small brush.

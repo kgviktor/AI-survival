@@ -1,0 +1,109 @@
+CHAPTER 9. COMMUNICATIONS AND INFORMATION
+9.2 Gathering information: receivers, news and monitor frequencies
+
+WHY INFORMATION MATTERS
+
+Situational awareness drives survival decisions:
+— Where it is dangerous vs safer.
+— Whether evacuation routes are open.
+— Official guidance.
+— Trend: improving or worsening.
+— Where food, medical aid, shelter may exist.
+
+Without information you decide blind.
+
+
+RECEIVER TYPES
+
+AM/FM broadcast radio:
+— Cheapest, most common.
+— FM (~88–108 MHz region-dependent): local stations, good urban audio.
+— AM (~530–1700 kHz region-dependent): longer ground wave; often better at night.
+
+Multiband portable (AM/FM/SW):
+— Shortwave ~1.6–30 MHz: international and regional broadcasters.
+— Examples often cited: Tecsun PL-330, PL-880; Grundig/Sangean-class travel receivers.
+— **Schedules and frequencies change** — use station websites or the *World Radio TV Handbook*.
+
+Air band (VHF ~118–137 MHz):
+— ATC and aircraft comms; weather and traffic picture near airports.
+— Needs a receiver with air band (many portables include it).
+
+Wideband scanner / communications receiver:
+— Monitors many services where legal (police/fire vary **heavily by country** — know the law).
+— Dedicated receivers: Uniden Bearcat-class, Icom IC-R6, Yaesu VR-500 family, etc.
+— A Baofeng in scan mode can sweep amateur/simplex ranges you are allowed to monitor.
+
+Survival receiver checklist:
+— **AA/AAA power** preferred over proprietary-only packs.
+— At least **AM + FM + SW** for global news resilience.
+— Good SW sensitivity matters.
+— Ruggedness; **headphone jack** for discreet listening.
+
+
+USEFUL MONITORING TARGETS (GENERAL)
+
+Local broadcast FM/AM:
+— Often last mass medium up in many crises.
+— National/regional PSAs and emergency crawls may appear.
+
+International shortwave (examples — **verify current schedules**):
+— BBC World Service, VOA, DW, RFI, etc. publish frequency lists online.
+— Frequencies and hours change seasonally.
+
+Marine distress:
+— **156.8 MHz** — VHF Ch 16.
+
+Aviation emergency:
+— **121.5 MHz** — ELT/emergency guard (region rules vary).
+
+Government / civil-defense VHF (highly **country-specific**):
+— Some nations use fixed VHF/UHF channels for sirens or civil-defense nets — research your national allocation if you use a scanner.
+
+Amateur (ham) bands (receive is usually easy; transmitting needs license):
+— ~144–148 MHz (ITU Region varies): local FM, repeaters, nets.
+— ~7.0–7.2 MHz (40 m) and ~14.0–14.35 MHz (20 m): long-distance SSB/CW.
+— EMCOMM: many countries have agreed net frequencies — look up local ARES/RACES/society guides.
+
+
+RECEPTION TECHNIQUES
+
+Directional pickup:
+— Rotate AM ferrite rod for null/peak.
+— SW: 10–20 m wire outdoors or along eaves — major SNR gain.
+— FM: extend whip vertical; try position/height.
+
+Grounding:
+— Receiver ground to cold water pipe, radiator, or driven stake can help SW noise floor (safety: understand lightning risk to long antennas).
+
+Headphones:
+— Stealth; keep one ear open for surroundings.
+— At night: dim display; low volume — light and sound discipline.
+
+Time of day:
+— HF/SW and MW often propagate farther **after local sunset** into night.
+— FM local: less diurnal, terrain-limited.
+
+
+LOGGING AND TRIANGULATION
+
+Log every significant report:
+— Date/time, source, one-line fact, credibility tag.
+— Example: “Mar 12, 14:30 — national radio — corridor X closed — medium confidence.”
+
+Compare sources:
+— One station ≠ truth.
+— State media may downplay; foreign media may hype.
+— Eyewitness radio traffic can be sharper — or wrong.
+
+
+STORAGE
+
+Spare cells:
+— Keep **20–30+ AA** or your radio’s cell type separate from the radio.
+
+Protection:
+— Zip/dry bag daily; Faraday storage if EMP/lightning paranoia applies — remove only to listen.
+
+Rechargeables:
+— NiMH AA + small solar charger extends listen endurance off-grid.

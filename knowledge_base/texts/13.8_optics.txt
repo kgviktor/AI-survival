@@ -1,0 +1,60 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.8 Optics: binoculars, monoculars, sights
+
+WHY OPTICS
+
+**See before being seen** — route recon, perimeter check, threat ID, hunting, landmark spotting.
+
+**Binoculars usually beat a rifle scope** for general survival tasks.
+
+
+BINOCULARS
+
+**8×42, 10×42** etc. — first number = magnification; second = objective lens mm.
+
+**Power:** 6–8× steady hand, wide field; 10× common; 12×+ needs support.
+
+**Objective:** 32 mm compact day; **42 mm** all-round twilight; 50 mm heavy but bright.
+
+**Exit pupil** = objective ÷ power (e.g. 42÷8 = 5.25 mm) — match young eye ~7 mm night / ~3–5 mm day use.
+
+**Porro** — wide, cheap good optics possible, bulky.
+
+**Roof** — compact; quality costs; **FMC** (fully multi-coated) + phase-corrected prisms on good roofs.
+
+**Nitrogen/argon fill** — internal fog resistance; **waterproof** for field.
+
+**Minimum useful survival glass:** 8×42 waterproof FMC-filled.
+
+**Brands orientation:** premium Euro glass; mid Vortex / Nikon Monarch class / Bushnell Legend; budget lines for “better than nothing.”
+
+
+MONOCULAR
+
+Half weight; one eye; tires faster; great **EDC pocket** backup.
+
+
+SIGHTS (WEAPONS CONTEXT)
+
+**Red dot** — fast close; needs battery on many units.
+
+**Magnified scope** — distance precision.
+
+**LPVO** 1–6× — hybrid.
+
+**Passive prism / irons** — no battery — reliability plus.
+
+**Care:** blow dust off before wipe; microfiber; lens caps on storage.
+
+**Legal:** weapon-mounted optics follow local arms law.
+
+
+NIGHT OBSERVATION
+
+Gen 1 NV cheap but moon-dependent; Gen 2/3 costly.
+
+**Thermal** — detects heat — powerful for perimeter **if** budget allows.
+
+**Budget approach:** good handheld throw + **red** light discipline; some phone + IR illuminator setups (limitations, legal caution).
+
+**Do not** shine visible lasers at aircraft.

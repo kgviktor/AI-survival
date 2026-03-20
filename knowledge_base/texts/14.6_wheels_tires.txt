@@ -1,0 +1,117 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.6 Wheels and tires: replacement, field puncture repair
+
+TIRE MARKINGS
+
+Example: **205/55 R16 91V**
+
+— **205** — tread width (mm).
+— **55** — aspect ratio (sidewall = 55% of 205 ≈ 113 mm).
+— **R** — radial construction.
+— **16** — rim diameter (inches).
+— **91** — load index (e.g. 91 ≈ 615 kg per tire — use charts).
+— **V** — speed rating (e.g. V ≈ 240 km/h max sustained — informational).
+
+**Useful load indices (examples):** 84 ≈ 500 kg; 87 ≈ 545 kg; 91 ≈ 615 kg; 96 ≈ 710 kg; 100 ≈ 800 kg.
+
+**Speed letters (examples):** Q 160; R 170; S 180; T 190; H 210; V 240; W 270; Y 300 km/h.
+
+
+PRESSURE
+
+**Cold** pressure on **door jamb placard** or manual — not always the max on sidewall.
+
+Typical cars: **~2.0–2.5 bar** front/rear (follow placard).
+
+Winter: some drop **~0.2 bar** for soft-surface grip — **your call**; monitor wear.
+
+Off-road: **~1.2–1.5 bar** increases footprint — **slow speed**, risk of debeading if too low + sharp steering.
+
+Check monthly and before long trips; measure **cold**.
+
+Carry accurate gauge; **12 V compressor** or pump for remote travel.
+
+
+WHEEL CHANGE (FLAT)
+
+Tools: jack, lug wrench, spare (full-size or space-saver).
+
+1. Safe stop away from traffic; hazards on.
+2. Chock opposite wheels.
+3. **Crack lugs slightly** on the ground.
+4. Jack at manufacturer lift point (not body sheetmetal).
+5. Lift until tire clears; remove lugs; swap wheel.
+6. Hand-start lugs; lower until tire touches; **torque star pattern**.
+7. Full lower; final torque to spec (**~80–120 N·m** common — **use manual**).
+
+**Space-saver:** speed/distance limits — get proper repair soon.
+
+**Pre-check spare pressure** before you need it.
+
+Keep: gloves, flashlight, warning triangle where required.
+
+
+FIELD PUNCTURE — ROPE PLUG (STRING)
+
+Kit: reamer, insertion needle, vulcanizing cement (if included), plugs.
+
+**Budget kits** are widely available — worth carrying.
+
+**Tread punctures only** roughly **≤6–8 mm**; **never sidewall.**
+
+Procedure:
+1. Locate leak (sound/bubble test).
+2. Object may be holding air — note place; remove when ready.
+3. Ream hole several strokes — clean, size hole.
+4. Thread plug through needle; coat per kit instructions.
+5. Insert until ~½ plug inside; **yank needle** leaving plug.
+6. Trim tails; reinflate; soap-test.
+
+Works inflated or deflated — skill-dependent.
+
+
+SEALANT AEROSOLS (E.G. SLIME, FIX-A-FLAT–TYPE)
+
+Foam through valve seals small tread holes and may inflate.
+
+Temporary **~50–100 km** class fix; tire often needs professional clean-out after.
+
+Fast but **less reliable** than a proper patch.
+
+
+INTERNAL PATCH (BEST)
+
+Requires demounting tire: buff, cement, patch, roll — shop or skilled field with tools.
+
+Cold-vulcanizing kits exist; hot patch needs equipment.
+
+
+MANUAL MOUNT / DEMOUNT
+
+Deflate; break bead (stand on sidewall, bead breaker, or careful levering).
+
+Levers around rim — **don’t pinch tube** if tubed.
+
+Remount: soap/lube beads; lever second bead; install valve; inflate until beads **seat** (loud pop) — **use cage or stand aside**.
+
+
+SEASONAL TIRES
+
+Summer / performance: harder compound; poor when cold **below ~7 °C**.
+
+Winter: soft compound, sipes/studs where legal — much better ice/snow.
+
+All-season: compromise.
+
+Studded: best ice; noisy on dry; **banned or restricted** in some jurisdictions.
+
+**Crisis planning:** two sets if storage allows; else quality all-seasons for your climate; **full-size spare** beats donut when possible.
+
+
+OFF-ROAD PRESSURE
+
+Air down **~1.0–1.5 bar** for traction — keep **≤30–40 km/h** until reinflated.
+
+Very low pressure + hard steering can **debead** the tire.
+
+**Portable compressor** — match output to tire volume; small 12 V units are slow but recover pressure after trails.

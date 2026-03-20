@@ -1,0 +1,84 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.1 Knives: types, steel, sharpening, care
+
+WHY A KNIFE MATTERS
+
+A knife is among the most universal tools: food prep, shelter, woodwork, medical tasks, last-resort defense. A good blade replaces many single-purpose tools.
+
+**Better one good knife than five junk knives.**
+
+
+KNIFE TYPES
+
+Fixed vs folder:
+— **Fixed:** strongest, no pivot failure, needs sheath; less pocket-friendly.
+— **Folder:** compact EDC; weaker for prying; lint can foul lock.
+
+**Carry:** primary fixed ~10–15 cm; small folder as backup; optional large chopper/machete for brush.
+
+Blade shapes:
+— **Clip point** — classic pierce + slice.
+— **Drop point** — tough tip; great all-around survival profile.
+— **Scandi grind** — easy to sharpen; wood carving.
+— **Tanto** — strong tip; less common need.
+— **Bowie / large camp** — chop and fight roles.
+
+Sizes:
+— Small ≤~9 cm: EDC, food, detail.
+— Medium ~10–15 cm: general survival sweet spot.
+— Large ~15–25 cm: brush, heavy wood.
+
+
+STEEL BASICS
+
+Four axes:
+1. **Hardness (HRC)** — edge retention vs chipping.
+2. **Toughness** — bend before break under shock.
+3. **Corrosion resistance**
+4. **Ease of sharpening** — often inverse to wear resistance.
+
+**Stainless examples:** 420 (budget, soft); 440C; AUS-8; Sandvik 14C28N; VG-10; Crucible S30V / S35VN.
+
+**Carbon / tool steels:** 1075/1095; O1; semi-stainless D2; powder Elmax / M390 (premium).
+
+**Pick:** stainless (14C28N, S30V class) if you neglect oil; carbon (1095, O1) if you want max sharpness and will wipe the blade dry.
+
+
+SHARPENING
+
+Sharpness = bevel angle + apex polish.
+— ~10–15° per side — very slicey, fragile.
+— ~20–25° — general field.
+— ~25–35° — chop / hard use.
+
+Stones:
+— ~120–240 — repair chips / reshape.
+— ~400–600 — establish bevel.
+— ~1000–2000 — working edge.
+— ~3000+ — polish / shave.
+
+Diamond plates work dry; oil or water on stones per manufacturer. **Strop** leather finishes the apex.
+
+Field touch-up: smooth river rock; leather belt; ceramic mug bottom.
+
+Tests: catches thumbnail; clean paper slice; arm hair (careful).
+
+
+CARE
+
+Stainless: wash and dry after food/blood/acid; occasional light oil.
+
+Carbon: dry immediately; oil regularly; gray **patina** is normal; red rust — scrub ~400 grit + oil.
+
+Sheaths: leather needs conditioner; Kydex is low maintenance; long storage — light oil on blade.
+
+
+BRANDS (ROUGH TIERS)
+
+**Budget:** Mora (Sweden) — excellent value; Ontario 1095 lines; many national makers with decent heat-treat.
+
+**Mid:** Cold Steel (thick blades); Spyderco folders; Ka-Bar classics.
+
+**Premium:** Benchmade; Böker; Fällkniven; Chris Reeve-class customs.
+
+**Legal:** carry and blade length rules vary by country — comply.

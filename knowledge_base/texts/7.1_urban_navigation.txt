@@ -1,0 +1,118 @@
+CHAPTER 7. NAVIGATION AND MOVEMENT
+7.1 Urban navigation without GPS
+
+WHY GPS MAY FAIL IN CRISIS
+
+GPS/smartphone navigation can fail because:
+— Dead battery (no charging).
+— Jamming or interference (military or security events).
+— No data for map downloads.
+— Broken device.
+
+Conclusion: know how to navigate without electronics. Paper map + compass + principles = baseline skill.
+
+
+PREPARATION — HAVE THIS EARLY
+
+Maps:
+— City paper map (~1:10,000 or 1:25,000): streets, blocks, landmarks.
+— Regional maps (~1:100,000–1:200,000) for routes beyond the city.
+— Offline maps on phone (OsmAnd, Maps.me, Google offline tiles, etc.).
+— Print key routes with landmarks marked.
+
+Compass:
+— Liquid-filled baseplate compass is more stable than dry pivot types.
+— Carry separately from ferrous metal clutter.
+— Check: needle points north; matches morning sun azimuth in your hemisphere.
+
+
+URBAN ORIENTATION PRINCIPLES
+
+Dominant landmarks:
+Cities often have tall features visible 1–5 km away:
+— TV towers, stacks, bell towers, minarets.
+— Distinctive high-rises, bridges, major interchanges.
+— Rivers and lakes — linear features, easy on maps.
+
+Cardinal directions in built areas:
+— Many grid-planned cities align main avenues roughly N–S or E–W (verify locally).
+— At solar noon, shadow points roughly north (Northern Hemisphere; reverse in south).
+— Satellite dishes often face equator-ward (south in northern mid-latitudes).
+— Traditional church altars often face east (culture-dependent).
+— Moss thicker on shaded (often north) side of trees — rough cue only.
+
+House numbering:
+— Many regions: odd one side, even the other; numbers often rise away from old center — pattern varies by city — learn yours.
+
+Subway (if running or from memory):
+— Line map + “where am I on the network” fixes position.
+— Station exits often list street addresses.
+
+
+USING THE MAP
+
+Orienting the map:
+1. Hold map horizontal.
+2. Rotate until map north matches compass north.
+3. Match two visible landmarks to the map — you lie between them.
+
+Fixing position:
+— At intersection read street names if signs survive.
+— Find intersection on map.
+— If no signs: walk toward a visible landmark, plot it on map, pace count distance (pace ~0.75–0.8 m for many adults).
+
+Pacing:
+— Moderate pace ~0.75–0.80 m per step for many men; women often slightly less — calibrate yourself.
+— ~100 steps ≈ ~75–80 m; ~125 steps ≈ ~100 m (rule of thumb).
+— Count only one foot (e.g. every left) to avoid double counting.
+
+Compass error:
+— Knives, keys, rebar distort needle — hold compass ~30+ cm from metal.
+— Cars, steel structures — step away for a clean reading.
+
+
+MENTAL MAP WHEN NO PAPER
+
+Build a running memory:
+1. Direction at each turn (N/S/E/W).
+2. Approximate distance.
+3. Key landmarks (distinctive building, corner store).
+
+“Breadcrumb” method:
+— “Turned south at blue house → ~300 m → west at broken traffic light.”
+— Return: reverse the sequence.
+
+Terrain tie-in:
+— Water flows downhill — rivers are linear guides.
+— Following a river downstream often leads toward settlements historically built on water.
+— Remember rises and dips — helps prevent loops.
+
+
+CARDINAL DIRECTIONS WITHOUT COMPASS
+
+Sun:
+— Rise ~east, set ~west (seasonal offset).
+— Near solar noon in Northern Hemisphere, sun is south; your shadow points north.
+— Watch method (analog watch, local solar time): hour hand toward sun; bisector between hour hand and 12 (adjust for DST) approximates south in northern mid-latitudes — verify with training.
+
+Night sky (Northern Hemisphere):
+— Polaris ≈ north: Big Dipper pointer stars → ~5× their separation → Polaris.
+
+Other cues:
+— Ant hills often on sunnier (southern in north temperate) side of trees/stumps — not universal.
+— Birch bark often darker on north side in open forest.
+— Snow melts faster on south-facing slopes.
+
+
+DAMAGED / RUINED CITY
+
+Landmarks vanish: signs gone, streets blocked, blocks reshaped.
+
+Rely on:
+— Large fixed objects: rivers, rail lines, parks, power-line corridors.
+— Surviving high-rises if stable.
+
+Tactics:
+— Gain high ground for overview when safe.
+— Move along linear features (river, rail, main road spine).
+— Do not maze into collapsed blocks without a known exit.

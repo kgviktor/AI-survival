@@ -1,0 +1,103 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.3 12 V systems: wiring, fuses, distribution
+
+WHY 12 V
+
+De facto standard for small off-grid:
+— Vehicle batteries are 12 V (most light vehicles).
+— Huge accessory market (lamps, chargers, pumps, fridges).
+— Low touch voltage — still can burn wiring if shorted — respect fuses.
+
+Basic diagram:
+Source (battery/solar) → fuse → load.
+Or: Panel → charge controller → battery → fuse → loads.
+
+
+WIRE GAUGE (COPPER, ROUND GUIDE)
+
+I (A) ≈ P(W) / V(V) — e.g. 60 W @ 12 V ≈ 5 A.
+
+Approximate minimum cross-section (short runs; increase for long runs):
+— To ~5 A: ~1.5 mm²
+— To ~10 A: ~2.5 mm²
+— To ~20 A: ~4 mm²
+— To ~30 A: ~6 mm²
+— To ~50 A: ~10 mm²
+— To ~80 A: ~16 mm²
+— ~1000 W inverter @ 12 V can exceed ~80 A — very short heavy leads per inverter manual.
+
+Thicker wire = less heat and voltage drop.
+
+Long runs: upsize one step or calculate drop (target often <~3% loss).
+
+Color convention:
+— Red (+), black or blue (−/return).
+
+Terminations:
+— Crimped lugs or soldered; screw twists only temporary — tape well.
+
+
+FUSES — REQUIRED
+
+Fuse saves wiring from overload/short — fuse blows, not your harness.
+
+Placement:
+— Within ~30 cm of battery + on each main feed.
+— Each branch fused separately.
+
+Rating:
+— ~110–130% of steady load current — not huge oversize.
+
+Types:
+— Automotive blade (ATO/ATC), ANL for high current, glass for small loads, DC breakers convenient.
+
+Main battery fuse:
+— Slightly above realistic max simultaneous load — still protects feeder cable gauge.
+
+
+DISTRIBUTION
+
+Bus bars or fused blocks:
+— + bus with fuse per tap; common − return.
+
+Marine/auto fuse blocks — compact and reliable.
+
+
+TYPICAL LOADS
+
+12 V LED strips (marked DC12V): ~0.5–2 A/m — fuse ~5–10 A branch.
+12 V lamps (G4, MR16, etc.): ~3–10 W each.
+USB adapters from 12 V: ~1–3 A per port.
+Car stereo head unit: ISO wiring — constant +, switched +, ground.
+12 V water pump: ~3–10 A.
+12 V compressor fridge: ~2–5 A average (cyclic).
+
+
+12 V → AC INVERTER
+
+Size ~120–130% of max load.
+Pure sine for picky electronics; modified OK for many resistive loads.
+Thick short DC leads; fuse at battery.
+No-load draw ~0.5–1 A common — turn off when idle.
+Keep ventilated.
+
+
+GROUND / RETURN
+
+Common DC negative return to battery −; star grounding reduces noise issues.
+Poor ground = flicker, charge faults — clean and tight.
+
+
+TROUBLESHOOTING
+
+Load dead:
+1. Fuse
+2. Battery voltage
+3. Ground return
+4. Terminal torque
+
+Hot wire:
+— Undersized conductor or high-resistance joint — fix gauge/crimp.
+
+Fuse pops instantly:
+— Short or wrong fuse rating vs load.

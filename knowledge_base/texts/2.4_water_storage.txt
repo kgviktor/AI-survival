@@ -1,0 +1,119 @@
+CHAPTER 2. WATER
+2.4 Storing and transporting water
+
+HOW MUCH TO STORE
+
+Minimum planning stock:
+— One person: 14 L = 7 days × 2 L/day
+— Two people: 28 L
+— Family of four: 56 L minimum
+— With cooking and hygiene: multiply by 2–3
+
+30-day stock (one person):
+— Drinking: 60 L
+— With cooking: 90–120 L
+— With full hygiene: 150–180 L
+
+Practical advice: start at 14 L and grow the stock. Storing >200–300 L in living space is logistically hard.
+
+
+CONTAINERS
+
+PET plastic bottles:
+Best common option. Resin code “1” (PET) — OK for water. “2” (HDPE), “4” (LDPE), “5” (PP) — OK. “3” (PVC), “6” (PS), “7” — avoid for drinking water. Convenient sizes: 1.5–5 L for carry and use. Large bottles (19 L) — harder to move, better volume efficiency.
+
+Glass:
+Chemically better than plastic — minimal leaching. Downsides: heavy, breaks, transmits light. Dark glass beats clear for long storage. Keep out of direct sun.
+
+Metal:
+Stainless steel is ideal — durable, inert. Galvanized and aluminum are poor for long storage (leaching). Stainless water cans are a good choice.
+
+Food-grade plastic drums:
+50–200 L with lids for bulk storage. Must be food-grade plastic. Dark color slows algae growth.
+
+Avoid:
+— Chemical, oil, or fuel cans (even if washed)
+— Clear containers in bright light (algae)
+— Rusty metal interiors
+— Cracked or odd-smelling plastics
+
+
+CONTAINER PREP
+
+New containers:
+Wash with soap, then rinse with ~1 tsp bleach per liter of water. Wait 2 minutes, rinse with clean water, dry.
+
+Used containers:
+Hot soapy wash to remove residues and odors. Bleach rinse as above. If smell persists — do not use for drinking.
+
+Juice/milk jugs:
+Milk jugs are hard to decontaminate from organics — avoid. PET juice bottles — OK after wash and disinfection.
+
+
+STORAGE CONDITIONS
+
+Temperature:
+Cool is best — ideally ~10–15 °C. Prevent freezing (containers burst; thaw may contaminate). Avoid heat (>30 °C) — faster plastic leaching and bacterial growth.
+
+Light:
+Dark storage is ideal. Light encourages algae and plastic breakdown. Wrap clear bottles in film or cloth.
+
+Ventilation:
+Space should breathe; musty smell means problems.
+
+Isolation:
+Do not store next to chemicals, fuel, or paint — plastics absorb vapors.
+Do not store on a basement floor that may flood.
+
+
+SHELF LIFE
+
+Chlorinated tap water in a sealed commercial container:
+— Commercial packaging: 1–2 years
+— Home-filled: ~6 months under good conditions
+
+Home-treated water:
+— Up to ~6 months in a clean, disinfected, sealed container
+
+Natural/rainwater:
+— Even after treatment — aim for ≤3 months
+— Periodically check smell and clarity
+
+Refreshing stock:
+Every ~6 months: use old water for non-drinking tasks, refill fresh. Or add chlorine (~2 drops/L) and update the date.
+
+Spoilage signs:
+— New cloudiness
+— Odor (except faint chlorine)
+— Green or brown film on walls
+— Slime on the bottom
+
+What to do with spoiled water:
+Do not waste it — use for non-potable needs. For drinking: boil; if heavily contaminated, discard.
+
+
+TRANSPORTING WATER
+
+Carry containers:
+Hydration bladder in pack: 2–3 L on the move. 5 L cans — good volume/weight balance (5 kg). Large 20+ L: base camp, not hiking. 1 L water = 1 kg — plan loads.
+
+Moving large amounts:
+Cart, stroller, sled — huge help. Yoke: two buckets on a pole across shoulders. Drag sheet: plastic with load, pull along ground. Bike with panniers or trailer.
+
+Minimize losses:
+Lids must seal — check before leaving. Soft bladders pack smaller when empty.
+
+On the move:
+Sip regularly; do not wait for thirst. Thirst means dehydration has started. Hard work in heat: ~0.5 L every 30 minutes.
+
+
+SIMPLE RAIN CATCHMENT
+
+Basic system:
+Sloped surface (metal sheet, film) → gutter → tank. 1 m² catch × 10 mm rain (≈1 L/m²) ≈ 10 L gross (minus evaporation ~70–80%). ~50 mm/month rain on 4 m² ≈ ~160 L/month net-ish.
+
+Optimization:
+Metal/plastic roofs beat bitumen. Divert first flush (first 5–10 min). Closed tank with lid reduces contamination and evaporation.
+
+Winter:
+Collect snow in containers. Dark vessels in sun melt faster; or melt near heat.

@@ -1,0 +1,87 @@
+CHAPTER 1. SHELTER AND A SAFE LOCATION
+1.2 Assessing a building’s structural safety
+
+WHY THIS MATTERS
+
+Building collapse is a leading cause of death in urban disasters. A building can look stable outside and fail without warning. Reading instability signs gives you time to leave before it happens.
+
+Rule: spend 3–5 minutes assessing before you enter and settle in. That time investment can save your life.
+
+
+EXTERIOR INSPECTION
+
+Foundation:
+Walk the building perimeter at the base. Foundation cracks wider than 5 mm are a serious sign. Foundation settlement (one corner lower than the rest) suggests unstable soil. Recent displacement signs: exposed soil, shifted stones at the base.
+
+Walls:
+Vertical cracks in load-bearing walls are less dangerous (thermal expansion). Diagonal cracks at ~45° from window and door corners indicate foundation settlement — serious. Horizontal cracks in walls are the most dangerous and suggest bending of a load-bearing member. Outward bowing (wall not plumb) — leave immediately. Fresh cracks: light edges, no dust or dark weathering inside.
+
+Overall building lean:
+Place any straight vertical object against the wall and compare. Lean beyond 2–3° from vertical means damage. Check the roofline: it should be straight; sag or kink suggests floor/roof damage.
+
+Roof:
+Roof sag is visible along the ridge line. Missing roof sections sharply reduce upper-floor capacity. Fire damage on the roof may have weakened structural members.
+
+
+INTERIOR INSPECTION
+
+Load-bearing elements:
+Identify load-bearing walls — usually thicker (25–40 cm vs 10–15 cm partitions) and often perpendicular to the facade. Columns and beams are primary supports. Cracks on columns in any direction — leave immediately.
+
+Ceilings and floors:
+Floor sag is visible — the line between walls should be straight. Cracks around the room perimeter (where ceiling meets walls) suggest the slab is pulling away from walls. Sound test: tap the floor — dull spots may indicate voids or rotted joists.
+
+Floors:
+Floors should be level. Sloped floors mean the building has deformed. Local squeaks when walking — test strength before loading weight. Step on suspicious spots and gradually shift weight. Darkened wood near walls — moisture rot and fall-through risk.
+
+Doors and windows:
+Skewed door and window frames are clear deformation signs. Doors that will not close or are jammed shut mean the building has twisted. Corner cracks at window openings — stress concentration.
+
+
+SIGNS OF RECENT FIRE
+
+After fire, load capacity drops sharply:
+— Steel beams heated to ~500 °C can lose up to ~50% strength.
+— Concrete can crack during rapid cooling (water extinguishing).
+— Charred wooden beams are dangerous even if they look intact outside.
+
+How to assess:
+Tap a beam — healthy wood sounds bright; charred interior sounds dull. Deformed metal (sag, twist) after fire — do not load it.
+
+
+BEHAVIOR DURING INSPECTION
+
+Move along load-bearing walls, not through the middle of large spans.
+Test each stair tread before shifting your weight onto it.
+Do not jump or create vibration in a damaged building.
+If you hear a new sound (cracking, groaning under load) — do not ignore it; leave.
+
+“One person” rule:
+When scouting a new building, one person enters while others wait outside. If there is no signal within an agreed time (5–10 minutes) — do not enter.
+
+
+BUILDING CONDITION SCALE
+
+Condition A (safe):
+No visible cracks or only minor cosmetic ones. Load-bearing elements are plumb. Doors and windows operate normally. No signs of active fire or flooding.
+
+Condition B (use with caution):
+Isolated cracks up to 5 mm in non-load-bearing walls. Slight door/window skew. Signs of old (not active) flooding. Use lower floors; avoid upper floors.
+
+Condition C (temporary only; keep exit clear):
+Cracks in load-bearing walls, sagging floors/ceilings, visible deformation, fire damage. Use only if no better option exists, with constant readiness to evacuate.
+
+Condition D (do not enter):
+Obvious lean, partial collapse, active fire, sounds of ongoing deformation, gas smell.
+
+
+SPECIAL CASES
+
+After an explosion:
+Blast can damage structures in non-obvious ways — a building may look intact but be weakened. Walls near the epicenter are especially risky. Wait 30–60 minutes after a blast before entering — secondary collapses are common.
+
+After an earthquake:
+Aftershocks continue for hours or days. Do not enter a damaged building until the main shaking sequence ends. Each shock can collapse already weakened members.
+
+After flooding:
+Water undermines foundations and weakens soil support. A building may seem stable during flood but become unstable after water recedes. Let foundations dry and re-inspect before returning.

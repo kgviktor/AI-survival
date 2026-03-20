@@ -1,0 +1,70 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.11 Instruments: radiation, weather, misc
+
+WHY MEASURE
+
+Objective data beats guess: invisible radiation, fever, pressure trends, wind chill on exposed skin.
+
+
+RADIATION MONITOR
+
+You cannot see gamma/beta risk until sick — often too late.
+
+**Geiger-Müller** — clicks with intensity; dose rate µSv/h common; some show cumulative dose.
+
+**Personal dosimeter** — integrated dose badge style for long exposure logging.
+
+**Scintillator** — sensitive, expensive.
+
+**Units:** sievert (Sv) biological; **µSv/h** field rate. Old units: rem (0.01 Sv); roentgen ≈ tissue approximation varies.
+
+**Very rough scale (context-dependent):**
+— ~0.1–0.3 µSv/h — typical natural background many places.
+— Rising above background — investigate source, limit time, increase distance, shield.
+— **Very high rates** — leave area; follow emergency broadcast guidance.
+
+**Care:** annual battery check; functional test with known check source if available (some minerals, calibrated lab source).
+
+**Brand class:** consumer Geigers from established vendors; avoid fake “phone app only” toys for real decisions.
+
+
+THERMOMETERS
+
+— **Spirit** glass — no mercury toxicity; wide cold range.
+— **Mercury** — accurate but hazardous if broken; avoid if possible.
+— **Digital** — fast; needs battery.
+— **IR forehead** — screening speed; lower absolute accuracy.
+
+**Survival set:** digital + one non-powered backup.
+
+**Food safety** — probe thermometer for pasteurize / canning temps.
+
+
+BAROMETER
+
+Falling pressure — worsening weather trend; rapid fall — storm signal; rising — often improving.
+
+**Units:** hPa = mbar; 1013 hPa sea-level standard; mmHg still seen in some regions.
+
+**Field:** ABC watch (altimeter/barometer/compass); handheld weather meter; standalone aneroid.
+
+
+ANEMOMETER / WIND CHILL
+
+Wind strips heat — **wind chill** tables show effective cold.
+
+**Beaufort** quick scale: light breeze → hard walk → storm damage risk.
+
+**Cup or vane meter** — Kestrel-class units bundle wind + temp + humidity + sometimes ballistic solver.
+
+Example: −10 °C + 10 m/s wind ≈ very harsh effective cold — frostbite timing drops fast.
+
+
+OTHER USEFUL GADGETS
+
+— **pH strips** — water, hydroponics, pool chemistry.
+— **Glucometer + strips** — if diabetics in group.
+— **Bubble level** — construction.
+— **Multimeter** — 12 V systems, solar, troubleshooting (see electronics chapter).
+
+**Priority kit sketch:** radiation monitor if nuclear risk plausible; med thermometer ×2; multimeter if you run power; baro watch if budget fits.

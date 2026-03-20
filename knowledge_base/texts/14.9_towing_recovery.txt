@@ -1,0 +1,145 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.9 Towing and self-recovery: winch, Hi-Lift, improvised methods
+
+BASIC IDEAS
+
+You can get stuck on a good road. Off-road in a crisis — it’s a matter of time. Knowing self-recovery and towing is essential.
+
+**Main rule: don’t spin.** You dig deeper. Assess — then act.
+
+
+FIRST — ASSESS
+
+Before doing anything:
+1. Get out, look: what’s holding you (belly on ground, wheels in holes, what exactly)?
+2. Is there a solid jack point?
+3. Which way to drive out (forward or back)?
+4. Is there a solid anchor point nearby for a winch?
+5. How many people and what gear do you have?
+
+**Shovel (first tool):**
+— Dig mud, snow, sand from under the belly and ahead of the wheels.
+— Always carry one in the vehicle.
+
+
+TOW STRAP VS KINETIC (SNATCH) ROPE
+
+**Tow strap (static):**
+— Stiff-ish: transfers pull smoothly.
+— OK for on-road towing.
+— **Not** for yank-style extractions.
+
+**Kinetic / snatch strap:**
+— Elastic: stores energy and delivers an impulse.
+— For pulling out a stuck vehicle with a running helper vehicle.
+— Length: **6–10 m**.
+— Rating: **6–12 t** typical for cars and SUVs.
+— Attach to **rated recovery points** (tow eyes/hooks) — **not** bumpers or random hooks.
+— **Recommended:** carry one in every capable vehicle.
+
+**Tow eyes / screw-in rings:**
+— Screw-in type (common Euro spec): install before pull.
+— Learn where they mount on **your** car (threaded hole often behind bumper cover).
+
+
+Snatch pull (two vehicles):
+1. Connect kinetic strap to rated points on both.
+2. Stuck vehicle: neutral or low gear, **no** throttle unless coordinated.
+3. Helper: **10–15 m** run-up, controlled snatch → pulls stuck vehicle.
+4. **Never** snatch with a non-elastic tow rope/chain: breakage = projectile.
+
+
+If you’re alone:
+
+SELF-RECOVERY
+
+**Method 1 — Traction boards (sand ladders):**
+— Ribbed plastic or metal plates.
+— Wedge under driven wheels.
+— Gentle throttle; roll onto them; retrieve boards.
+— Among the best field tools for mud/sand/snow.
+— MAXTRAX, ARB Tred HD: proven; cheaper copies vary in quality.
+
+**Method 2 — Jack + fill:**
+— Jack the vehicle.
+— Pack hard material under wheels (planks, brush, rocks).
+— Lower and try to drive out.
+
+**Method 3 — Shovel + hands:**
+— Dig out wheels.
+— Clear belly.
+— Add hard base.
+
+**Method 4 — Rocking:**
+— Forward/back in low range or 1st/reverse.
+— On manual: build momentum with clutch control.
+— Passengers rocking body — marginal in deep mud.
+
+**Method 5 — Line to fixed anchor:**
+— Long line to tree or post; other end to vehicle.
+— Winch or block-and-tackle to multiply pull.
+
+
+WINCH
+
+Best self-recovery tool when rigged correctly.
+
+**Electric winch:**
+— Bumper mount common.
+— Pull rating: **4,000–12,000 lb** (about **1.8–5.5 t**). Many cars: **~8,000–10,000 lb** class.
+— Draw: **200–400 A** when working — **engine running**, good battery/charging.
+— **Synthetic rope:** lighter, safer when it breaks (less stored energy than steel), keep clean.
+— **Steel cable:** stronger/cheaper, heavy, **dangerous** if it snaps — dampen line, stand aside.
+— Sequence: free spool → pull rope → anchor → engage → winch in under load.
+— Anchors: tree strap, another vehicle, ground anchor.
+
+**Hand winch / come-along (lever hoist):**
+— Often **1–3 t** class; grips rope/cable; pull by lever.
+— Slow; works without vehicle electrics.
+
+**Block and tackle:**
+— Two blocks ≈ **2×** mechanical advantage (half speed).
+— Three blocks ≈ **3×**.
+— Anchor block fixed; moving block to vehicle.
+— Improvise with pulleys and carabiners **only** if rated for load.
+
+
+HI-LIFT JACK
+
+High-lift farm/jack style. Can raise a vehicle **~1.2–1.5 m** for packing under wheels.
+
+Uses:
+— Lift for traction packing.
+— **Lifting** as a winch (adapter kits) — learn before you need it.
+— Lift for underside work.
+
+**Hazards:**
+— Vehicle is **unstable** when high.
+— **Never** work under vehicle on Hi-Lift without proper stands/chocks.
+— Needs **solid base** — sinks in soft ground.
+
+**Base plate:**
+— On soft soil the foot sinks — use wide board or dedicated Hi-Lift base.
+
+
+TOWING ANOTHER VEHICLE
+
+**On static strap:**
+— Length **4–6 m** typical tow strap.
+— Towed driver: steer, watch strap slack, brake smoothly to avoid shock-loading.
+— **Automatic trans:** fluid may not circulate engine-off → damage risk.
+  — Tow A/T car: **engine running** if manufacturer allows, or **neutral short distance only**, or **dolly/trailer** — **read the manual.**
+
+**If no tow strap:**
+— Rope or chain (chains are rigid — snatch risk).
+— Rigid tow bar (pipe): predictable, less slack slap.
+— **Duct tape:** **no** — won’t hold.
+
+**Signals:**
+— Lead vehicle signals before braking.
+— Towed vehicle keeps tension — strap shouldn’t go slack then snap tight.
+
+
+CRISIS VEHICLE RECOVERY KIT (MINIMUM)
+
+Folding shovel; **kinetic strap** 6–10 m; **two** screw-in tow eyes if your car uses them; traction boards (pair); Hi-Lift or strong bottle jack; come-along **1–2 t**; long rope **15–20 m**; work gloves (rope cuts hands); snatch block + rated shackles for pulley systems.

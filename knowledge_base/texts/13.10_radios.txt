@@ -1,0 +1,75 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.10 Radios: bands, power, range, antennas
+
+WHY RADIOS
+
+Cellular is often first infrastructure loss. Radios are **peer-to-peer** without towers (simplex) or via repeaters where they still run.
+
+Uses: split team comms; monitoring; coordination with neighbors; emergency channels.
+
+
+BANDS (VERIFY LOCAL LAW)
+
+**PMR446 (EU and aligned countries)** — ~446 MHz, 0.5 W, license-free handhelds, short range.
+
+**FRS (US)** — similar concept; **not** legal to use FRS radios where PMR rules apply and vice versa — **buy and program for your jurisdiction**.
+
+**CB 27 MHz** — often license-light; mobile culture; **Ch 9** widely used as help channel in many CB plans; channel numbering **differs by country**.
+
+**VHF marine ~156 MHz** — **Ch 16** distress/calling — receive or use only if licensed / in emergency per rules.
+
+**Amateur (ham)** — wide privileges with license; HF reaches globally; VHF/UHF local — **transmit only with license** except life-threatening emergency where law allows.
+
+**MURS / GMRS** — US-specific allocations.
+
+
+PRACTICAL KIT
+
+**Minimum:** matched pair of **legal** license-free handhelds for your country; spare batteries.
+
+**Extended:** programmable VHF/UHF ham or Part 90-type radio — **program only authorized frequencies**; better antenna than stock whip.
+
+**HF** — separate study, antenna, and license — long-range comms.
+
+
+REAL RANGE
+
+Manufacturer “10 km” = open field, line of sight, maybe both on hills.
+
+**PMR 0.5 W:** open ~1–4 km; forest ~0.5–1.5 km; urban canyon ~200–500 m.
+
+**5 W VHF/UHF handheld:** open ~5–15 km; hilltop to hilltop much more; city ~1–3 km.
+
+**Height wins** — double antenna height can matter more than double power.
+
+
+ANTENNAS
+
+Stock rubber duck is compromise.
+
+**Flexible tall whip** (e.g. ~¼λ for band) often **1.5–2×** practical gain over stock on same radio.
+
+**Base / external antenna** at shelter height — major link improvement.
+
+**DIY λ/4 wire:** length ≈ 75/f(MHz) meters per leg of dipole each side of feed — example ~446 MHz → ~17 cm quarter-wave element (build and match properly for serious use).
+
+
+OPERATING DISCIPLINE
+
+Listen before transmit; short calls; **no OPSEC leaks** on clear voice — assume monitored.
+
+Pre-agree channel + CTCSS; backup channel.
+
+**Power save:** low power if link solid; scan mode uses battery.
+
+**AA battery cases** for some handhelds — long crisis logistics win.
+
+**Scanner legality** varies — know law before monitoring public safety.
+
+
+MONITOR FREQUENCIES (EXAMPLES)
+
+— **156.8 MHz** marine Ch 16.
+— **121.5 MHz** aviation guard (receive).
+— **CB Ch 9** where that plan applies.
+— Local PMR/FRS calling channels — crowded but informative.

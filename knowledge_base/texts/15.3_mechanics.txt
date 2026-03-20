@@ -1,0 +1,104 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.3 Mechanism and function: bolt, chamber, magazine
+
+THE SHOT CYCLE (ALL GUNS)
+
+Regardless of type, the sequence is the same in concept:
+
+1. Feed a cartridge into the **chamber** (from magazine, tube, cylinder, or by hand).
+2. **Lock** the breech with the bolt/slide/breechblock.
+3. **Firing pin/striker** hits the **primer** → powder ignites.
+4. Pressure drives the **bullet/slug/shot** down the bore.
+5. Unlock; **extract** case; **eject**; **load** next round (semi-auto/full-auto) or wait for manual cycle.
+
+Understanding this helps you **clear malfunctions**, **unload safely**, and see why each part matters.
+
+
+MAIN PARTS
+
+**BARREL**
+— Guides the projectile.
+— **Rifled** — spiral grooves for spin → accuracy.
+— **Smooth** — for shot/slugs (rifling would damage shot patterns).
+— **Chamber** — rear enlargement where the cartridge seats.
+
+**BOLT / BREECHBLOCK**
+— Locks the chamber for firing.
+— Holds **firing pin** or transfers striker energy.
+— **Extractor** — pulls case from chamber.
+— **Ejector** — kicks case clear of the action.
+
+**BOLT CARRIER GROUP (self-loaders)**
+— Moves rearward on recoil or gas impulse; carries the bolt (AK, AR, etc.).
+
+**FIRE CONTROL**
+— **Trigger** releases hammer or striker.
+— **Hammer** or **striker spring** supplies strike energy.
+— **Safety** blocks trigger, sear, and/or hammer — layout varies.
+
+**SAFETY TYPES**
+— **Lever** (AK, many older designs).
+— **Trigger-tab / blade** (some striker pistols).
+— **Decocker** (lowers hammer without firing) on some pistols.
+— Not all systems have an external manual safety.
+
+**MAGAZINE**
+— **Detachable box** — pistols, rifles.
+— **Tubular** — under barrel on many shotguns.
+— **Cylinder** — revolver.
+— **Fixed internal** — some shotguns, old military rifles — loaded through the action.
+
+**CHARGING HANDLE / SLIDE**
+— Retracts bolt/slide for loading or stoppage reduction.
+— AK: right-side handle on carrier; pistols: serrations on slide rear.
+
+
+AK-PATTERN — OVERVIEW
+
+Simple, robust gas-operated system.
+
+**Field-strip concept (verify empty first!):**
+1. Remove top cover (rear button/lever per model).
+2. Recoil spring assembly out.
+3. Bolt carrier back and out; bolt rotates out of carrier.
+4. Barrel/receiver stay; handguards/stock separate on full strip.
+
+**Gas operation:**
+— Port bleeds gas → drives piston/carrier rear → unlock, extract, eject.
+— Return spring drives carrier forward → strips round from magazine → chambers → locks.
+
+**Selector:** often combines **safe** with **bolt handle lock** on many AKs — **on safe, charging handle may not move** — clear magazine first, then move selector as needed to open action (**always follow 15.4**).
+
+
+SEMI-AUTO PISTOL — OVERVIEW
+
+**Frame** — fire control, grip.
+**Slide** — moves; contains breech face, extractor, may house striker.
+**Barrel** — locked to slide briefly (Browning tilt) or fixed (blowback .22, etc.).
+**Recoil spring** — around barrel or under.
+
+**Cycle:** trigger releases striker/hammer → shot → slide recoils → extract/eject → spring returns slide → loads next round.
+
+**Slide stop:** locks slide open on **empty magazine** — signal to reload; after new mag, release slide (lever or sling-shot).
+
+
+PUMP SHOTGUN
+
+**Barrel, tubular mag, forend, bolt** tied to forend.
+
+**Cycle:** pull forend **back** — unlock, eject; forward — chamber next shell from tube.
+
+**Loading:** shells into tube through port (details vary); first round may need action closed per manual.
+
+**Break-action:** open at hinge; insert in each chamber; two triggers or selector; close.
+
+
+STRIPPING FOR CLEANING
+
+**Always verify unloaded** (mag out, chamber empty) **first.**
+
+**AK:** sequence above — detail differs by variant (milled vs stamped, etc.).
+
+**Pistol:** mag out, lock slide back, verify empty, then takedown per model (lever, pin, trigger guard tilt — **use the manual for your gun**).
+
+**Never force** unfamiliar takedown; wrong moves can launch springs or damage parts.

@@ -1,0 +1,106 @@
+CHAPTER 10. FOOD PRODUCTION
+10.3 Electricity-free hydroponics
+
+WHAT HYDROPONICS IS
+
+Growing in nutrient solution without soil. Roots get water, oxygen, and minerals directly from liquid.
+
+Vs soil:
+— Often ~3–5× faster growth for many leafy crops.
+— Less total water in recirculating setups.
+— Fewer soil weeds/diseases.
+— Vertical stacks possible.
+— Lighter than mineral soil.
+— Yield more predictable **if** solution is managed.
+
+Powered systems need pumps/airstones. **Without electricity**, use passive methods.
+
+
+PASSIVE DEEP WATER CULTURE (DWC-LITE)
+
+Principle:
+— Net cup in lid; roots hang into reservoir.
+— **Air gap** between liquid surface and bottom of cup — roots breathe in humid air above the water.
+
+Why it can work without a pump:
+— As solution level drops from use, the air space grows.
+— Keep initial level ~2–4 cm **below** the net cup bottom (adjust as roots elongate).
+
+Build:
+1. Lidded bucket or tote ~5–20 L.
+2. Holes in lid for net cups.
+3. Medium in cup: clay pebbles, gravel, coco, perlite.
+4. Seedling or cutting in medium.
+5. Fill with nutrient solution (recipes below).
+
+Maintenance:
+— Top up as level falls.
+— Full change every ~1–2 weeks (salt buildup).
+— pH target ~5.5–6.5 for most crops.
+
+Good passive DWC crops:
+— Lettuce, spinach, basil, mint — excellent.
+— Green onion, parsley, dill.
+— Strawberry, cucumber (needs trellis).
+— Cherry tomato possible but needs **large** volume and careful management.
+
+
+WICK SYSTEM
+
+Principle:
+— Reservoir below or beside pot; cotton/nylon wick lifts solution by capillarity.
+
+Build:
+— Lower tank: nutrient solution.
+— Upper pot: coco or perlite (not dense garden soil).
+— 1–3 wicks ~1–2 cm wide through pot bottom into liquid.
+
+Limits:
+— Small, low-demand plants (herbs, lettuce).
+— Not enough flow for heavy feeders (large tomato, cucumber).
+
+
+NUTRIENT SOLUTION
+
+Plants need **N-P-K** and micronutrients. Pure water starves them.
+
+OPTION A — Commercial hydro fertilizer (best if you can stock):
+— Any complete hydro blend per label (e.g. two-part A/B, or “Masterblend-style” tomato formula).
+— Typical tomato/pepper powder recipe often cited online: ~4-18-38 base + calcium nitrate + Epsom salt in measured ratios per 10 L — **follow a tested chart** for your brand.
+
+OPTION B — Pharmacy / hardware improvisation (incomplete but usable weeks for greens):
+Per ~10 L water (rough starting point — verify with small test batch):
+— Calcium nitrate (if sold as fertilizer): ~10 g.
+— Epsom salt (magnesium sulfate): ~2.5 g.
+— Monopotassium phosphate: ~2.5 g (garden/chemical supplier).
+— Iron chelate or liquid iron micro-dose per label (~few drops to 10 L).
+
+OPTION C — Emergency organic weak tea:
+— ~1 Tbsp wood ash per 10 L, steep ~24 h, strain (K, P).
+— Compost tea: handful compost in water, ~24 h, strain (N + traces).
+— Mix ~1 part teas to ~20 parts water as feed.
+— Yellowing lower leaves = hunger — upgrade feed if possible.
+
+Water and pH:
+— Target ~5.5–6.5.
+— Rainwater often close; high-pH tap: few drops lemon juice or vinegar, retest.
+— Too acidic: pinch baking soda, mix, retest.
+— Cheap **aquarium pH test strips** work in the field.
+
+Reservoir hygiene:
+— Full refresh ~weekly–biweekly; wipe white salt crust.
+— Spent solution can water soil beds.
+
+
+VERTICAL TOWERS
+
+— PVC or stacked PET bottles with side planting pockets.
+— Pour nutrient from top daily; collects in sump; manual return or re-pour.
+— High plant density per m² floor — great for greens/strawberry on balcony/roof.
+
+
+LIGHTING
+
+— Window/balcony: prefer natural sun; south-facing best.
+— If supplementing: LED ~5000–6500 K, ~15–30 cm above canopy, ~14–18 h for lettuce.
+— Power budget example: 16 h × 30 W ≈ 480 Wh/day per small shelf — prioritize sun first.

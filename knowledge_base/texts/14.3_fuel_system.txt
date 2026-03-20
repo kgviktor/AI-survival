@@ -1,0 +1,62 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.3 Fuel system: clogs, air, filter replacement
+
+GASOLINE INJECTED
+
+Tank → in-tank pump → filter → rail → injectors. Pressure often ~2.5–4 bar.
+
+**Carburetor** (old): mechanical pump → float bowl — simpler field fixes.
+
+**Diesel:** lift pump → **water separator** → filter → high-pressure pump (common rail **1000+ bar**) — DIY HP pump repair unrealistic.
+
+
+SYMPTOMS
+
+No start: empty tank (check), dead pump, clogged filter, air in diesel lines.
+
+Rough / stumble: dirty injectors, weak pump, bad pressure regulator.
+
+Fuel smell: **leak** — fire risk — no sparks.
+
+
+EXTERNAL FILTER REPLACEMENT (GAS)
+
+1. **Relieve pressure** — fuse for pump out, crank until stalls, or schrader bleed if equipped (rag catch).
+2. Catch drips; note **arrow direction** on new filter.
+3. Replace; start; leak-check.
+
+**Ventilated area. No flames.**
+
+
+INJECTOR CLEANING
+
+Minor: quality fuel; tank additives periodically.
+
+Severe: professional ultrasonic; field — remove and solvent flush **only if trained** — fire/toxic risk.
+
+
+DIESEL ISSUES
+
+**Air in lines** after filter service — long crank, uneven running, stall.
+
+**Bleed** per manual — hand primer on filter head or electric lift pump cycle.
+
+**Gelled / frozen fuel:** summer diesel waxes near 0 °C; use **winter-grade** fuel; warm filter/tank area; commercial anti-gel.
+
+**Drain water** from separator when lamp on or seasonally — water destroys injectors.
+
+
+PUMP CHECK
+
+Key ON (not start): many cars **prime ~2–3 s** — faint hum from tank. Silence — check fuse/relay/pump.
+
+Field: spare pump module if you rely on remote travel.
+
+
+LEAK REPAIRS
+
+**Gasoline = extreme fire risk.**
+
+Find wet fittings; short hose + clamps as shim; epoxy only dry depressurized joints.
+
+Tank hole: drain low; clean; epoxy rated for fuel; or solder tab patch metal tank — then verify **no seep** with engine running, **no ignition sources nearby**.

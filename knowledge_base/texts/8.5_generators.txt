@@ -1,0 +1,83 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.5 Generators: fuel types, human power, alternators
+
+GAS AND DIESEL GENERATORS
+
+Engine spins alternator → AC output (~120/230 V depending on region).
+
+Types:
+— Open frame: cheaper, loud (~65–80 dB).
+— Inverter: quieter (~50–60 dB), cleaner waveform, better part-load efficiency.
+— Diesel: often more efficient on long runs; fuel stores longer treated.
+
+Pros: kW-scale power, reliable with maintenance.
+Cons: fuel logistics, **noise/signature**, exhaust — **never operate indoors or in attached garage** — fatal CO risk. Minimum spacing from windows/doors per manual; earth grounding per code.
+
+Fuel use (rough):
+— ~0.4–0.5 L/h per kW gasoline at full load; inverter better at light load; diesel ~25–30% better than gasoline per kWh in many cases.
+
+Maintenance:
+— Fresh fuel + stabilizer for storage.
+— Check oil each run; change ~50–100 h.
+— Air filter service.
+— Spark plugs ~100 h gasoline.
+— Carb: drain for storage or use stabilizer — varnish clogs jets.
+
+Long storage prep:
+1. Drain tank and carb (if applicable).
+2. Fog cylinder with spoon of oil, crank without fuel — per engine manual.
+3. Cover; dry storage.
+
+Safety:
+— Refuel only when stopped and cool.
+— Ground stake where recommended.
+
+
+BIKE GENERATOR
+
+Pedal spins wheel or shaft → generator.
+
+Types:
+— Tire friction roller: ~5–30 W.
+— Bottle dynamo ~3–6 W AC ~6 V.
+— Hub generator.
+— Stationary trainer driving motor-as-generator — best efficiency.
+
+Human steady output ~50–100 W; athlete bursts higher.
+~1 h pedaling ≈ ~50–100 Wh — several phone charges with losses.
+
+Wiring:
+— Rectify AC dynamo → charge small battery or buck to 5 V USB.
+— Commercial USB dynamo hubs exist.
+
+
+HAND CRANK
+
+~10–30 W sustainable; tires arm fast.
+~1 h ≈ ~15–30 Wh — emergency phone/radio top-up.
+
+DIY: DC motor as generator + crank + rectifier + 5 V regulator.
+
+
+VEHICLE ALTERNATOR (ENGINE RUNNING)
+
+Idle engine charges battery at ~12–14 V — attach loads at battery terminals.
+Fuel ~0.5–1 L/h idle typical.
+
+Removed alternator:
+— Needs RPM ~1000–1500+ and excitation (rotor field) on many units — belt drive from engine/wind/water.
+— Raw output may need rectifier/regulation — study your unit.
+
+
+WIND WITH ALTERNATOR
+
+Blades + automotive alternator + charge control — common DIY; excitation feed from small battery to start generation.
+
+
+MICRO HYDRO
+
+P = η × ρ × g × Q × H (η ~0.5–0.7 rough).
+Continuous power if stream reliable — no fuel.
+Simple paddle wheel + belt step-up to motor/generator possible.
+
+Example: Q = 0.01 m³/s, H = 1 m, η = 0.7 → ~68 W theoretical.

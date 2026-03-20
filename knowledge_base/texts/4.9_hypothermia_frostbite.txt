@@ -1,0 +1,159 @@
+CHAPTER 4. HEAT, WARMTH, AND FIRE
+4.9 Hypothermia and frostbite: signs and first aid
+
+HYPOTHERMIA
+
+Definition: core body temperature below ~35°C (normal ~36.6°C). Below ~35°C function declines. Near ~30°C — unconsciousness. ~28°C and lower — cardiac arrest risk.
+
+Risk factors:
+— Wet clothing (~25× faster heat loss than dry in wind)
+— Wind
+— Exhaustion
+— Alcohol (vasodilation — heat loss; false warmth)
+— Low food intake
+— Very young and elderly
+
+
+STAGES OF HYPOTHERMIA
+
+Mild (~35–32°C):
+— Violent shivering
+— Pale skin
+— Fast pulse and breathing
+— Clumsy coordination
+— Conscious, normal speech
+— Often treatable in the field
+
+Moderate (~32–28°C):
+— Shivering stops (bad sign — thermoregulation failing)
+— Muscle rigidity
+— Slow confused speech
+— Weak slow pulse
+— Sleepiness, apathy
+— Paradoxical undressing (~20% of cases — brain dysfunction, feeling “hot”)
+— Needs active rewarming
+
+Severe (<~28°C):
+— Unconsciousness
+— Very slow or absent pulse
+— Minimal breathing
+— Dilated pupils
+— Death without treatment
+
+Rule: “Nobody is dead until warm and dead.” Cold-water victims with no vital signs have been revived after slow rewarming. Do not give up prematurely.
+
+
+FIRST AID — HYPOTHERMIA
+
+Mild (conscious, shivering):
+
+1. Remove from cold (shelter, out of wind/water).
+2. Remove wet clothing — gently, no rough handling.
+3. Wrap in dry insulation: blankets, dry clothes, sleeping bag.
+4. Warm packs at groin, armpits, neck — large vessels.
+5. Warm drink: tea, broth — not alcohol.
+6. Caloric food (chocolate, sugar).
+7. Horizontal rest — avoid heavy exertion (cold heart is vulnerable to arrhythmia).
+
+Moderate / severe:
+
+Handle gently:
+— Do not shake or jostle — cold heart may fibrillate.
+— Transport horizontal if possible.
+— External rewarming: warm (not hot) ~40°C water or compresses on trunk — not extremes on skin.
+— Do not rewarm arms and legs before core — cold blood return can crash core temperature.
+— If no pulse: start CPR per training; in some protocols CPR continues during rewarming in hospital.
+
+Do not:
+— Rub limbs (damages cold tissue and vessels)
+— Give alcohol
+— Put severely hypothermic person in hot bath — sudden vasodilation can drop blood pressure and stop the heart
+— Force walking “to warm up” in moderate/severe cases
+
+
+FROSTBITE
+
+Definition: tissue damage from local freezing. Skin below about -0.5°C begins to freeze.
+
+Common sites: fingers, toes, ears, nose, cheeks — peripheral areas with marginal circulation.
+
+Risk factors:
+— Tight boots (poor circulation)
+— Smoking (vasospasm)
+— Wet clothing
+— Wind
+— Prior frostbite (scarred tissue)
+— Alcohol
+
+
+DEGREES OF FROSTBITE
+
+First degree (superficial):
+— Pale or bluish skin
+— Numbness, tingling
+— On rewarming: redness, burning, swelling
+— Tissues survive; full recovery
+
+Second degree:
+— Pallor, numbness
+— In ~24–48 h: clear blisters
+— Painful rewarming
+— Healing ~2–4 weeks; possible minor sequelae
+
+Third degree:
+— Deep tissue freeze
+— After thaw: dark blue or black areas
+— Blood-filled blisters
+— Numbness
+— Tissue death possible; amputation risk
+
+Fourth degree:
+— Full-thickness including bone
+— Irreversible
+— Amputation often required
+
+
+FIRST AID — FROSTBITE
+
+Do:
+
+1. Remove from cold. Shelter.
+2. Remove wet clothing and jewelry (rings — swelling will trap them).
+3. Wrap affected parts in dry cloth — do not actively thaw until safe to stay thawed.
+4. Rewarm in water ~37–40°C for ~20–40 min. Monitor temperature — not hot.
+5. After thaw: loose sterile dressing; separate fingers/toes.
+6. Pain meds (ibuprofen, acetaminophen) — rewarming hurts.
+7. Warm drinks.
+
+Do not:
+— Rub with snow — ice crystals cut cells
+— Rub with hands — mechanical injury
+— Hold to open fire — numb skin burns easily
+— Pop blisters — they protect tissue
+— Smoke — vasospasm slows recovery
+— Thaw if refreezing likely — thaw–refreeze cycle is far more damaging
+
+“Frozen in the field” rule:
+If you must walk out on frostbitten feet, some protocols favor staying frozen until shelter — thawed frostbite is very painful and walking may be impossible. Balance against hypothermia risk and distance.
+
+
+PREVENTION
+
+Clothing:
+— Proper layers (see 4.6)
+— Dry feet critical
+— Spare socks in pack
+— Do not overtighten boots in cold
+
+Activity:
+— Move to maintain limb circulation
+— Wiggle toes every ~20–30 min in severe cold
+— Wiggle ears, blink — monitor sensation
+
+Food:
+— Do not go out hungry in deep cold
+— Warm drinks help core temperature
+
+Buddy checks:
+— Watch partner’s cheeks and ears — white patches appear to others before self-notice.
+— Mutual checks every ~30–60 min below about -20°C.

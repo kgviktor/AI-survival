@@ -1,0 +1,111 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.8 Suspension and steering: what you can fix in the field
+
+SUSPENSION
+
+Functions:
+— Absorbs road impacts.
+— Keeps tires on the ground.
+— Allows steering and braking to work.
+
+**Shocks / struts:**
+— Damp spring oscillation.
+— Worn: **float** after bumps, oil on body, knocking.
+— **Bounce test:** push corner down — **1–2 rebounds** OK; more = weak dampers.
+— Replace **in pairs** (both front or both rear).
+— Field: swap if you carry spares; otherwise drive gently to help.
+
+**Springs / leaf packs:**
+— Support ride height and load.
+— Broken coil: **side sag**, noise — **no real field fix** — tow or spacer limp only with extreme caution.
+— **Leaf springs** (older trucks, some 4×4s): temporary **U-bolt / clamp** repairs possible with skill.
+
+**Sway bar end links:**
+— Connect bar to control arm/strut.
+— Worn: **clunk** on bumps, worse in corners.
+— Usually **two bolts** — easy spare to carry.
+
+**Control arm bushings:**
+— Rubber cracks → clunk, vague steering, tire wear.
+— Replacement needs presses — **hard in the field**.
+
+**Ball joints:**
+— Pivot between arm and knuckle.
+— Worn: clunk, **vertical play** at wheel.
+— **Dangerous** — separation can drop corner — **do not drive** if loose.
+— Check: lift, hands at **6 and 12**, push/pull — **play &gt; ~1–2 mm** → replace.
+
+**Control arms:**
+— Bend in big hits — pull, uneven tire wear.
+— Minor bend: **never “good”** — straightening with a hammer is guesswork — limp slowly to alignment shop.
+
+**CV boots** — see 14.7 (same as axle boots).
+
+
+STEERING
+
+**Rack-and-pinion** — most modern cars: precise, compact.
+
+**Recirculating ball / worm** — older trucks and some 4×4s — adjustable play; heavier feel.
+
+
+SYMPTOMS
+
+**Excessive free play:**
+— Large dead zone before wheels move.
+— Engine on, rock wheel — **&gt;~10–15 mm** at rim often too much — causes: tie rods, rack, column joints.
+
+**Clunk steering:**
+— **Tie-rod ends** — shake joint, feel play.
+— **Inner tie rod / rack** — clunk while turning rolling.
+
+**Heavy steering:**
+— **Hydraulic PS (HPS):** check reservoir — clear/red OK when new; **dark** = overdue; leaks at pump/lines/rack.
+— **Electric PS (EPS):** fuses, power to module, torque sensor faults.
+— Pump failed — may limp **slowly** with high effort.
+
+**PS fluid leak:**
+— Oily spots; often ATF-type fluid in HPS systems — **top up with correct spec**; many HPS tolerate labeled ATF — **verify manual**.
+
+
+TIE-ROD END — FIELD SWAP
+
+Outer ball stud at steering arm — **two per axle** typical.
+
+1. Count **threads** or measure exposed shank so new end is close to same toe.
+2. Loosen jam nut; remove cotter; unscrew end (puller or careful shock — don’t damage boot).
+3. Install new to **same turn count**; jam nut; cotter.
+
+**After any tie-rod change → alignment shop ASAP.** Until then: **moderate speed**, expect pull; recheck toe roughly (below).
+
+
+TOE (ROUGH FIELD ALIGNMENT)
+
+**Toe** — wheels pointed slightly in/out vs centerline; **camber** — lean in/out at top.
+
+Bad angles → rapid uneven wear, pull, nervous steering.
+
+**Crude toe check:**
+— Measure **front-to-front** and **rear-to-rear** of inner tire edges (or consistent tread grooves) at axle height.
+— Often slight **toe-in ~0–2 mm** front narrower than rear — **model-specific**.
+— Adjust **tie-rod sleeves** — equal both sides to keep steering wheel centered.
+
+Gets you to a shop — not a substitute for laser alignment.
+
+
+MAINTENANCE
+
+— Grease **zerks** on ball joints/tie rods if fitted — **~15–20k km**.
+— Inspect **CV boots** every service — crack = plan replacement.
+— Bushings — visual crack/tear.
+— **Torque suspension fasteners** annually or after off-road.
+
+
+CRISIS SPARES (SUSPENSION / STEERING)
+
+— Outer tie-rod ends (pair).
+— Sway bar links (pair).
+— Ball joints if you can press them.
+— Wheel bearings (pair).
+— CV boot kits + grease.
+— PS fluid **~0.5 L** (correct type).

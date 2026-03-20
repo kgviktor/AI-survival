@@ -1,0 +1,100 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.7 Ammunition: cartridge types, compatibility, storage
+
+CARTRIDGE PARTS
+
+1. **Projectile** — bullet, shot payload, or slug.
+2. **Case** — brass, steel, aluminum, or bi-metal.
+3. **Propellant** — smokeless powder inside the case.
+4. **Primer** — in case head; struck by firing pin to ignite powder.
+
+Headstamp often shows **caliber**, factory, year.
+
+
+CALIBER LABELS (EXAMPLES)
+
+**Pistol**
+— **9×18 mm** — common in Eastern Europe; **not** interchangeable with 9×19.
+— **9×19 mm Parabellum** — NATO/police standard worldwide.
+— **.45 ACP**, **.40 S&W** — common western/defense calibers.
+— **7.62×25 mm** — older Tokarev class; still encountered in some regions.
+
+**Critical:** **9×18 vs 9×19** — different case and pressure — **never cross-use.**
+
+**Rifle**
+— **7.62×39 mm** — very common intermediate.
+— **5.45×39 mm** — AK-74 lineage.
+— **7.62×54R** — rimmed; machine guns, DMRs, Mosin-type rifles where found.
+— **5.56×45 mm NATO** — AR-15 family.
+— **.308 Win / 7.62×51 mm NATO** — battle rifle / hunting.
+— **.22 LR** — rimfire training/small game.
+
+**Shotgun**
+— **12 ga** most common; lengths **2¾″ (70 mm)** vs **3″ (76 mm) “magnum”** — **chamber length must match or exceed shell length.**
+— **16**, **20**, **.410** — verify gun marking.
+
+
+COMPATIBILITY — NON-NEGOTIABLE
+
+**Wrong caliber can destroy the gun and kill the shooter.**
+
+Rules:
+— Match **exactly** what is stamped on **barrel** and/or **receiver.**
+— Examples: **5.45×39** vs **7.62×39** — different bullets, **never** mix up.
+— If a round **does not chamber easily by hand** with light pressure — **wrong round** or damaged chamber — **stop.**
+
+**Too small** — deep seat, bad ignition, bore obstruction risk.
+**Too large / forced** — catastrophic pressure.
+
+
+BULLET TYPES (RIFLE/PISTOL)
+
+**FMJ** — full metal jacket; penetrates well; common military ball.
+**Soft-point** — exposed lead tip; more expansion for hunting (where legal).
+**Hollow-point** — expands; common law-enforcement/defense (law varies).
+**AP / steel core** — armor penetration; **heavily restricted** in many jurisdictions.
+**Tracer** — visible trace; **fire hazard**; range restrictions.
+
+**Shotshells**
+— **Shot size** numbered — smaller number = larger shot (regional labeling differs — use local charts).
+— **Buckshot** — large pellets for defense/large game where lawful.
+— **Slugs** — single projectile for smoothbores (Foster/Brenneke types).
+
+
+INSPECT AMMO BEFORE USE
+
+**Reject** if:
+— Dented / cracked case.
+— **Green corrosion** on brass.
+— Rust on steel case.
+— Bullet **loose** or **seated too deep.**
+— **Primer** pierced or badly marred (not from firing pin).
+— **Submerged** ammo — moisture risk → **unsafe pressures / squibs.**
+
+**Questionable** rounds: isolate; expect possible misfire.
+**Water-damaged:** avoid for serious use.
+
+
+STORAGE
+
+**Enemies:** moisture, heat cycles (condensation), UV, impact on primers, acids.
+
+**Good practice:**
+— **Dry** (**&lt;~60% RH** if you can).
+— Stable **coolish** temps; avoid trunk baking in sun.
+— Dark container; original boxes or **sealed** ammo cans.
+— **Desiccant** (silica) in sealed storage; **regenerate** silica per product instructions (often low oven for food-grade packs — follow label).
+
+**Shelf life:** quality ammo in good conditions often **10–30+ years**; first sign of age is **more misfires**, then erratic velocity.
+
+**Transport:**
+— **Rigid** boxes; avoid loose rounds **rattling** in a pack where primers get **struck** by tools or keys.
+
+
+WORKING WITH AMMO
+
+— Long-term storage: many prefer **empty chamber**, mag separate.
+— **Loaded magazines:** springs can take **set** over years — rotate mags, unload occasionally per doctrine.
+— **Do not mix** bullet types in one mag (different POI and function).
+— **Label** containers by caliber.
+— **Rotate stock:** older lots shoot first.

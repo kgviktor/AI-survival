@@ -1,0 +1,122 @@
+CHAPTER 6. SECURITY
+6.3 Reconnaissance and observation without being seen
+
+STEALTH OBSERVATION BASICS
+
+Observation gathers information without contact. The more you know before you act, the safer your decisions.
+
+Golden rule:
+“Watch longer than feels necessary.” First ~10 minutes give ~half the picture; the next hour adds much of the rest. Most mistakes come from rushing conclusions.
+
+“Stop-look-listen” before every exit:
+— Freeze ~3–5 min at the threshold.
+— Listen for normal vs alarm sounds.
+— Then move.
+
+
+CAMOUFLAGE AND MOVEMENT
+
+Clothing:
+— No bright colors or shine.
+— Gray, dark blue, brown, olive drab.
+— Nothing that jingles or rustles (metal in pockets, noisy synthetics).
+— Tape/cloth on shiny gear.
+
+Movement:
+— Slow across open ground; fast through it.
+— Move cover to cover (tree — building corner — fence).
+— Never silhouette on sky or light wall.
+— Hug building shadows, not mid-sidewalk.
+— Cross intersections quickly after a careful peek.
+
+Observation position:
+— Do not peer around a corner at standing head height — predictable.
+— Look from low ground or over high cover — unexpected angles.
+— Lying: only eyes and forehead above cover line.
+— Hold still while watching — motion is seen before shape.
+
+Night:
+— Slower than day.
+— Step toe-first, roll to heel — quieter steps.
+— Every ~10–15 steps: stop, listen ~30 s.
+— Light only if essential; cup lens with hand.
+
+
+OBSERVATION TECHNIQUES
+
+Static observation post (OP):
+
+Site selection:
+— ~180°+ field of view.
+— Protected from rear approach.
+— Masked: brush, shadow, doorway gap.
+— Escape route.
+
+Sectors:
+— Divide view into zones (left, center, right, near, far).
+— Scan each every ~5–10 min.
+— Slow sweep beats staring at one spot.
+
+Logging:
+— Time — what — where (bearing, distance) — how many — armed? — direction of movement.
+— Brief notes if safe.
+
+Group rotation:
+— ~2 h max continuous watch — attention drops.
+— Quiet handover: “Sector clear / movement north — three — ~200 m — westbound.”
+
+Night vision:
+— Do not stare directly at dim objects — use ~10–15° off-center (rods).
+— Shapes and motion, not detail.
+— Hearing dominates: voices, footsteps, engines, dogs.
+
+
+SIGNS OF HUMAN PRESENCE
+
+People reveal themselves by:
+— Fire and smoke (especially night).
+— Smell: food, smoke, sweat, urine — noticeable tens of meters in still air.
+— Sound: voices, cough, metal clink, branch snap.
+— Motion and glint (metal, glass, synthetics in sun).
+— Tracks: trampled grass, mud prints, trash, feces.
+— Dogs barking — often human activity nearby.
+
+Your shelter reveals itself by:
+— Light leaks at night — control curtains and cracks.
+— Chimney/window smoke.
+— Noise: talk, children, tools.
+— Cooking smells.
+— Heavy traffic at one entrance.
+— Antennas or roof gear.
+
+Reduce signature:
+— Cook low in building to disperse smoke.
+— Sound discipline: whisper, soft soles, pad metal.
+— Light discipline: blackout curtains; no visible glow.
+— Brush away tracks at entry.
+
+
+ROUTE RECON BEFORE MOVEMENT
+
+Entering unknown area:
+1. High observation ~30–60 min (roof, upper floor).
+2. Judge activity: who is there, how do they behave.
+3. Pick route with most cover, fewest open kills zones.
+4. Mark danger points (intersections, open squares, overwatch buildings).
+5. Plan alternate withdrawal route.
+
+Recon by one scout (last resort):
+— One person forward, rest in cover.
+— Voice or signal distance.
+— On alarm scout breaks contact; group covers or pulls back.
+
+Safer route signs:
+— Long quiet period.
+— No fresh tracks.
+— Normal animal behavior (birds singing, dogs not on edge).
+
+Dangerous route signs:
+— Silence where noise expected (birds stopped).
+— Smoke, odd smells.
+— Fresh tracks, dumped trash.
+— Feeling watched — intuition often processes cues faster than conscious thought.

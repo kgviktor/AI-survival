@@ -1,0 +1,103 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.5 Cleaning and basic field maintenance
+
+WHY CLEAN
+
+**Fouling:**
+— Builds in chamber, bore, bolt group.
+— Promotes **rust** in humidity.
+— Slows the action → **stoppages.**
+— Severe corrosion can **freeze** a case in the chamber.
+
+**No / wrong lube:**
+— Metal-on-metal wear; sluggish parts.
+— In cold, wrong grease can **gum** the action.
+
+**When to clean:**
+— After shooting, as soon as practical.
+— Every **1–2 weeks** in storage in damp environments.
+— After rain, mud, dust — **immediately.**
+— Guns “not fired” still rust if neglected.
+
+
+MINIMUM KIT
+
+— **Rod** with jag/slotted tip for patches.
+— **Bore brush** (bronze/nylon) for caliber.
+— **Patches / soft cloth.**
+— **Gun oil** (or field substitutes below).
+— **Solvent** for carbon (or substitute).
+
+**Field substitutes (emergency):**
+— Oil: light **engine oil** (thin), **vegetable oil** short-term, some use **petroleum jelly** very sparingly on externals — **not** ideal in cold.
+— Solvent: **kerosene**, **alcohol**, **acetone** (care — finishes/plastics).
+— Rod: wooden dowel, wire with patch — **do not scratch crown.**
+
+**Avoid:**
+— Pouring water into the action.
+— **Heavy oil in chamber/bore** before firing — can cause pressure issues and **misfires.**
+— **Abrasive** on polished surfaces or rifling.
+
+
+BORE
+
+1. **Verify unloaded.**
+2. Wet patch with solvent.
+3. Brush **chamber to muzzle** several strokes (direction debates exist; **avoid** damaging muzzle crown).
+4. Dry patches until **light gray** is acceptable; **black** = keep cleaning.
+5. Light **oiled** patch for **storage** only — run **dry patch** before **firing** if oil was left in bore.
+
+**Rust in bore:** orange on patches, rough brushing — light rust may clean out; **heavy pitting** ruins accuracy — **gunsmith.**
+
+
+BOLT GROUP / RECEIVER
+
+1. Field-strip per **15.3** / manual.
+2. Wipe carbon from bolt, carrier, **firing pin channel** (carbon here → light strikes / misfires).
+3. Clean **extractor** hook with pick/patch.
+4. Receiver rails / raceways — carbon wipes off.
+5. Dry solvent residue.
+6. **Thin** lube on **wear surfaces** — **not** in firing pin channel (many guns want that **dry** or minimal).
+
+
+SHOTGUN
+
+Bore as above; **chamber** heavily fouled with plastic wad residue — brush.
+Pump: wipe **bolt, rails, forend** tracks; light lube on friction points.
+Break-action: hinges, extractors — thin oil.
+
+
+LUBRICATION — HOW MUCH
+
+**Rule:** **thin film**, not puddles.
+
+**AK-style rails, carrier, cam surfaces:** light oil.
+**Pistol rails / barrel hood contact:** light oil.
+**Recoil spring:** light.
+
+**Do not** lube:
+— Inside bore right before shooting (clean bore).
+— **Magazine interior** (attracts grit).
+— Drenching **ammo.**
+
+
+COLD WEATHER (~**−15 °C** and below)
+
+Standard oils thicken → sluggish actions.
+— Clean off heavy lubes; use **cold-weather** gun lube or **very light** oil.
+— Some users run **dry** (clean, minimal lube) in extreme cold — **test your system safely on a range.**
+
+
+AFTER CLEANING
+
+— Light oil film on **metal** for storage.
+— **Avoid long-term** storage in **leather** cases (holds moisture) — prefer breathable synthetic/cotton.
+— In humidity: inspect **weekly.**
+
+
+FREQUENCY
+
+— After range day: **same day or next.**
+— Dry climate storage: **~monthly** wipe.
+— Wet climate: **weekly** check.
+— Rust can start in **hours** in bad conditions.

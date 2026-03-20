@@ -1,0 +1,113 @@
+CHAPTER 11. TOOLS AND REPAIR
+11.6 Metalworking and primitive forge work
+
+WHY IN A CRISIS
+
+Metal skills build and fix tools, weapons, and hardware when supply chains stop. Forging is foundational civilization tech.
+
+Levels:
+1. Cold work — cut, bend, rivet — start here.
+2. Heat treat — harden/temper steel tools.
+3. Hot forge — shape under hammer.
+4. Casting — melt and pour — needs high heat and molds.
+
+
+COLD WORK
+
+Bend:
+— Sheet: clamp and fold over wood block with hammer.
+— Tube: pack sand before bend to prevent kink.
+— Rod: hand or vise.
+
+Cut:
+— Hacksaw; chisel for angle iron/pipe; angle grinder if powered; tin snips ~≤2 mm sheet; file to finish.
+
+Drill:
+— Brace / hand drill; corded/cordless if power; **oil the bit**; pilot small then enlarge.
+
+Rivet:
+— Drill both pieces; insert nail/rivet/bolt; peen tail on anvil.
+
+Threads:
+— Die on rod, tap in hole — half turn forward, quarter back to break chips; oil.
+
+
+STEEL HEAT TREAT (HIGH-CARBON STEEL)
+
+Why: forged or annealed steel is soft; hardening enables edge tools.
+
+Harden:
+1. Heat to nonmagnetic / orange (~800–900 °C for many carbon steels) in forge or very hot wood charcoal.
+2. **Quench** oil (safer, softer) or water (harder, crack risk) — match steel type if known.
+
+Temper (reduce brittleness):
+1. Clean scale.
+2. Reheat gently to ~200–250 °C — straw color on polished surface.
+3. Air cool.
+
+**Color temperature guide (approximate, ambient light affects):**
+— Dark red ~700 °C → cherry ~800 °C → bright red ~900 °C → orange ~1000 °C → yellow ~1100+ °C.
+
+**Does not harden** like carbon steel: most stainless for kitchen, aluminum, copper.
+
+Carbon steel hints:
+— Magnetic.
+— Grinder spark test: long bright forked sparks = higher carbon.
+
+
+PRIMITIVE FORGE SETUP
+
+Minimum:
+— **Fire** with forced air (raises charcoal/coke to welding heat).
+— **Anvil** — rail chunk, thick plate, or hard stone interim.
+— **Hammer** ~1–3 kg.
+— **Tongs**.
+— Quench oil or water bucket.
+
+Charcoal forge:
+— Brick or steel box; **tuyere** pipe low; bellows or blower.
+— Fuel: **blacksmith coke** best; hardwood charcoal works with strong blast.
+
+Bag bellows:
+— Two boards, leather hinge “lung,” one-way flap valves — alternate stroke continuous blast.
+
+Charcoal making:
+— Pit burn: wood pile, ignite, smother with soil when charred; cool ~12+ h before opening.
+— Or sealed drum with small vent — safer control.
+
+Basic operations:
+— **Draw** — lengthen bar under hammer, rotate 90° often.
+— **Upset** — heat end, hammer on anvil face to thicken.
+— **Hot bend** — over horn or edge.
+— **Punch hole** — hot drift on backing plate with hole.
+
+Priority outputs:
+— Knives from leaf spring / old file (check law on weapons).
+— Chisels, punches from rail or tool steel scrap.
+— Brackets, staples, hooks, heavy nails from rod.
+
+Lead **fumes toxic** — outdoor ventilation; molten lead burns are severe.
+
+
+OTHER METALS
+
+Aluminum:
+— Soft cold-form; melts ~660 °C — sand casting possible for simple shapes.
+
+Copper / bronze:
+— Cu ~1085 °C; bronzes ~850–1000 °C — cookware, wire, not knife steel.
+
+Tin:
+— ~232 °C — solder patches, coating.
+
+Lead:
+— ~327 °C — historical weights; **toxic vapor and ingestion risk**.
+
+
+SAFETY
+
+— **Eye protection** always — sparks and scale.
+— Leather gloves — not melting synthetics near fire.
+— Ventilation for zinc/brass/lead fumes.
+— Fire extinguisher / sand / dirt nearby.
+— **Hot steel looks like cold steel** — tongs only.

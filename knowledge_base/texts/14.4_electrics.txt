@@ -1,0 +1,72 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.4 Electrics: battery, jump start, fuses, wiring
+
+BATTERY
+
+Starts engine; runs accessories engine-off; buffers charging spikes.
+
+**Ah** capacity; **CCA/EN** cold cranking — critical in winter.
+
+Healthy resting ~12.6 V; ~12.0 V ≈ half; &lt;11.8 V very low.
+
+Running ~13.8–14.5 V at fast idle — if lower, alternator or belt issue.
+
+**Terminals:** clean green/white corrosion; wire brush; grease/petroleum jelly.
+
+**Serviceable batteries:** distilled water to plates if low.
+
+**Charge:** smart charger ~0.1C (60 Ah → ~6 A). Cold battery — warm above **0 °C** before fast charge when possible.
+
+**Winter:** capacity drops hard at −20 °C; block heater; battery blanket; smaller discharge before start.
+
+
+JUMP START
+
+Heavy cables **16–25 mm²**, short as practical.
+
+**Order:** + donor to + dead; − donor to **engine block or bare metal** on dead car (away from battery gas).
+
+Start donor; wait; crank dead.
+
+**Remove black from dead first** — reverse order of install.
+
+**Wrong polarity** can destroy electronics.
+
+After start: run **20–30+ min** or use charger.
+
+**Portable jump pack** — keep charged; check quarterly.
+
+
+ALTERNATOR
+
+Low voltage running; battery light; dead battery often — test belt tension first, then regulator/brushes repair on some units.
+
+
+FUSES
+
+Blown = open element. **Replace same amperage** — never oversized.
+
+If repeats — find short, don’t keep feeding fuses.
+
+**Spare kit** 5–30 A blade types in glove box.
+
+
+WIRING REPAIR
+
+Trace circuit; twist + tape **temporary**; solder + heat-shrink better.
+
+**Bad grounds** cause ghosts — clean chassis/engine strap bolts.
+
+
+ECU / IMMOBILIZER
+
+Modern ECU failure usually needs pro tools.
+
+**EMP note:** older carb/distributor cars simpler; modern ECU in metal box has some shielding — not a guarantee.
+
+Immobilizer lost key — **legal** locksmith/dealer path only in peacetime; know your vehicle’s reality.
+
+
+VEHICLE ELECTRIC KIT
+
+Jumper cables 3 m, ≥25 mm²; jump pack; fuse assortment; tape; spare wire; multimeter; smart charger; common bulbs.

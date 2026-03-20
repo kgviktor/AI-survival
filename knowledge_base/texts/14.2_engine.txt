@@ -1,0 +1,136 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.2 Engine: oil, coolant, belts, spark plugs
+
+ENGINE OIL
+
+Lubricates, cools internals, cleans, protects metal.
+
+**No oil = seized engine in about a minute.**
+
+**Grade** (e.g. 5W-30):
+— First number + W — cold cranking viscosity (lower = easier winter start).
+— Second number — hot operating viscosity (higher = thicker film, more protection when hot).
+
+Common: 5W-30, 5W-40, 10W-40 — **use owner manual spec.**
+
+**API / ACEA** ratings — match gasoline vs diesel and manufacturer.
+
+Types: mineral (shorter interval), synthetic/long-life (longer interval, better extremes).
+
+**Change** per schedule or **at least annually** even if low miles. After long storage, change.
+
+**DIY oil change:**
+1. Warm engine ~5–10 min.
+2. Drain plug out (catch hot oil safely).
+3. Drain fully; replace **filter** (lube gasket with fresh oil).
+4. Reinstall plug; fill to mid-dipstick; run; recheck.
+
+Capacity often ~4–6 L — verify manual.
+
+Top-up: same spec preferred; in emergency **any correct-viscosity clean oil beats running low.**
+
+**Crisis stock:** ~5 L spare in vehicle.
+
+
+COOLANT
+
+Transfers heat; freeze/boil protection; corrosion inhibitors.
+
+Overheat can **warp head** — very expensive.
+
+**Types:** Older silicate (often green), OAT (often red/orange), HOAT hybrids — **do not mix incompatible chemistries** — sludge risk.
+
+Check **cold** level in reservoir.
+
+**Freeze protection** — measure with **refractometer or test strips** — target your climate (e.g. −35 °C class in hard winter regions).
+
+Top-up: same coolant or **distilled water** short-term only.
+
+**Overheat en route:**
+1. Safe stop; shut down.
+2. Hood up; wait **20–30 min**.
+3. **Never** open hot pressurized cap.
+4. When cool: add coolant/water; limp gently if you must.
+
+**Temporary radiator leak:** commercial stop-leak per label; egg white folklore — last-resort experiment only.
+
+
+BELTS
+
+**Timing belt/chain** — synchronizes cam(s) and crank. **Belt snap on interference engine** = bent valves — catastrophic. Interval per manual (~60–100k km typical belt). Inspect for cracks, missing teeth.
+
+**Serpentine / V-belt** — drives alternator, often water pump and PS. Loss = no charge, overheat risk if pump on belt.
+
+V-belt deflection ~10–15 mm mid span rule-of-thumb.
+
+**If serpentine fails:** cut electrical load; battery dies in tens of minutes.
+
+**Emergency V-belt:** pantyhose trick — **few km only** to help.
+
+
+SPARK PLUGS
+
+Worn plugs: hard start, rough idle, mpg loss.
+
+Types: copper shorter life; iridium/platinum long life.
+
+Gap ~0.8–1.1 mm typical — spec in manual.
+
+**Read plugs:** tan/gray OK; soot — rich/oil; white/ash — lean/overheat; melted — severe detonation/overheat.
+
+Replace **cold** with proper socket; torque or “snug + ¼ turn” per aluminum head caution.
+
+**Spare set** in crisis kit (count cylinders).
+
+
+EXHAUST
+
+Routes gases away; reduces noise; **contains CO** — **never** idle in an enclosed space (see Ch. 8 CO).
+
+**Leak before the catalytic converter** — noise; fumes in cabin if floor pans rust — **danger**.
+
+**Flex pipe** cracks — replace section.
+
+**Gasket leaks** — replace when cold.
+
+**Temporary repair** — exhaust wrap/putty — short limp only.
+
+**Field weld** — only outdoors with fire-safe practice.
+
+
+COOLING SYSTEM (EXTENDED)
+
+Radiator → pump → engine → thermostat → back to radiator.
+
+**Thermostat stuck closed** — rapid overheat.
+
+**Stuck open** — slow warm-up, weak cabin heat, longer rich running.
+
+Replace per manual or ~100k km; **test in hot water** — should open near stamped temperature.
+
+**Water pump** — weep-hole drip, bearing play, noise — fix before remote trips if marginal.
+
+**Radiator** — keep external fins clear (mud/bugs); internal flush if chronic overheat.
+
+**Hoses** — squeeze cold; spongy/crackle inside = failure coming; bulges = replace.
+
+**Pressure cap** — holds ~1–1.4 bar, raises boil point; bad cap = premature boil-over.
+
+**Electric fans** — should cycle in traffic; if not — fuse, relay, sensor, motor.
+
+**Heater core** — cabin heat; clog = no heat, engine may be fine; leak = sweet smell/fog — temporary **bypass loop** = no cabin heat but may limp.
+
+
+IF IT OVERHEATS
+
+1. Heater **full hot**, cabin fan max — extra heat dump.
+2. Safe stop; idle only if no heavy steam — if steam, **shut down**.
+3. Cool **20–30 min**; **do not** open hot cap.
+4. When cool: top up; find leak; drive gently with heat on if needed.
+
+**Head gasket** clues — constant white vapor, coolant loss, oil “milkshake,” bubbles at radiator filler, compression test.
+
+
+FIELD KIT (COOLING)
+
+Spare upper/lower hose + clamps; coolant concentrate + distilled water; spare cap if common; thermostat if you can R&R.

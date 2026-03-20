@@ -1,0 +1,134 @@
+CHAPTER 9. COMMUNICATIONS AND INFORMATION
+9.3 Signals and alerts: sound, light, smoke, visual signs
+
+TWO MODES
+
+Distress / rescue signals (be seen):
+— Goal: strangers find and help you.
+— Max visibility OK when hostile presence is unlikely.
+
+Group / tactical signals (stay hidden):
+— Goal: talk only to your people.
+— Minimal signature; pre-briefed codes.
+
+Using “loud” signals in a hostile area can be fatal — choose deliberately.
+
+
+INTERNATIONAL DISTRESS PATTERNS
+
+**Three of anything** (widely recognized group distress):
+— Three gunshots; three whistle blasts; three fires in a row or triangle; three flashes; three blows on metal.
+
+~1 minute pause between **groups** of three.
+
+SOS (Morse): · · · — — — · · ·  
+Sound/light: three short, three long, three short.
+
+Ground signal “SOS”:
+— Large letters from brush, rocks, snow — aim **~10 m+** for air search.
+
+“Require assistance” (ICAO-style ground symbol):
+— Large **V** visible from air.
+— Aircraft acknowledgment: wing rock (context-dependent).
+
+
+LIGHT SIGNALS
+
+Signaling mirror:
+— Sun flash visible for many km with practice.
+— Aim through sight hole or past fingers at target.
+— Improvise: foil, can lid, phone screen, glasses lens.
+— **Do not flash toward road traffic or aircraft cockpits** at close range.
+
+Flashlight:
+— Morse SOS or three short flashes toward search aircraft / expected route.
+
+Chem light (glow stick):
+— Visible hundreds of meters; spin on cord for air ID.
+— Runtime often ~8–12 h.
+
+Laser pointer:
+— Green beams trace far at night — **never aim at eyes or aircraft.**
+
+Pyrotechnics:
+— Marine/red parachute flares, pen flares — long sight range; **fire/burn hazard**; check expiry (~3–5 years typical).
+
+
+SMOKE SIGNALS
+
+Smoke works **by day**; flame/light at night.
+
+Color tricks:
+— **White smoke:** green boughs, leaves, moss, wet grass on hot coals.
+— **Dark smoke:** rubber, plastics, oil — use sparingly (toxic, enviro).
+
+Contrast: white on dark forest; dark plume on snow/sky.
+
+Three fires in a triangle:
+— ~25–30 m spacing — classic air distress layout.
+
+On-demand puff:
+— Keep strong base fire; throw wet fuel on for a sharp column when you hear aircraft.
+
+
+SOUND SIGNALS
+
+Whistle:
+— Carries farther than voice; less fatigue.
+— Metal or plastic ~120 dB+; **three blasts = distress.**
+— Pealess designs (e.g. Fox 40 class) work wet.
+
+Voice:
+— “Help!” / local distress words; cup hands megaphone-style; shout on **exhale** bursts.
+
+Metal percussion:
+— Pots, pipes — carries in forest.
+
+Vehicle horn:
+— Three long — three short — three long (SOS rhythm) if context fits.
+
+
+GROUP TACTICAL (PRE-BRIEFED)
+
+Hand signs (examples):
+— Hand up: stop.
+— Flat hand forward: go / advance.
+— Fist: danger / hold.
+— Two fingers spread: split / flank.
+— Hand at throat: high threat / chokepoint.
+— Palm down: get down.
+— Finger circle overhead: rally here.
+
+Flashlight codes (dark):
+— One flash: “OK / here.”
+— Two: “Come to me.”
+— Three: “Alert / danger.”
+— Red filter: extreme caution.
+
+Quiet audio:
+— One click: stop.
+— Two: go.
+— Three: danger.
+— Codeword for immediate exfil: e.g. “**word**” = leave now.
+
+Notes and trail marks:
+— Cache notes; tree blaze/chalk marks; stick/cairn arrows.
+
+
+MARKING FOR YOUR OWN TEAM
+
+Natural arrows:
+— Rocks, sticks, cones pointing direction.
+— Crossed sticks: “not this way / blocked.”
+— Three stones: “we were here / note.”
+
+Tree blazes (use only where legal and ethical):
+— **V** notch: direction of travel.
+— **X**: danger / do not proceed.
+— Single vertical: “route / we passed.”
+
+Flagging tape:
+— Tie at turns; remove if stealth matters.
+
+Dead-drop notes:
+— Pre-agree hiding spots: “third rock at gate,” “behind loose board.”

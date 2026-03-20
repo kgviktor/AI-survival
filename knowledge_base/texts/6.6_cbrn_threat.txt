@@ -1,0 +1,167 @@
+CHAPTER 6. SECURITY
+6.6 Chemical and radiation threats
+
+PART 1: RADIATION
+
+UNDERSTANDING RADIATION
+
+Types:
+— Alpha: weak penetration — stopped by paper or dead skin layer. Dangerous if inhaled or swallowed.
+— Beta: moderate penetration — blocked by clothing layers. Skin and internal hazard if ingested.
+— Gamma: high penetration — needs mass shielding (lead, concrete, earth, water thickness).
+— Neutron: nuclear detonations — very penetrating; specialized shielding.
+
+Units:
+— Sievert (Sv) / millisievert (mSv): biological dose.
+— Background: often ~0.1–0.3 µSv/h (varies by location).
+— Elevated: >~1 µSv/h — investigate.
+— Dangerous extended stay: >~10 µSv/h (context-dependent).
+— Acute lethal range: roughly >4–5 Sv short exposure (radiation sickness).
+
+
+INDIRECT SIGNS OF CONTAMINATION
+
+You cannot see or feel ionizing radiation without instruments. Clues:
+— Nuclear detonation: flash brighter than sun, then blast, then mushroom cloud.
+— Power-plant accident: often invisible; instruments + official alerts.
+— “Dirty bomb”: explosion plus unexplained illness clusters downwind.
+
+Dosimeter:
+— Consumer meters (many brands/models exist) are relatively affordable — invaluable if you live near nuclear risk.
+— Without meter: follow official guidance and cluster symptoms in population.
+
+
+NUCLEAR DETONATION — IMMEDIATE ACTIONS
+
+If you see the flash (sound delayed = you are not at ground zero):
+1. Drop flat immediately; get behind solid cover.
+2. Cover head; face down — blast wave next.
+3. Wait for blast to pass.
+4. If able, move perpendicular to fallout drift (know wind if possible).
+
+Damage zones (very rough — weapon and terrain dependent):
+— Total destruction near ground zero.
+— Severe damage and fires for many km in large weapons.
+— Fallout plume downwind can threaten far downrange.
+
+Evacuation vs shelter:
+— Perpendicular to plume drift often cited — not straight into the cloud’s path.
+— If far enough, sheltering in heavy building may beat running through fallout.
+
+
+SHELTER IN PLACE (FALLOUT)
+
+Principle: mass between you and radiation reduces dose.
+
+Good shielding materials:
+— Concrete (~30 cm can reduce dose roughly an order of magnitude — thickness matters).
+— Brick (~similar scale).
+— Earth/berm — very effective per thickness.
+— Water — useful if thick enough.
+
+Better places in a building:
+— Center of structure (more walls/floors between you and outside).
+— Basement (earth shielding).
+— Mid floors of high-rise sometimes preferred over ground (roof deposition) or top (gamma from roof materials) — context-specific.
+
+Sealing:
+— Tape gaps, vents, windows, doors to reduce dust entry.
+— Damp towels at cracks — particle capture.
+— Turn off forced ventilation that pulls outside air.
+
+Time:
+— First ~24–48 h often worst for short-lived isotopes in fallout.
+— Dose rates typically fall over days to weeks as isotopes decay — follow measurements.
+
+Supplies in shelter:
+— Water in sealed containers (filled before event).
+— Food in sealed packaging.
+— Dosimeter if available.
+— Potassium iodide (KI): ~130 mg adults, ~65 mg children (exact dosing per official drug insert) — only helps thyroid vs radioactive iodine-131 if taken per timing guidance; not “radiation cure-all.”
+
+Decon after exposure risk:
+— Remove outer clothing at threshold; bag it.
+— Wash skin and hair thoroughly with soap.
+— Clean under nails.
+
+Food/water after fallout:
+— Drink sealed water only.
+— Avoid open/local produce from contaminated zone until cleared.
+
+
+ACUTE RADIATION SYNDROME (SIGNS)
+
+Stages:
+— Prodrome (hours): nausea, vomiting, weakness — significant dose >~1 Sv acute.
+— Latent “improvement” days/weeks.
+— Manifest illness: hair loss, bleeding, infections, marrow failure.
+— Outcome depends on dose and care — hospital needed for significant exposures.
+
+Field care: supportive (fluids, infection control, pain control) — not a substitute for evacuation.
+
+
+PART 2: CHEMICAL THREATS
+
+MAJOR CLASSES
+
+Nerve agents (sarin, VX class):
+Signs: pinpoint pupils, salivation, twitching, seizures, rapid collapse.
+Protection: full respiratory isolation (proper mask/filter). Atropine autoinjector if trained and available.
+
+Blister agents (sulfur mustard class):
+Signs: delayed blisters, eye/airway burns.
+Protection: skin cover + proper mask.
+
+Choking agents (chlorine, phosgene):
+Signs: cough, pulmonary edema; chlorine smells like bleach; phosgene may smell like “cut hay.”
+Protection: uphill and upwind; heavy gases pool low — terrain matters. Wet cloth helps some aerosols/chlorine somewhat — not reliable vs nerve agents.
+
+Blood agents (cyanide class):
+Signs: rapid collapse, seizures; “bitter almond” smell not reliable (many cannot smell it).
+Protection: proper mask; urgent medical care.
+
+Incapacitating agents (e.g. BZ-class hallucinogens in military context):
+Signs: confusion, inability to function.
+
+Riot agents (CS, pepper OC):
+Signs: burning eyes, tears, cough — usually not lethal at field concentrations.
+Care: fresh air, water rinse.
+
+
+SIGNS OF CHEMICAL RELEASE
+
+— Odd smells (almond, garlic, hay, bleach).
+— Oily spots on surfaces.
+— Sudden bird/animal die-off.
+— People collapsing, seizing, coughing in cluster.
+— Small blast + low cloud — possible deliberate release.
+
+If chemical suspected:
+1. Hold breath.
+2. Leave immediately upwind and uphill when possible.
+3. Strip outer clothing once clear.
+4. Wash skin and eyes copiously with water.
+5. Seek medical care.
+
+Improvised protection:
+— Multiple layers of wet cloth over nose/mouth — helps some particulates and coarse aerosols; not reliable vs nerve agents.
+— Tight-fitting eye protection helps with irritants.
+— Maximize skin cover.
+
+Proper respirators:
+— Military/full-face CBRN kits with correct filter types and fit test — beard breaks seal.
+— Filters have limited service life — replace per specs or if breakthrough odor.
+
+
+SHELTERING FROM CHEMICALS
+
+— Tape/seal like radiation shelter concepts.
+— Wet towels at cracks add particle barrier.
+— Sealed room without air exchange has limited oxygen — small room ~tens of minutes per person is a rough concern; plan ventilation breaks only when safe upwind.
+
+
+EVERYDAY INDUSTRIAL TOXICS
+
+— Ammonia (refrigeration): pungent; lighter than air in some conditions — low spots vs high varies; follow plume.
+— Chlorine (water treatment): heavier than air — higher floors may help; still evacuate per guidance.
+— Carbon monoxide: odorless — see chapter on ventilation/CO (4.8).

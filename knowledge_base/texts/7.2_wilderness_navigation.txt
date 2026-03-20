@@ -1,0 +1,134 @@
+CHAPTER 7. NAVIGATION AND MOVEMENT
+7.2 Wilderness navigation: sun, stars, natural signs
+
+COMPASS AND MAP IN THE FIELD
+
+Compass is the core wilderness tool.
+
+Azimuth:
+— Angle clockwise from north to your direction of travel: 0–360°.
+— N = 0°/360°, E = 90°, S = 180°, W = 270°.
+
+Walking an azimuth:
+1. Read bearing from map (angle from true or grid north per map legend).
+2. Set that bearing on the compass bezel/orientation lines.
+3. Rotate body until needle aligns with north mark.
+4. Follow the direction-of-travel arrow.
+5. Re-check every ~200–500 m — drift accumulates.
+
+Azimuth drift:
+— People curve left or right unconsciously.
+— At obstacle: offset 90°, sidestep equal distance, offset back 90°, resume line.
+
+Magnetic declination:
+— Magnetic north ≠ true north; offset varies by location (~5–20° in many northern areas — check your chart).
+— For rough bush navigation, small errors may be acceptable; for precision, apply correction.
+
+
+SUN
+
+Approximate track:
+— Rise E-ish, set W-ish (seasonal swing).
+— Solar noon: sun highest in south (Northern Hemisphere).
+— Summer: sunrise/ sunset north of E/W; winter: south of E/W in mid-latitudes.
+
+Watch method:
+— Analog watch, correct for DST: hour hand to sun; bisector between hour and “12” (or “1” summer) → south in northern mid-latitudes.
+
+Shadow stick (more reliable):
+1. Vertical stick in sun.
+2. Mark shadow tip — that end is roughly west (morning) or track movement for east-west line.
+3. Wait ~15–20 min, mark new tip.
+4. Line between marks ≈ east–west.
+5. Perpendicular to that line ≈ north–south.
+
+
+STARS
+
+Northern Hemisphere:
+— Polaris near north celestial pole — steady north bearing.
+— Find via Big Dipper “pointers” ×5 extension, or between Dipper and Cassiopeia “W.”
+
+Cloudy night:
+— Remember bearing before dark.
+— Follow large linear features (tree line, shore, power cut).
+— Often safer to camp and wait for light than wander blind.
+
+Southern Hemisphere:
+— Southern Cross method extended ~4.5× long axis toward south celestial pole — learn local method.
+
+
+NATURAL SIGNS (USE SEVERAL — NONE ALONE)
+
+Plants:
+— Moss denser on more shaded side — often north in open north-temperate forest — unreliable in dense woods or wet hollows.
+— Birch bark texture/color asymmetry — weak cue.
+— Tree stump rings slightly wider on sunnier side.
+— Crown denser sunward.
+— Ant hills often sun-side of tree bases — regional.
+
+Snow:
+— Faster melt on sun-facing slopes.
+— Deeper lingering snow in shade.
+— Sun crust patterns on wind-exposed slopes.
+
+Water:
+— Streams run downhill to larger water and people.
+— Ridge lines divide watersheds.
+
+Wind:
+— Prevailing direction is regional — learn local climate.
+— Flagging trees on exposed edges may show dominant wind.
+
+
+PACE COUNTING AND DISTANCE
+
+Calibrate yourself:
+— Walk a measured 100 m track, count paces — many adults ~120–135 double-steps (count every second step).
+
+Terrain correction factors (rules of thumb):
+— Uphill: shorten effective pace ~10–20%.
+— Thick brush: add ~20–30%.
+— Night: add ~10–15%.
+— Heavy load: add ~5–10%.
+
+Visual distance (human figure, clear air, rough guide):
+— ~50 m: facial detail.
+— ~100 m: hand motion visible.
+— ~200 m: silhouette, no face.
+— ~500 m: human silhouette.
+— ~1000 m: vague human shape.
+
+
+READING TOPO MAPS
+
+Basics:
+— Contour spacing: tight = steep slope.
+— Blue: water.
+— Green: vegetation.
+— Yellow/white: open ground.
+— Built-up: block patterns.
+
+Elevation:
+— Labeled contour = that height AMSL; between lines you interpolate.
+
+Scale:
+— 1:100,000 → 1 cm = 1 km.
+— 1:50,000 → 1 cm = 500 m.
+— 1:10,000 urban → 1 cm = 100 m.
+
+
+IF LOST — STOP
+
+S — Stop (no panic sprint).
+T — Think (last known point, intended route).
+O — Observe (high points, water, sun).
+P — Plan (climb for view, follow stream down, follow linear feature, or resection on map if skilled).
+
+Resection:
+— Take two bearings to known peaks — map intersection estimates position.
+
+Signals:
+— Three of anything (whistle blasts, fires, gunshots) = distress (when culturally understood).
+— Smoke column visible for miles.
+— Mirror flash visible for many km in sun.

@@ -1,0 +1,111 @@
+CHAPTER 15. FIREARMS: HANDLING BASICS
+15.4 Safely unloading an unfamiliar firearm
+
+RULE BEFORE YOU START
+
+**Rushing while unloading kills.**
+
+Before any manipulation:
+1. Muzzle — **safe direction** (into ground or open sky as appropriate).
+2. Finger — **outside** the trigger guard, **off** the trigger.
+3. Breathe. Slow down. Think.
+
+Goal: **cleared** gun — **empty chamber**, ammunition source removed, **verified** by eye and touch.
+
+
+UNIVERSAL ALGORITHM
+
+**Step 1 — Identify type**
+— Pistol? AK-pattern rifle? Break-action or pump shotgun?
+— Where is the magazine? The safety?
+
+**Step 2 — Safety ON** if you can identify it confidently.
+— If unsure, **do not** fumble; keep finger off trigger and muzzle safe.
+
+**Step 3 — Remove ammunition supply**
+— **Box magazine:** magazine catch (often left side of pistol grip; AK-style catch in front of mag).
+— **Revolver:** cylinder release; swing cylinder out.
+— **Shotgun tube:** may need to cycle rounds out (see pump section).
+
+**Step 4 — Open action; check chamber**
+— Fully retract bolt/slide or open action.
+— **Look** into chamber — should see empty, shiny chamber mouth.
+— **Feel** with fingertip **only** if you can do so without covering muzzle or violating safe direction.
+
+**Step 5 — Confirm**
+— Bolt locked back or chamber visibly open; mag out or tube empty per checks.
+
+**Step 6 — Store** firearm and ammunition **separately** when policy requires.
+
+
+SEMI-AUTO PISTOL
+
+1. Safe direction.
+2. Find **magazine release** — often left side behind trigger guard.
+3. Strip magazine; set aside.
+4. **Rack slide fully rearward** — live round in chamber should eject.
+5. **Visually and physically** verify chamber empty.
+6. Use **slide lock** if present to hold open.
+7. **Never** assume “mag out = unloaded” — **chamber can still hold one round.**
+
+**Makarov-type note:** mag release often **heel** of grip (push up/in per model). Slide-mounted safety may **also** decock — **learn the specific pistol.**
+
+
+REVOLVER
+
+1. Safe direction.
+2. Cylinder latch — usually left of frame.
+3. Swing cylinder out to the side.
+4. Muzzle **up** or **down** into safe cone; use **ejector rod** to dump rounds.
+5. Verify **each** chamber empty.
+6. Close cylinder.
+
+
+AK-PATTERN (AKM / AK-74, ETC.)
+
+1. Safe direction.
+2. Selector to **safe** (often lowest position — **confirm on your sample**).
+3. Mag catch: typically **rock and pull** or paddle — **remove magazine.**
+4. If safe **locks charging handle**, move selector to allow **single-fire** position only **after** mag is out and you intend to open chamber — **extreme care.**
+5. **Pull charging handle fully back** — eject any chambered round.
+6. Inspect chamber; finger-check if safe to do so.
+7. Return selector to **safe** when done.
+
+
+PUMP SHOTGUN (TUBULAR MAGAZINE)
+
+1. Safe direction.
+2. If present, use **action release / bolt release / carrier cut-off** (often left side) so the action can cycle without feeding from tube — models vary.
+3. Cycle **forend** to eject chambered round.
+4. Repeat: with cut-off engaged, cycle to clear tube one round at a time — **count** rounds out.
+5. Visually/tactile verify **chamber and magazine tube empty.**
+
+If you cannot find the cut-off: **slowly** cycle until chamber and tube are clearly empty — keep muzzle safe **every** stroke.
+
+
+BREAK-ACTION SHOTGUN
+
+1. Safe direction.
+2. Find **opening lever** (often ahead of trigger guard).
+3. **Break** open; shells fall or pull free.
+4. Visually verify both chambers empty.
+5. Close gently.
+
+**Stuck shells:** no brute force — pry carefully or get help; **muzzle safe** throughout.
+
+
+DANGEROUS SITUATIONS WHILE CLEARING
+
+**Click instead of bang (misfire):**
+— Keep muzzle **safe** **~30 seconds** — **hangfire** possible.
+— Then clear per normal procedure.
+
+**Stuck round / stuck bolt:**
+— No hammering on a loaded chamber in unsafe directions.
+— Muzzle safe; retry full retraction; if still stuck — **expert help.**
+
+**Cleaning rod from muzzle end:**
+— Only with muzzle in **safe direction** and action open/cleared; used to push stuck bullet/shell — **know what you are doing.**
+
+**“They said it was empty”**
+— **Never** trust words alone. **Always** verify yourself.

@@ -1,0 +1,127 @@
+CHAPTER 14. VEHICLE: SERVICE AND REPAIR
+14.11 Vehicle adaptation for survival: kit, low profile, protection
+
+CHOOSING A CRISIS VEHICLE
+
+If you can choose:
+
+**Diesel:**
+— Often **+20–30%** range per liter vs similar gasoline.
+— Torque: better loaded/off-road.
+— Can use biodiesel / SVO discussions in some regions (see 14.10).
+— Often durable for long hours.
+
+**Ground clearance:**
+— **≥200 mm** helps rough tracks; trucks, SUVs, true 4×4s.
+
+**Manual transmission:**
+— Simpler field repair; bump-start; often less slip loss in mud.
+
+**Body-on-frame (true trucks/SUVs):**
+— Tougher in hard abuse than many unibody crossovers.
+— Easier bumper/winch/bull bar mounting.
+
+**Simpler electronics:**
+— Fewer modules to fail; pre-**~2005–2010** often simpler (varies).
+— **Carb + distributor:** nearly EMP-proof in theory — obsolete for most.
+
+**Examples often cited for rough-country service** (parts/support vary by region):
+— Simple 4×4s with solid axles (e.g. UAZ-class, Lada Niva-class where common).
+— Toyota Land Cruiser / Hilux, Mitsubishi Pajero, Nissan Patrol, Land Rover Defender-class, full-size pickups.
+
+
+STOCKS IN THE VEHICLE (BASELINE)
+
+**Water:** **10–20 L** in cans.
+
+**Food:** **3–7 days** — cans, dry staples, bars.
+
+**Fuel:** **20–40 L** reserve when policy allows.
+
+**Tools:**
+— Jack + lug wrench.
+— General tool roll (wrenches, screwdrivers, pliers).
+— Kinetic strap + rated recovery points knowledge.
+— Shovel (folding or full).
+— Duct tape, hose clamps, wire.
+— Tire repair kit.
+
+**Medical:** expanded vehicle first aid.
+
+**Comms:** radio; spare phone or power bank.
+
+**Thermal:** blanket or sleeping bag; spare warm clothes; candles + lighter if stranded in winter cold.
+
+**Spares / consumables (match your model):**
+— Serpentine belt; timing belt kit if due.
+— Engine oil **2–3 L**; coolant **1 L**; brake fluid **0.5 L**.
+— Fuse assortment; spark plugs set; common bulbs.
+— Tie-rod ends; wheel bearings if you know weak points.
+
+
+PHYSICAL PROTECTION
+
+**Bull bar / brush guard:**
+— Protects lights/radiator from brush/animal strikes.
+— Winch mount point.
+— Changes how the vehicle is perceived — trade-off.
+
+**Skid plates (sump / gearbox / transfer):**
+— Steel or aluminum underbody armor for rocks.
+
+**Fuel tank guard:**
+— Metal shield — common on serious 4×4s.
+
+**Steel bumpers:**
+— Recovery points integrated; Hi-Lift jacking points.
+
+**Window mesh / grills:**
+— Reduces smash-and-grab and thrown-object risk; security vs visibility trade-off.
+
+
+LOW PROFILE (NOT “STANDING OUT”)
+
+Why:
+— Flashy or “tactical” vehicles attract attention in unrest.
+
+**Color:**
+— Dull neutrals: gray, olive drab, earth brown.
+— Pure black: hot in sun; very visible at night with dust.
+— Avoid bright red/white/yellow if blending matters.
+
+**Remove identifiers:**
+— Stickers, club badges, government-style markings if they read as privilege/target.
+
+**Camo nets:**
+— Park under cover; net + local brush breaks outline from distance/drone casual view.
+
+**Light discipline:**
+— Headlights only when needed; parking lights vs full beams; **red** interior light preserves night vision and reduces external glow.
+
+
+VEHICLE ELECTRICS AS A RESOURCE
+
+**Running engine charges battery** — use **inverter 12 V → AC** for small loads **only with engine running** and adequate wiring/fusing.
+
+**300–1000 W** inverters exist; cigarette-lighter types are **limited** — heavy loads need battery clamps and short thick leads.
+
+**Second battery + isolator** — house loads without killing start battery.
+
+**Roof solar 100–200 W** — trickle/maintenance charge for aux battery when parked.
+
+
+WINTER PREP
+
+Antifreeze rated for your worst night (e.g. **−40 °C** class where such nights occur).
+
+Winter tires; studs where legal/useful.
+
+**Snow chains** for extremes.
+
+Winter diesel or anti-gel.
+
+Battery with adequate **CCA** for your climate.
+
+De-icer for locks/glass; shovel; bag of sand/gravel.
+
+**Emergency thermal blanket** in trunk for breakdown in cold.

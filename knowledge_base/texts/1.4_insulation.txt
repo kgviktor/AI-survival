@@ -1,0 +1,116 @@
+CHAPTER 1. SHELTER AND A SAFE LOCATION
+1.4 Insulating rooms: windows, doors, walls
+
+PRINCIPLES OF HEAT RETENTION
+
+Heat is lost in three ways:
+— Convection: drafts and air movement (often 40–60% of losses in a poorly sealed building)
+— Conduction: through wall, floor, and ceiling materials
+— Radiation: from warm surfaces to colder ones
+
+First priority — stop drafts. This yields the biggest gain for the least effort and material. A well-sealed gap under a door can matter more than a blanket on a wall.
+
+Balance with ventilation:
+A fully sealed room is dangerous with any combustion (CO buildup). Keep controlled ventilation: a small low inlet and a high outlet. Minimum airflow with maximum insulation.
+
+
+WINDOWS
+
+Polyethylene film — the most accessible material:
+Stretch film across the frame from inside; tape the perimeter. Important: an air gap between film and glass adds insulation. Two film layers with a gap between them approach double glazing in performance. The first sheets are not the weak point — edge sealing is.
+
+Fabric and blankets on windows:
+Dense fabric or multiple layers in place of or over glass. Attach tightly on all sides — edge gaps kill the effect. At night a blanket over a window insulates better than bare glass. Remove by day for light and observation.
+
+Cardboard:
+Corrugated cardboard taped to glass reduces heat loss. Faster and easier than film. Downside: no light, gets wet when damp.
+
+Sealing frame gaps:
+Spray foam is ideal if available. Crumpled cloth, newspaper, or foam stuffed into frame gaps; tape on top secures and seals further.
+
+Broken panes:
+Cover with plywood, boards, or sheet metal — outside or inside. Add film for airtightness. In winter a broken window can drain all heat overnight.
+
+
+DOORS
+
+Gap under the door:
+A major draft source. A fabric sausage stuffed with rags, sand, or crumpled paper — press it against the threshold from inside. Rubber strip nailed to the door bottom if you have material.
+
+Gaps around the door frame:
+Foam, cloth, tape around the jamb. Spray foam into voids if available.
+
+Airlock in front of the door:
+Hang dense fabric (blanket) in the opening behind or in front of the door — creates an air buffer. A double barrier greatly cuts losses when the door opens. Ropes between walls + blankets = improvised airlock in ~10 minutes.
+
+Door hardening:
+Metal rod or wooden bar wedged under the handle into the floor — simplest bar. Two or three bars at different heights beat one lock. Wooden wedge under the bottom edge of the door.
+
+
+WALLS
+
+Newspaper and paper:
+Multiple layers of newsprint on walls — surprisingly effective. Air trapped between sheets slows heat loss. Cheap, usually available, easy to tape up.
+
+Foam boards / polystyrene:
+~5 cm boards provide serious insulation (rough R-value context: ~1.5 m²·K/W equivalent). Find at construction sites, stores, or appliance packaging. Tape, foam, or temporary anchors to walls. Especially effective on exterior-facing walls.
+
+Cardboard boxes:
+Split boxes into sheets; nail or tape to walls. Several layers of corrugated cardboard = noticeable insulation. Fast and available in any city.
+
+Fabrics and blankets on walls:
+Hang heavy cloth — especially on exterior walls. An air gap between fabric and wall boosts effect. Hang from the top so fabric drapes freely, not pressed flat to the wall.
+
+Glass wool / mineral wool:
+If found on a site — best thermal insulation. Wear gloves and a mask — fibers irritate skin and airways. Cover the exposed face with film or cardboard.
+
+
+FLOOR
+
+The floor is a major heat loss path, especially on the ground floor or over a basement.
+
+What to put on the floor (best to worst):
+— Carpets and rug layers
+— Foam boards
+— Multiple layers of cardboard
+— Boards (lift you off the cold slab)
+— Newspaper
+
+Never sleep directly on bare concrete or soil:
+Body heat drains into a cold floor faster than into air. Any underlay drastically cuts losses.
+
+Raised sleeping platform:
+Pallets, boards, any structure 20–30 cm off the floor. An air gap between you and the floor adds insulation plus fewer insects and less damp contact.
+
+
+CEILING
+
+Heat rises — the ceiling matters in tall rooms.
+
+Stretch film or fabric horizontally at ~2–2.2 m to create a “false ceiling.” Smaller air volume is easier to heat and hold warm. Tie to walls or existing structure.
+
+
+BUILDING A “WARM CORNER”
+
+If you cannot heat the whole room — focus on a small volume.
+
+Blanket “nest”:
+Frame from rope, sticks, or furniture. Cover top and sides with blankets, film, fabric. Sleep inside. Body heat warms the small space in ~15–20 min. One or two people can hold ~+15…+18 °C inside at ~0 °C outside without extra heat.
+
+Small interior room:
+Pick the smallest room with no exterior walls — insulate it and heat only that space. Do not try to heat an entire floor — wasted fuel and effort.
+
+
+CHECKING INSULATION QUALITY
+
+Finding drafts:
+Move a wet hand or candle near suspect spots — felt airflow means a leak. Candle flame flickers at gaps. Thin paper strip deflects in a draft.
+
+Fix order:
+1. Under-door gaps
+2. Window frame gaps
+3. Door frame gaps
+4. Pipe/utility penetrations in walls
+5. Windows themselves (glass or substitute)
+6. Exterior walls
+7. Ceiling

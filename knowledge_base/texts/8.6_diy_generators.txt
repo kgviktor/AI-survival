@@ -1,0 +1,70 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.6 DIY generators: principles and simple builds
+
+ELECTROMAGNETIC INDUCTION
+
+Moving conductor in magnetic field → EMF (Faraday).
+
+Parts:
+1. Prime mover (pedals, wind, water, engine).
+2. Magnets or field winding.
+3. Coils.
+
+Rotating field past stator coils → AC; diode bridge → DC.
+
+
+DC MOTOR AS GENERATOR
+
+Spin the shaft → voltage at terminals.
+
+Salvage motors from tools, printers, wipers, treadmills.
+Higher rated motor voltage often means higher generated V per RPM.
+
+Test: multimeter on motor terminals while spinning — any volts means it works.
+
+Simple bike rig:
+1. Bike on stand; roller on tire drives motor shaft.
+2. Motor → bridge rectifier → battery (with charge control!).
+3. Voltmeter watch; do not overcharge.
+
+Roller diameter vs wheel sets step-up — small roller on large wheel = fast motor RPM.
+
+
+WIND FROM CAR ALTERNATOR
+
+Alternator + blades + tower + yaw tail.
+Many alternators need rotor excitation (~12 V via lamp resistor to field) before self-sustaining.
+
+PVC pipe blades — balance equally; furling tail or brake shorts to stop in storms — safety first.
+
+Cut-in wind often ~3–5 m/s; useful ~5–10 m/s.
+
+
+WATER WHEEL
+
+Overshot most efficient (~70–85% theoretical); undershot simpler, lower η.
+
+Slow wheel (~5–30 RPM) → belt/pulley step-up to generator RPM (~500–1500+).
+
+
+PELTIER / THERMOELECTRIC
+
+Seebeck: ΔT across module → small DC.
+
+Hot side to stove/pipe; cold side heat sink + cooling.
+Watts per module small; fragile — no flex impact.
+
+Commercial camp stoves with TEG exist — phone trickle charge.
+
+
+GENERAL BUILD TIPS
+
+Bridge rectifier: 4 diodes — size for current (e.g. 1N540x ~3 A, higher for big builds).
+Filter cap ~1000–4700 µF on DC bus (polarity!).
+Buck/boost modules for 5 V USB or 12 V regulation.
+Charge disconnect ~14.4 V relay or proper controller on lead-acid.
+
+Safety:
+— Insulate all connections.
+— Anti-backfeed diode to battery when generator stops.
+— Fuse at battery +.

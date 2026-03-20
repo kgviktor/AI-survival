@@ -1,0 +1,77 @@
+====================================================
+         AI SURVIVAL — INSTALLATION
+====================================================
+
+REQUIREMENTS:
+- Windows 10/11 (64-bit)
+- Python 3.10+ (download: https://python.org)
+- 16 GB RAM
+- ~25 GB free disk space
+
+====================================================
+STEP 1: SETUP
+====================================================
+
+Open cmd in the project folder and run:
+
+    python -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements.txt
+
+====================================================
+STEP 2: DOWNLOAD LLAMA.CPP
+====================================================
+
+    python scripts\setup_llama_cpp.py
+
+====================================================
+STEP 3: DOWNLOAD MODELS
+====================================================
+
+List available models:
+
+    python scripts\download_models.py --list
+
+Download recommended (2.3 GB):
+
+    python scripts\download_models.py --model qwen3-4b
+
+Or larger / more capable (8.4 GB):
+
+    python scripts\download_models.py --model qwen3-14b
+
+Or for coding (4.4 GB):
+
+    python scripts\download_models.py --model qwen2.5-coder-7b
+
+====================================================
+STEP 4: RUN
+====================================================
+
+Qwen3.5-4B (newer, fast):
+
+    bin\llama-cli.exe -m models\Qwen3.5-4B-Q4_K_M.gguf -t 8 -cnv
+
+Qwen3-4B (fast):
+
+    bin\llama-cli.exe -m models\Qwen3-4B-Q4_K_M.gguf -t 8 -cnv
+
+Qwen3-14B (more capable):
+
+    bin\llama-cli.exe -m models\Qwen3-14B-Q4_K_M.gguf -t 8 -cnv
+
+Qwen2.5-Coder (code):
+
+    bin\llama-cli.exe -m models\qwen2.5-coder-7b-instruct-q4_k_m.gguf -t 8 -cnv
+
+====================================================
+CHAT COMMANDS
+====================================================
+
+/exit       - quit
+/clear      - clear history
+/no_think   - append to the end of your question to disable thinking (Qwen3 only; Qwen3.5 has thinking off by default, /think is not supported)
+
+====================================================
+DONE! Ask questions. Works fully offline.
+====================================================

@@ -1,0 +1,141 @@
+CHAPTER 5. MEDICINE AND FIRST AID
+5.4 Infectious illness: symptoms and care without a doctor
+
+FIELD DIAGNOSIS BASICS
+
+Without labs or X-ray, diagnosis is clinical: symptoms + timeline + context (food, water, contacts, travel). Treatment is often empirical — “most likely X, treat as X.”
+
+Key history questions:
+— Onset and progression?
+— Fever height?
+— Diarrhea, vomiting, cough, rash?
+— Food and water last 48 h?
+— Sick contacts?
+— Insect/animal bites?
+
+Red flags (aggressive care / evacuate if possible):
+— Fever >39.5°C in adult.
+— Altered consciousness.
+— Respiratory rate >30/min.
+— Pulse >120 or <50.
+— Very low urine output, dark urine.
+— Bleeding from unusual sites.
+— Rash with petechiae/purpura.
+
+
+GASTROINTESTINAL INFECTIONS
+
+Common when sanitation fails.
+
+Acute gastroenteritis / foodborne illness:
+Onset: vomiting ± diarrhea ~2–12 h after meal; fever often low.
+Causes: Staph (2–6 h), Salmonella (6–48 h), Campylobacter, E. coli, etc.
+Care:
+— Rehydration is #1 — small frequent sips.
+— Activated charcoal 1–2 g q3–4h (limited evidence, traditional use).
+— Loperamide if severe non-bloody diarrhea only.
+— If severe: ciprofloxacin 500 mg ×2/day ×3–5 days (resistance varies by region).
+— Rest, bland diet.
+
+Dysentery (bloody mucoid stool):
+— Bloody diarrhea + cramps, tenesmus, fever ~38–39°C.
+— Ciprofloxacin 500 mg ×2/day ×3–5 days + rehydration.
+— Do NOT use loperamide with bloody diarrhea.
+
+Cholera (sanitation collapse settings):
+— Profuse “rice-water” diarrhea, rapid dehydration.
+— Massive ORS volumes — may need many liters per day.
+— Doxycycline single 300 mg dose or 100 mg ×2/day ×3 days (local protocols vary).
+— Without fluids, mortality is high.
+
+Typhoid fever:
+— Stepwise rising fever to ~40°C over days, relative bradycardia sometimes, rose spots on abdomen, often constipation > diarrhea early.
+— Ciprofloxacin 500 mg ×2/day ×14 days or azithromycin per protocol (resistance patterns differ globally).
+
+Giardiasis:
+— Foul greasy chronic diarrhea, gas, bloating — bad water.
+— Metronidazole 500 mg ×3/day ×7 days.
+
+Amebiasis:
+— Chronic bloody diarrhea, RUQ pain (liver abscess risk).
+— Metronidazole 750 mg ×3/day ×10 days — then luminal agent in full care.
+
+
+RESPIRATORY INFECTIONS
+
+Common cold (URI):
+— Runny nose, sore throat, cough, low fever — usually viral.
+— Supportive: fluids, rest, acetaminophen if fever >38.5°C. No antibiotics for uncomplicated viral illness.
+
+Strep throat (bacterial):
+— Severe sore throat, exudate on tonsils, fever ~38.5–40°C, tender anterior neck nodes.
+— Amoxicillin 500 mg ×3/day ×10 days + analgesia.
+
+Pneumonia:
+— Productive cough (yellow/green/rust), fever >38.5°C, pleuritic pain, tachypnea >25/min.
+— Amoxicillin/clavulanate 875 mg ×2/day OR azithromycin 500 mg daily ×7–10 days (severity and local resistance guide choice).
+— Semi-sitting, analgesia if pleuritic pain.
+
+Bronchitis:
+— Cough with sputum, mild fever — usually viral.
+— Antibiotics only if severe or high-risk host.
+
+
+FEVER AND SYSTEMIC ILLNESS
+
+Malaria (endemic tropics):
+— Cyclic chills → high fever → sweats every ~48–72 h by species. Headache, myalgia, anemia.
+— Treatment depends on species and resistance — chloroquine only if known sensitive; artemisinin-based combinations where indicated.
+
+Sepsis pattern:
+— Fever >38°C or <36°C + HR >90 + RR >20/min + confusion. Source: wound, lung, gut.
+— Field (desperate): broad coverage e.g. cipro + metronidazole + amoxicillin/clavulanate is an example pattern — must match training and stock; fluids aggressively.
+
+Meningitis suspicion:
+— Severe headache + neck stiffness + photophobia + fever ± petechial rash (meningococcal).
+— Field: cipro + amoxicillin/clavulanate as desperate bridge — mortality high without hospital; isolate respiratory droplets.
+
+
+PARASITES AND VECTOR-BORNE
+
+Lyme disease (Borrelia — endemic regions):
+— Expanding erythema migrans rash, later systemic symptoms.
+— Doxycycline 100 mg ×2/day ×14–21 days (age/pregnancy restrictions apply).
+
+Tick-borne encephalitis (TBEV areas):
+— Biphasic: flu-like then neuro — supportive only; prevention is vaccine and tick avoidance.
+
+Trichinellosis:
+— Undercooked wild pig/bear meat — diarrhea then muscle pain, facial edema, fever.
+— Mebendazole 200–400 mg ×3/day ×3 days + steroids if severe — hospital preferred.
+
+Roundworm / pinworm:
+— Fecal-oral hygiene failure; perianal itch (pinworm).
+— Mebendazole 100 mg once, repeat in 2 weeks OR albendazole 400 mg once.
+
+
+EMPIRIC SCHEMA WHEN UNKNOWN
+
+GI symptoms (diarrhea, vomiting, abdominal pain):
+→ Rehydration + charcoal. If severe — cipro + metronidazole.
+
+Fever + sore throat/cough:
+→ Purulent strep pattern — amoxicillin.
+→ Pneumonia pattern — amoxicillin/clavulanate or azithromycin.
+→ Simple URI — supportive only.
+
+Fever + wound:
+→ Wound care + cipro + metronidazole.
+
+Fever + neuro signs:
+→ Meningitis suspicion — immediate antibiotics if no hospital + urgent evacuation.
+
+
+ISOLATION IN GROUPS
+
+For contagious diarrhea, rash, bleeding:
+— Separate sleep and eating utensils.
+— Hand hygiene after contact.
+— One designated caregiver when possible.
+— Sanitize toilet after use.
+— Boil bedding when feasible.

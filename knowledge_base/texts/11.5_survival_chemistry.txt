@@ -1,0 +1,129 @@
+CHAPTER 11. TOOLS AND REPAIR
+11.5 Survival chemistry: soap, candles, simple chemicals
+
+WHY BASIC CHEMISTRY
+
+Long crises exhaust soap, candles, disinfectants, glues, coatings. Knowing simple processes lets you replace some from feedstock.
+
+**Safety:** caustics and acids — gloves, eye protection, ventilation; **always add lye to water, never water to lye** (splash risk).
+
+
+SOAP (SAPONIFICATION)
+
+Principle: fat + strong base → soap + glycerol.
+
+Solid bar: **NaOH** (sodium hydroxide) + fat.
+Soft/liquid tendency: **KOH** (potassium hydroxide) — different chemistry, different product.
+
+Fats:
+— Lard, tallow, any cooking oil.
+
+NaOH:
+— Sold as drain cleaner in many places — **pure crystals only**, no additives — read label; laws vary.
+
+Example cold-process **starting point** (verify with saponification calculator for your exact fat):
+— ~500 g rendered pork fat.
+— ~70 g NaOH (example only — **calculate** for your fat).
+— ~150–170 ml water.
+
+**Excess NaOH = corrosive soap** — use a **lye calculator** online or print tables now.
+
+Saponification factors (approximate grams NaOH per 1 g fat):
+— Lard ~0.141
+— Sunflower oil ~0.134
+— Coconut oil ~0.190
+
+Process:
+1. **Slowly** dissolve NaOH in water; it heats — wait until ~40–45 °C.
+2. Melt fat to ~40–45 °C.
+3. Stream lye into fat while stirring.
+4. Stir to **trace** — pudding texture, drizzle leaves mark.
+5. Pour into lined mold; cover; insulate ~24 h.
+6. Cut; **cure 4–6 weeks** — uncured soap is caustic.
+
+Ash-lye soap (soft, variable):
+— Hardwood ash leachate (potassium carbonate solution) boiled long with fat — primitive soft soap.
+— **Egg float test** in strong lye — horizontal float sometimes used as crude concentration check — still inconsistent; expect weak or harsh batches.
+
+
+CANDLES
+
+Wax:
+— Stump candles, paraffin blocks, blended with stearic for hardness.
+
+Wick:
+— Braid ~16–18 strands cotton thread; pre-wax straight wick.
+
+Method:
+1. Double-boiler melt wax — **not** direct flame (fire risk).
+2. Dip or mold around centered wick (pencil across top).
+3. Pour ~80 °C into can / PVC / cup mold.
+4. Cool slowly; demold.
+
+~20–30% stearin in paraffin: harder, whiter, less soot.
+
+Tallow candles:
+— Animal fat alone is soft; add ~10–20% beeswax if available.
+
+
+BIRCH TAR
+
+Dry distillation of birch bark in closed tin with small drip hole → tar.
+
+Uses:
+— Leather waterproofing (test stain).
+— Traditional wood preservative and insect repellent.
+— **Medical claims unproven** — avoid deep wounds; vapors irritating.
+
+
+VINEGAR
+
+Alcohol + acetobacter + oxygen → acetic acid.
+
+Rough path:
+1. Fruit juice → ferment to wine (yeast, ~1–2 weeks).
+2. Open wide vessel, cloth cover, warm ~24–28 °C, ~4–8 weeks → ~4–6% vinegar for pickling/cleaning.
+
+
+DISINFECTANTS
+
+Bleach (5% sodium hypochlorite):
+— ~10 ml per liter water — surface wipe (fresh mix).
+— **Emergency water:** ~2 drops 5% bleach per liter, mix, wait ~30 min — only when no better option; turbid water needs pre-filter.
+
+Alcohol:
+— **~70% v/v** best for skin antiseptic; dilute stronger ethanol with clean water.
+
+Drugstore hydrogen peroxide:
+— Stock sparingly; hard to DIY at useful concentration.
+
+Walnut hull tea:
+— Unripe walnut / green hull soak — weak traditional antiseptic; not a substitute for modern care when available.
+
+
+GLUES AND RESINS
+
+Hide glue:
+— Long boil bones/skin → reduce to thick gel — hot apply, water-sensitive.
+
+Pine pitch glue:
+— Melt resin; mix ~10–20% wood ash; optional ~5–10% tallow — flexible pitch for hafting, seam fill.
+
+Starch paste:
+— ~2 Tbsp starch in ~250 ml water; heat stir to clear — paper/cloth temporary bond.
+
+
+POTASH FROM ASH
+
+Boil down strong lye from hardwood ash → crude potassium carbonate — soap making, garden K, historical glassmaking (not a home “glass factory” skill).
+
+
+SIMPLE TANNING (OVERVIEW)
+
+Oak-bark tan (long soak):
+— Flesh hide; soak; de-hair in lime or wood-ash soak (caustic — careful); rinse; months in strong tannin bark liquor; oil and work leather.
+
+Brain / “Indian” soft tan:
+— Emulsified brain worked into damp scraped hide; stretch-dry; smoke optional — soft buckskin-like result.
+
+**Zoonosis and chemical hazards** — use gloves; learn full procedure before relying on it.

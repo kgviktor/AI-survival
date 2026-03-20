@@ -1,0 +1,128 @@
+CHAPTER 8. ENERGY AND ELECTRONICS
+8.11 EMI/EMP: Faraday cage, what helps and what does not
+
+WHAT IS EMI / EMP
+
+Electromagnetic pulse — intense brief EM energy that can damage or destroy electronics.
+
+Sources:
+
+Nuclear HEMP (high-altitude detonation):
+— Burst ~30–400 km → wide-area pulse.
+— Components: E1 (nanoseconds — hard on microelectronics), E2 (microseconds — lightning-like), E3 (seconds/minutes — long lines and transformers).
+— E1 is the main threat to personal electronics.
+
+Geomagnetic storm (CME):
+— Solar event → charged particle streams.
+— Main risk: grid transformers and long conductors.
+— Less direct risk to handhelds if not plugged into mains.
+— Carrington-class event would stress modern grids severely.
+
+Non-nuclear EMP / RF weapons:
+— Local military/theoretical devices; smaller radius, similar local effects.
+
+Lightning:
+— Induces voltage in antennas and wiring.
+— Not “EMP” in the strict sense but similarly destructive.
+
+
+WHAT IS VULNERABLE
+
+High:
+— Smartphones, tablets (sub-micron silicon).
+— Laptops, PCs.
+— Modern vehicles (ECU, injection).
+— Chargers, inverters, charge controllers with ICs.
+— Radios.
+— Anything with connected wires (antenna, Ethernet) — acts as pickup.
+
+Medium:
+— Powered-off gear without long conductors at event time.
+— Batteries themselves — low risk; chargers — high.
+
+Low:
+— Simple electromechanics without microelectronics.
+— Older carbureted vehicles without engine electronics.
+— Mechanical watches.
+— Gear inside effective shielding.
+
+
+FARADAY CAGE
+
+Principle: closed conductive shell routes external fields around the interior, not through it.
+
+For E1-class threats aim for:
+— Continuous conductive enclosure.
+— Gaps smaller than ~0.5 mm for high-frequency content.
+— Contents insulated from touching metal walls.
+— No wires through the shield during the event.
+
+Practical DIY:
+
+Metal trash can with tight metal lid:
+— All-metal (not plastic); lid seats well.
+— Line inside with cardboard/wood so devices do not touch metal.
+— Test: phone inside, call it — no ring = useful attenuation.
+
+Aluminum equipment cases:
+— Metal cases with gasket; extra outer foil layers can help.
+
+Wood box lined inside with overlapping foil or fine copper mesh:
+— Overlap seams; tape conductive overlap; metal lid with perimeter contact.
+
+Emergency: multiple layers of heavy kitchen foil:
+— 3–5 offset layers; not perfect but meaningful attenuation.
+— Wrap, then cardboard/cloth so foil does not short device contacts.
+
+Small metal tins (cookies/tea):
+— For tiny items; lid must fit snugly.
+
+Vehicle body:
+— Partial shielding; gaps at glass/seals — better than nothing, worse than a sealed metal box.
+
+
+WHAT TO STORE SHIELDED
+
+Priority spares:
+— Extra phones; multiband receiver.
+— Battery chargers, spare solar controllers, DC-DC converters.
+— Multimeter; USB hubs/chargers.
+— Compact laptop/tablet backup.
+— Fuses, diodes, relays.
+
+Little point shielding:
+— Gear that will stay connected to grid/antenna during an event.
+— Purely mechanical tools (compass, mechanical watch).
+
+
+QUICK TESTS
+
+Cellular:
+— Phone in container, closed; call from another phone — unreachable = good sign of RF block.
+
+Wi-Fi:
+— Inside: no networks visible = stronger shielding.
+
+Improve lid seal:
+— Copper tape on rim; positive latches.
+
+
+REALISTIC THREAT PICTURE
+
+High-altitude nuclear EMP is a rare catastrophic scenario.
+
+More routine:
+— Geomagnetic events of varying strength (multiple times per year at solar max).
+— Local RF weapons theoretically in conflict.
+— Lightning and surges damage gear often without any “EMP.”
+
+Reasonable minimum (not paranoia):
+— Shielded storage for critical spares.
+— Antenna surge protection.
+— Stabilizers/UPS for daily use.
+— Spare fuses, diodes, controllers in the shielded box.
+
+Not required:
+— Shielding absolutely everything.
+— Keeping all daily-use devices in a cage 24/7.
+— Building elaborate metal rooms unless you have a specific requirement.

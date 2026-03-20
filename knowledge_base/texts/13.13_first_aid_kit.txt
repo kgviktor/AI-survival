@@ -1,0 +1,73 @@
+CHAPTER 13. GEAR AND EQUIPMENT
+13.13 Medical kits: levels, rotation, meds
+
+KIT LEVELS
+
+**Level 1 — On-body EDC:** stop bleeding and cover in first minutes.
+
+**Level 2 — Pack / team bag:** multi-day trauma + illness for small group.
+
+**Level 3 — Shelter / clinic stock:** volume refills and advanced items only if **trained**.
+
+
+LEVEL 1 — EDC
+
+— **Tourniquet** (validated design: CAT, SOFT-T-W, etc.) — apply high and tight; mark time; max ~2 h without medical direction unless life trade-off.
+— **Pressure bandage** (Israeli-style or combine pad + wrap).
+— **Hemostatic gauze** (packing) where legal and trained.
+— Burn gel dressing.
+— **Nitrile gloves** ×2.
+— **Permanent marker** — tourniquet time.
+
+
+LEVEL 2 — GROUP BAG
+
+Dressings: sterile gauze rolls; elastic wraps; silk/cloth tape rolls; assorted adhesive bandages; hydrocolloid blister pads.
+
+Tools: **trauma shears**; tweezers; tongue depressor; digital thermometer; small light; syringes 2/5/10 ml if you know use; irrigation syringe.
+
+Antiseptics: **chlorhexidine** wash; **povidone-iodine**; **70% alcohol** for tools; optional hydrogen peroxide **initial** rinse debate — don’t delay definitive care.
+
+Oral meds (examples — **match to your doctor’s advice and local law**):
+— **Ibuprofen** — pain/fever/inflammation.
+— **Acetaminophen/paracetamol** — pain/fever; gentler stomach for some.
+— Stronger NSAID only if prescribed.
+
+**Antibiotics** — legally prescription-only in many countries; stock **only with physician plan**. Common emergency-course ideas discussed in wilderness medicine texts include amoxicillin-clavulanate, azithromycin, ciprofloxacin — **wrong drug = harm**.
+
+GI: **oral rehydration salts**; activated charcoal for some ingestions (call poison control when possible); **loperamide** for temporary motion stop — not if invasive infection suspected.
+
+Allergy: **antihistamine** (cetirizine, loratadine).
+
+Cardiac risk members: **aspirin** chewable for suspected MI per protocol; **nitroglycerin** if prescribed; BP crisis meds **only** under medical plan.
+
+Wound closure: **Steri-Strips**; tissue adhesive; **suture kit** only with training; skin stapler with training.
+
+Topicals: antibiotic ointment; zinc paste diaper/rash; eye drops if indicated.
+
+**Training beats stuff** — take a stop-the-bleed and wilderness first aid course.
+
+
+LEVEL 3 — ADD-ONS
+
+Bulk duplicates; surgical instrument set; drains; large irrigation; IV fluids and giving sets — **advanced life support training** required.
+
+Controlled drugs (opioids, benzodiazepines) — legal and documentation strict; store with written indication sheets.
+
+
+ROTATION AND STORAGE
+
+**FIFO** stock; check **every 6 months**.
+
+**Expired tablets** — many retain partial potency years out; **exceptions:** **tetracycline-class degradation can be toxic — discard**; insulin; nitroglycerin; epinephrine — follow strict dates.
+
+Store cool, dark, dry; **not** bathroom humidity; keep **inserts** with drugs.
+
+
+GROUP MED CARD
+
+Per person: allergies; chronic conditions; daily meds; blood type if known; **last tetanus** date.
+
+Copy in kit and secure digital/remote copy if possible.
+
+**This file is not medical advice** — build kits with your clinician.

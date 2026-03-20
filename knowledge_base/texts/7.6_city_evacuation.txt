@@ -1,0 +1,131 @@
+CHAPTER 7. NAVIGATION AND MOVEMENT
+7.6 City evacuation: route planning
+
+EVACUATION TYPES
+
+Planned (days of warning):
+— Gradual threat — time to pack, choose route, coordinate.
+— Most controllable.
+
+Urgent (hours):
+— Sudden combat, fire, chemical alert.
+— Grab go-bag; priority: documents, water, warmth, meds.
+
+Immediate (minutes):
+— Direct lethal threat now.
+— What is on you + bag by door — go.
+
+Prepare in advance:
+— Go-bag packed by exit.
+— Routes walked/driven in peacetime.
+— Rally points if separated.
+— Documents in one known place.
+
+
+PRE-PLAN ROUTES ON THE MAP
+
+1. Primary highway exits from city.
+2. Secondary arterials and collector roads.
+3. Dirt tracks, cuts, forest roads (OSM and local maps).
+4. Bridges — memorize locations and alternates (fords, other bridges).
+5. Rivers/canals — crossing points without bridges.
+6. Underground utilities — last resort, often illegal and extremely hazardous.
+
+Three ready routes:
+— A: fastest main roads.
+— B: secondary street bypass.
+— C: foot route through yards/alley mesh if roads blocked.
+
+Rehearse:
+— Drive or walk once; note landmarks, chokepoints, detours.
+— Save offline maps/prints.
+
+
+ROUTE CHECK BEFORE YOU STEP OUT
+
+Chokepoints (easy to block):
+— Bridges, tunnels, one-lane gaps between buildings, ramp metering to highways.
+
+If blocked:
+— Know 2–3 alternate crossings per water barrier.
+— Foot detour or direction change.
+
+Intel:
+— High-ground watch over route.
+— Talk to recent arrivals from that vector.
+— Radio/news if any.
+— Gunfire, smoke, crowd flow direction.
+
+
+MOVING THROUGH THE CITY DURING EVAC
+
+On foot:
+— Alleys and yards vs main boulevards early in crisis.
+— Walk along building walls, not mid-street.
+— Fast across intersections after peeking.
+— Avoid open plazas/parks early — exposure and overwatch.
+
+By vehicle:
+— Main highways often jam first ~24–48 h.
+— Secondary roads preferred.
+— If stuck, do not block middle — edge the convoy.
+— Leave with full tank when possible.
+
+Combo:
+— Drive to urban edge, then foot — carries more gear until roads die.
+
+Timing:
+— Very early (~03:00–05:00): low activity, thinner traffic.
+— Or late evening for darkness cover.
+— Avoid mid-morning crush when everyone tries to leave at once.
+
+
+GROUP COORDINATION
+
+Rally points:
+— A: near home (porch, adjacent block).
+— B: district edge (park, major corner).
+— C: city exit landmark.
+— Wait windows ~30–60 min each, then proceed to next if missing persons not located safely.
+
+If split:
+— Next rally point — do not solo back into danger for gear unless calculated.
+
+Limited mobility:
+— Preassign who assists whom; plan step-free paths for wheels.
+— Elderly: slower pace, more breaks.
+— Toddlers: carry systems (carrier) — they cannot match adult distance.
+
+Pets:
+— Carriers/leashes; dogs may bark — stealth tradeoff.
+
+
+STASHES AND LAYOVERS
+
+Long routes (~50+ km+):
+— Prearranged rest stops (friend’s cottage, known building).
+— Small caches ~20–30 km apart: water, food — everyone knows locations.
+
+Rest discipline:
+— Concealed rest site; security watch.
+— Fire only if safe — smoke signature.
+— Short sleep blocks first 24 h if forced march.
+
+“Do not camp on the prize”:
+— Obvious resources (bridgehead, store, station) attract others — pass ~1–2 km beyond before sleep.
+
+
+AFTER LEAVING THE CITY
+
+First-night mistakes:
+— Stopping ~5–10 km out — still in scavenger range.
+— Obvious bivouac sites.
+— No recovery sleep — bad decisions next day.
+
+Minimum distance first camp (when urban violence is driver):
+— Often cited ~15–25 km — ~4–6 h foot for fit adult — adjust to threat.
+
+“Far enough” signs:
+— City noise gone.
+— Empty route.
+— Structures not freshly looted along path.
