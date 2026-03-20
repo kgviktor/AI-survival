@@ -2,17 +2,19 @@
 
 ## What this project is
 
-**AI Survival** is a **fully local** setup: you run open-weight models on your own PC (via llama.cpp) and talk to them **without the internet** after models and binaries are in place. Nothing is sent to external APIs—your prompts and (if you use RAG) your knowledge files stay on your machine.
+**AI Survival** is a **fully local** setup: you run open-weight models on your own PC (via **llama.cpp** / `llama-server`) and use them **without the internet** once binaries and model files are installed. **Nothing is sent to external APIs** — prompts and (with RAG) your knowledge texts stay on your machine.
 
-**What you get in practice:**
+There are **three separate ways to use the repo** (pick one for a session; they do not all run at once):
 
-1. **Survival-oriented Q&A** — The stack is tuned for preparedness, outdoors, medical first-aid context, logistics, gear, and similar topics. You can chat in the terminal (`run.bat`) or wire the same server into **VS Code** with the Continue extension for coding help on the same models.
+1. **Simple terminal chat** — `run.bat` starts **one** `llama-server` with the chat model you choose. Plain Q&A in the console; **no** knowledge base, **no** Python. Good for quick survival-oriented talk (preparedness, outdoors, first aid, gear, etc.).
 
-2. **Optional RAG over your knowledge base** — Under `knowledge_base/texts/` you keep plain `.txt` articles (the bundled corpus is a large survival handbook split into files). A script builds a **FAISS** index from embeddings; `ask.py` then retrieves relevant chunks and injects them into the prompt so answers can **cite your own material**, not just the model’s weights. Add or edit `.txt` files, rebuild the index, and the assistant’s “bookshelf” updates.
+2. **Terminal chat + RAG** — You run **two** `llama-server` processes: a **small embedding model** (port 8081) builds/searches vectors, and your **chat model** (8080) answers. `build_embeddings.py` + `ask.py` (Python) chunk the texts under `knowledge_base/texts/`, build a **FAISS** index, retrieve relevant passages, and **inject them into the prompt** so replies can lean on **your handbook**, not only the model weights. Edit `.txt` → rebuild the index → the “bookshelf” updates.
 
-3. **One repo, two “brains”** — *Chat* uses the LLM alone. *RAG mode* runs a **second** small model for embeddings plus the chat model, so answers can combine general reasoning with passages from your indexed texts.
+3. **VS Code (Continue)** — You point the **Continue** extension at a **single** `llama-server` with a model you pick (often a **code** model). That is **IDE assistance**, not the RAG `ask.py` pipeline. Setup: `vs_extension/SETUP.md`.
 
-**Quick orientation:** detailed commands → `CHEATSHEET.txt`.
+**RAG is not “smarter one brain”** — it is **chat model + retrieval**: the embed server only turns text into vectors; the chat model still does all the wording.
+
+**Quick commands:** → `CHEATSHEET.txt`.
 
 ---
 
@@ -22,13 +24,13 @@ AI answers **do not replace** a doctor, instructor, or emergency services. In da
 
 ---
 
-## Three modes
+## Three modes (summary)
 
-| Mode | What to run | Python |
-|------|-------------|--------|
-| Simple chat | `run.bat qwen3.5-4b` | No |
-| RAG (knowledge base) | `start_server.bat rag` → `build_embeddings.py` → `ask.py` | Yes |
-| Code in VS Code | `vs_extension/SETUP.md` | — |
+| # | Mode | What to run | Python |
+|---|------|-------------|--------|
+| 1 | Simple chat | `run.bat qwen3.5-4b` (one server) | No |
+| 2 | Chat + RAG | `start_server.bat rag` → `build_embeddings.py` → `ask.py` (two servers) | Yes |
+| 3 | VS Code | `start_server.bat …` + Continue per `vs_extension/SETUP.md` (one server for IDE) | — |
 
 **RAG step-by-step:** see `CHEATSHEET.txt` (servers, index, questions, updating the base).
 
@@ -49,7 +51,7 @@ start_server.bat rag
 AI_survival/
 ├── bin/                 # llama-server, llama-cli
 ├── models/              # GGUF
-├── knowledge_base/texts # .txt sources for RAG (article bodies may be non-English)
+├── knowledge_base/texts # .txt sources for RAG (bundled survival handbook, etc.)
 ├── knowledge_base/index # FAISS (local, not in git — see .gitignore)
 ├── scripts/             # build_embeddings.py, ask.py, download_models.py
 ├── config.yaml          # RAG ports, chunks, system prompt
