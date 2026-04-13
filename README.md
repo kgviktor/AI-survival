@@ -87,7 +87,3 @@ Default embed model: `Qwen3-Embedding-0.6B` (1024 dims).
 The repo has **no hardcoded paths to your disk**: scripts resolve from the **project root** (`Path(__file__).parent.parent` in Python; for `.bat`, run from the folder that contains `run.bat`).
 
 After `git clone` on another PC: add `bin/`, `models/*.gguf`, create a venv (`python -m venv .venv`, `pip install -r requirements.txt`), build the index with `build_embeddings.py`. `.venv` is not in git — absolute paths inside it stay **local**, which is expected.
-
-## License
-
-MIT
